@@ -1,2 +1,4 @@
-# Frosty-Friday
-My  set of solutions to the weekly Frosty Friday set of Snowflake challenges
+
+# Frosty Friday
+
+This is my repository of solutions for the weekly [Frosty Friday](https://frostyfriday.org/) set of Snowflake challenges.
