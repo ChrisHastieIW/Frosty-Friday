@@ -15,7 +15,7 @@ create or replace schema WEEK_3;
 use schema WEEK_3;
 
 -------------------------------
--- Create internal stage
+-- Create stage
 
 create or replace stage STG_WEEK_3
   URL = 's3://frostyfridaychallenges/challenge_3/'
