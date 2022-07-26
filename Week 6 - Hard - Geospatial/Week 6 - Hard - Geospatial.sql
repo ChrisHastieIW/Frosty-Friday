@@ -24,7 +24,7 @@ create or replace stage STG_WEEK_6
 list @STG_WEEK_6;
 
 -- This is empty to start, so we
--- need to upload our Spanish_Monarchs.json
+-- need to upload our two input
 -- file into this stage. This is achieved
 -- with the following commands in a local
 -- SnowSQL console:
