@@ -32,6 +32,8 @@ cd path/to/frosty_friday_repo
 python -m streamlit run "Week 8 - Basic - Streamlit\week_8__basic__streamlit.py"
 ```
 
+## Final Output
+
 The final output when running Streamlit looks like this:
 
 ![Streamlit Output](./images/streamlit_output.png)
