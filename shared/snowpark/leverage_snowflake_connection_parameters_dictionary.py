@@ -86,10 +86,10 @@ def retrieve_snowflake_connection_parameters_from_imported_snowflake_connection_
       ### Remove password if this was provided as well
       snowflake_connection_parameters.pop("password", None)
     ### Otherwise error if password was not provided
-    elif snowflake_connection_parameters["password"] == None :
+    elif "password" not in snowflake_connection_parameters.keys() :
       raise ValueError('Either private_key_path or password must be provided in JSON file')
   ### Otherwise error if password was not provided
-  elif snowflake_connection_parameters["password"] == None :
+  elif "password" not in snowflake_connection_parameters.keys() :
     raise ValueError('Either private_key_path or password must be provided in JSON file')
 
   return snowflake_connection_parameters
