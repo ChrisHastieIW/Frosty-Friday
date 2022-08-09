@@ -11,7 +11,7 @@ from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives import serialization
 
 def encode_private_key_passphrase(
-  private_key_passphrase: str = None
+    private_key_passphrase: str = None
   ):
 
   ### Ingest private key passphrase if provided
@@ -23,8 +23,8 @@ def encode_private_key_passphrase(
   return private_key_passphrase_encoded
 
 def parse_private_key_from_bytes(
-  private_key_encoded: bytes, 
-  private_key_passphrase_encoded: bytes = None
+      private_key_encoded: bytes
+    , private_key_passphrase_encoded: bytes = None
   ):
   
   ### Retrieve private key from path, leveraging passphrase if needed
@@ -38,7 +38,7 @@ def parse_private_key_from_bytes(
 
 ## Define function to serialize an loaded private key
 def serialize_loaded_private_key(
-  private_key_loaded: bytes
+    private_key_loaded: bytes
   ):
 
   ### Encrypt private key
@@ -50,10 +50,31 @@ def serialize_loaded_private_key(
 
   return private_key_serialized
 
-def serialize_encoded_private_key(
-  private_key_encoded: bytes, 
-  private_key_passphrase: str = None
+## Define function to serialize an loaded private key
+def decode_loaded_private_key(
+    private_key_loaded: bytes
   ):
+
+  ### Encrypt private key
+  private_key_decoded = private_key_loaded.private_bytes(
+      encoding = serialization.Encoding.PEM
+    , format = serialization.PrivateFormat.PKCS8
+    , encryption_algorithm = serialization.NoEncryption()
+  ).decode('utf-8')
+
+  return private_key_decoded
+
+def serialize_encoded_private_key(
+      private_key_encoded: bytes
+    , private_key_passphrase: str = None
+    , private_key_output_format: str = 'snowpark'
+  ):
+
+  '''
+  private_key_output_format options are:
+  - Snowpark : Intended for creating Snowpark sessions
+  - Snowpipe : Intended for creating Snowpipe SimpleIngestManager objects
+  '''
 
   ### Encode private key passphrase if provided
   private_key_passphrase_encoded = encode_private_key_passphrase(private_key_passphrase)
@@ -62,18 +83,29 @@ def serialize_encoded_private_key(
   private_key_loaded = parse_private_key_from_bytes(private_key_encoded, private_key_passphrase_encoded)
 
   ### Encrypt private key
-  private_key_serialized = serialize_loaded_private_key(private_key_loaded)
-
-  return private_key_serialized
+  if private_key_output_format == 'snowpipe' :
+    private_key_decoded = decode_loaded_private_key(private_key_loaded)
+    return private_key_decoded
+  else :
+    private_key_serialized = serialize_loaded_private_key(private_key_loaded)
+    return private_key_serialized
   
 def serialize_private_key_from_path(
-  private_key_path: str = None, 
-  private_key_passphrase: str = None
+      private_key_path: str = None
+    , private_key_passphrase: str = None
+    , private_key_output_format: str = 'snowpark'
   ):
+
+  '''
+  private_key_output_format options are:
+  - Snowpark : Intended for creating Snowpark sessions
+  - Snowpipe : Intended for creating Snowpipe SimpleIngestManager objects
+  '''
   
   ### Retrieve private key from path, leveraging passphrase if needed
   with open(private_key_path, "rb") as private_key_encoded_io:
     private_key_encoded = private_key_encoded_io.read()
-    private_key_serialized = serialize_encoded_private_key(private_key_encoded, private_key_passphrase)
+  
+  private_key_serialized = serialize_encoded_private_key(private_key_encoded, private_key_passphrase, private_key_output_format)
 
   return private_key_serialized
