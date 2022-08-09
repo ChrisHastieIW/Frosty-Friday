@@ -16,8 +16,9 @@ def encode_private_key_passphrase(
 
   ### Ingest private key passphrase if provided
   private_key_passphrase_encoded = None
-  if len(private_key_passphrase) > 0 and private_key_passphrase != 'None' :
-    private_key_passphrase_encoded = private_key_passphrase.encode()
+  if private_key_passphrase is not None :
+    if len(private_key_passphrase) > 0 and private_key_passphrase != "None" :
+      private_key_passphrase_encoded = private_key_passphrase.encode()
 
   return private_key_passphrase_encoded
 
