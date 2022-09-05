@@ -32,10 +32,10 @@ cd path/to/frosty_friday_repo
 python -m streamlit run "Week 08 - Basic - Streamlit\week_08__basic__streamlit.py"
 ```
 
+Further details on leveraging Snowpark can be found in the README.md file within the shared/snowpark subdirectory of this repository.
+
 ## Final Output
 
 The final output when running Streamlit looks like this:
 
 ![Streamlit Output](./images/streamlit_output.png)
-
-Further details on leveraging Snowpark can be found in the README.md file within the shared/snowpark subdirectory of this repository.
