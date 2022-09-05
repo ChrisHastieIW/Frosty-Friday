@@ -29,7 +29,7 @@ Activate the environment and execute our Streamlit code:
 ```PS
 activate py38_snowpark_streamlit
 cd path/to/frosty_friday_repo
-python -m streamlit run "Week 8 - Basic - Streamlit\week_8__basic__streamlit.py"
+python -m streamlit run "Week 08 - Basic - Streamlit\week_08__basic__streamlit.py"
 ```
 
 ## Final Output
