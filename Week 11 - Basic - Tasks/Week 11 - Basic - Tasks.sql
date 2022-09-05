@@ -1,6 +1,6 @@
 
 -- Frosty Friday Challenge
--- Week 11 - Easy - Tasks
+-- Week 11 - Basic - Tasks
 -- https://frostyfriday.org/2022/08/26/week-11-basic/
 
 -------------------------------
