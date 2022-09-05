@@ -1,0 +1,2605 @@
+country_name,country_code,year,gov_expenditure_pct_gdp
+Uruguay,URY,1960,8.27586206896552
+Uruguay,URY,1961,10.2272727272727
+Uruguay,URY,1962,13.4020618556701
+Uruguay,URY,1963,12.8755364806867
+Uruguay,URY,1964,13.4328358208955
+Uruguay,URY,1965,13.8433515482696
+Uruguay,URY,1966,13.2307692307692
+Uruguay,URY,1967,14.1323792486583
+Uruguay,URY,1968,13.1799729364005
+Uruguay,URY,1969,15.0472741903038
+Uruguay,URY,1970,16.6792452830189
+Uruguay,URY,1971,16.834243033611
+Uruguay,URY,1972,13.0786439511272
+Uruguay,URY,1973,10.7121836374338
+Uruguay,URY,1974,15.0387320808477
+Uruguay,URY,1975,14.0146631272911
+Uruguay,URY,1976,14.3970670806223
+Uruguay,URY,1977,12.735688694788
+Uruguay,URY,1978,12.835025578085
+Uruguay,URY,1979,11.9825541629285
+Uruguay,URY,1980,12.4528220033838
+Uruguay,URY,1981,14.443093385214
+Uruguay,URY,1982,15.7043238775464
+Uruguay,URY,1983,14.5306308617692
+Uruguay,URY,1984,13.5933396287662
+Uruguay,URY,1985,14.4470535147241
+Uruguay,URY,1986,14.3282770826853
+Uruguay,URY,1987,13.2243616132581
+Uruguay,URY,1988,12.1772281635843
+Uruguay,URY,1989,12.3424030601529
+Uruguay,URY,1990,12.0973181409105
+Uruguay,URY,1991,11.9618423259359
+Uruguay,URY,1992,11.5840772004318
+Uruguay,URY,1993,12.1754488074226
+Uruguay,URY,1994,11.8714549164165
+Uruguay,URY,1995,11.8392008061517
+Uruguay,URY,1996,12.81098519885
+Uruguay,URY,1997,11.0416263605056
+Uruguay,URY,1998,10.8980410118412
+Uruguay,URY,1999,12.1913473805262
+Uruguay,URY,2000,12.3560487504224
+Uruguay,URY,2001,12.4920421206891
+Uruguay,URY,2002,12.3477943480481
+Uruguay,URY,2003,11.9890885893952
+Uruguay,URY,2004,11.0050185738234
+Uruguay,URY,2005,10.9354580037111
+Uruguay,URY,2006,11.2852638569674
+Uruguay,URY,2007,11.4801831813172
+Uruguay,URY,2008,12.2130864959694
+Uruguay,URY,2009,12.943794070941
+Uruguay,URY,2010,12.6458959551473
+Uruguay,URY,2011,12.7604586435252
+Uruguay,URY,2012,13.273834492932
+Uruguay,URY,2013,13.5224297778784
+Uruguay,URY,2014,13.6963930067006
+Uruguay,URY,2015,13.8358099949437
+Uruguay,URY,2016,
+Uruguay,URY,2017,
+Uruguay,URY,2018,
+Uruguay,URY,2019,
+Uruguay,URY,2020,
+Uruguay,URY,2021,
+Suriname,SUR,1960,
+Suriname,SUR,1961,
+Suriname,SUR,1962,
+Suriname,SUR,1963,
+Suriname,SUR,1964,
+Suriname,SUR,1965,
+Suriname,SUR,1966,
+Suriname,SUR,1967,
+Suriname,SUR,1968,
+Suriname,SUR,1969,
+Suriname,SUR,1970,
+Suriname,SUR,1971,
+Suriname,SUR,1972,
+Suriname,SUR,1973,
+Suriname,SUR,1974,
+Suriname,SUR,1975,
+Suriname,SUR,1976,
+Suriname,SUR,1977,
+Suriname,SUR,1978,
+Suriname,SUR,1979,
+Suriname,SUR,1980,
+Suriname,SUR,1981,
+Suriname,SUR,1982,
+Suriname,SUR,1983,
+Suriname,SUR,1984,
+Suriname,SUR,1985,
+Suriname,SUR,1986,
+Suriname,SUR,1987,
+Suriname,SUR,1988,
+Suriname,SUR,1989,
+Suriname,SUR,1990,
+Suriname,SUR,1991,
+Suriname,SUR,1992,
+Suriname,SUR,1993,
+Suriname,SUR,1994,
+Suriname,SUR,1995,
+Suriname,SUR,1996,
+Suriname,SUR,1997,
+Suriname,SUR,1998,
+Suriname,SUR,1999,
+Suriname,SUR,2000,
+Suriname,SUR,2001,
+Suriname,SUR,2002,
+Suriname,SUR,2003,
+Suriname,SUR,2004,
+Suriname,SUR,2005,
+Suriname,SUR,2006,12.6699972245351
+Suriname,SUR,2007,10.1228135467064
+Suriname,SUR,2008,10.8991544648381
+Suriname,SUR,2009,13.1791690167325
+Suriname,SUR,2010,13.3244392562328
+Suriname,SUR,2011,
+Suriname,SUR,2012,
+Suriname,SUR,2013,
+Suriname,SUR,2014,
+Suriname,SUR,2015,
+Suriname,SUR,2016,
+Suriname,SUR,2017,
+Suriname,SUR,2018,
+Suriname,SUR,2019,
+Suriname,SUR,2020,
+Suriname,SUR,2021,
+"Venezuela, RB",VEN,1960,13.4665575941724
+"Venezuela, RB",VEN,1961,11.3513913558319
+"Venezuela, RB",VEN,1962,11.2802709568163
+"Venezuela, RB",VEN,1963,12.053998632946
+"Venezuela, RB",VEN,1964,11.1316889749418
+"Venezuela, RB",VEN,1965,11.4821357943309
+"Venezuela, RB",VEN,1966,11.9994432634882
+"Venezuela, RB",VEN,1967,12.0888888888889
+"Venezuela, RB",VEN,1968,12.21525855387
+"Venezuela, RB",VEN,1969,12.7539269278137
+"Venezuela, RB",VEN,1970,12.276213358962
+"Venezuela, RB",VEN,1971,13.2094293064525
+"Venezuela, RB",VEN,1972,13.3740366166954
+"Venezuela, RB",VEN,1973,12.6818014279279
+"Venezuela, RB",VEN,1974,11.0362278810343
+"Venezuela, RB",VEN,1975,13.0283324019035
+"Venezuela, RB",VEN,1976,14.181815490289
+"Venezuela, RB",VEN,1977,14.2941184026306
+"Venezuela, RB",VEN,1978,13.7946882763516
+"Venezuela, RB",VEN,1979,12.9498837472381
+"Venezuela, RB",VEN,1980,13.3618278448944
+"Venezuela, RB",VEN,1981,14.4538371995175
+"Venezuela, RB",VEN,1982,14.1531167172501
+"Venezuela, RB",VEN,1983,13.7578659653278
+"Venezuela, RB",VEN,1984,9.97721819116723
+"Venezuela, RB",VEN,1985,10.1085120529499
+"Venezuela, RB",VEN,1986,10.8232073789996
+"Venezuela, RB",VEN,1987,9.8816807649396
+"Venezuela, RB",VEN,1988,10.188461243377
+"Venezuela, RB",VEN,1989,9.2498482150956
+"Venezuela, RB",VEN,1990,8.14378432307665
+"Venezuela, RB",VEN,1991,9.3412492938253
+"Venezuela, RB",VEN,1992,8.88702676496551
+"Venezuela, RB",VEN,1993,8.26862890667472
+"Venezuela, RB",VEN,1994,6.99398697801035
+"Venezuela, RB",VEN,1995,6.89278929824928
+"Venezuela, RB",VEN,1996,4.85079327917191
+"Venezuela, RB",VEN,1997,13.5321926576284
+"Venezuela, RB",VEN,1998,13.4677152827186
+"Venezuela, RB",VEN,1999,12.3169723951295
+"Venezuela, RB",VEN,2000,12.449784505042
+"Venezuela, RB",VEN,2001,14.2372389072529
+"Venezuela, RB",VEN,2002,13.0073547920911
+"Venezuela, RB",VEN,2003,12.8707769572649
+"Venezuela, RB",VEN,2004,11.9559161739061
+"Venezuela, RB",VEN,2005,11.0559042160378
+"Venezuela, RB",VEN,2006,11.7106781208584
+"Venezuela, RB",VEN,2007,12.4710694856514
+"Venezuela, RB",VEN,2008,11.8580025862905
+"Venezuela, RB",VEN,2009,13.7002994343477
+"Venezuela, RB",VEN,2010,11.2095388384583
+"Venezuela, RB",VEN,2011,11.5177950119703
+"Venezuela, RB",VEN,2012,12.1919582234396
+"Venezuela, RB",VEN,2013,12.3888210050297
+"Venezuela, RB",VEN,2014,14.603353775764
+"Venezuela, RB",VEN,2015,
+"Venezuela, RB",VEN,2016,
+"Venezuela, RB",VEN,2017,
+"Venezuela, RB",VEN,2018,
+"Venezuela, RB",VEN,2019,
+"Venezuela, RB",VEN,2020,
+"Venezuela, RB",VEN,2021,
+Turks and Caicos Islands,TCA,1960,
+Turks and Caicos Islands,TCA,1961,
+Turks and Caicos Islands,TCA,1962,
+Turks and Caicos Islands,TCA,1963,
+Turks and Caicos Islands,TCA,1964,
+Turks and Caicos Islands,TCA,1965,
+Turks and Caicos Islands,TCA,1966,
+Turks and Caicos Islands,TCA,1967,
+Turks and Caicos Islands,TCA,1968,
+Turks and Caicos Islands,TCA,1969,
+Turks and Caicos Islands,TCA,1970,
+Turks and Caicos Islands,TCA,1971,
+Turks and Caicos Islands,TCA,1972,
+Turks and Caicos Islands,TCA,1973,
+Turks and Caicos Islands,TCA,1974,
+Turks and Caicos Islands,TCA,1975,
+Turks and Caicos Islands,TCA,1976,
+Turks and Caicos Islands,TCA,1977,
+Turks and Caicos Islands,TCA,1978,
+Turks and Caicos Islands,TCA,1979,
+Turks and Caicos Islands,TCA,1980,
+Turks and Caicos Islands,TCA,1981,
+Turks and Caicos Islands,TCA,1982,
+Turks and Caicos Islands,TCA,1983,
+Turks and Caicos Islands,TCA,1984,
+Turks and Caicos Islands,TCA,1985,
+Turks and Caicos Islands,TCA,1986,
+Turks and Caicos Islands,TCA,1987,
+Turks and Caicos Islands,TCA,1988,
+Turks and Caicos Islands,TCA,1989,
+Turks and Caicos Islands,TCA,1990,
+Turks and Caicos Islands,TCA,1991,
+Turks and Caicos Islands,TCA,1992,
+Turks and Caicos Islands,TCA,1993,
+Turks and Caicos Islands,TCA,1994,
+Turks and Caicos Islands,TCA,1995,
+Turks and Caicos Islands,TCA,1996,
+Turks and Caicos Islands,TCA,1997,
+Turks and Caicos Islands,TCA,1998,
+Turks and Caicos Islands,TCA,1999,
+Turks and Caicos Islands,TCA,2000,
+Turks and Caicos Islands,TCA,2001,
+Turks and Caicos Islands,TCA,2002,
+Turks and Caicos Islands,TCA,2003,
+Turks and Caicos Islands,TCA,2004,
+Turks and Caicos Islands,TCA,2005,
+Turks and Caicos Islands,TCA,2006,
+Turks and Caicos Islands,TCA,2007,
+Turks and Caicos Islands,TCA,2008,
+Turks and Caicos Islands,TCA,2009,
+Turks and Caicos Islands,TCA,2010,
+Turks and Caicos Islands,TCA,2011,
+Turks and Caicos Islands,TCA,2012,
+Turks and Caicos Islands,TCA,2013,
+Turks and Caicos Islands,TCA,2014,
+Turks and Caicos Islands,TCA,2015,
+Turks and Caicos Islands,TCA,2016,
+Turks and Caicos Islands,TCA,2017,
+Turks and Caicos Islands,TCA,2018,
+Turks and Caicos Islands,TCA,2019,
+Turks and Caicos Islands,TCA,2020,
+Turks and Caicos Islands,TCA,2021,
+Dominican Republic,DOM,1960,13.3105353854263
+Dominican Republic,DOM,1961,13.270138122569
+Dominican Republic,DOM,1962,15.3015410751122
+Dominican Republic,DOM,1963,16.1352057966843
+Dominican Republic,DOM,1964,15.6103759370491
+Dominican Republic,DOM,1965,18.8830086701948
+Dominican Republic,DOM,1966,15.0116881796931
+Dominican Republic,DOM,1967,13.113645148821
+Dominican Republic,DOM,1968,13.4093225836345
+Dominican Republic,DOM,1969,12.6859000406339
+Dominican Republic,DOM,1970,11.5779266240323
+Dominican Republic,DOM,1971,10.1455625562556
+Dominican Republic,DOM,1972,8.94136057160109
+Dominican Republic,DOM,1973,8.2568065506653
+Dominican Republic,DOM,1974,9.96389240181837
+Dominican Republic,DOM,1975,6.1700544565459
+Dominican Republic,DOM,1976,3.84434265468809
+Dominican Republic,DOM,1977,4.12782803950208
+Dominican Republic,DOM,1978,5.72719880027036
+Dominican Republic,DOM,1979,7.63041208991053
+Dominican Republic,DOM,1980,7.45418780412051
+Dominican Republic,DOM,1981,9.16509065901366
+Dominican Republic,DOM,1982,9.42738950576965
+Dominican Republic,DOM,1983,8.52764462182504
+Dominican Republic,DOM,1984,7.51038468173193
+Dominican Republic,DOM,1985,7.0826274694621
+Dominican Republic,DOM,1986,7.29611320139252
+Dominican Republic,DOM,1987,4.00787194915103
+Dominican Republic,DOM,1988,3.54233299340954
+Dominican Republic,DOM,1989,2.9319371122591
+Dominican Republic,DOM,1990,2.92604455481045
+Dominican Republic,DOM,1991,3.21565251894247
+Dominican Republic,DOM,1992,3.84325117975448
+Dominican Republic,DOM,1993,4.48306780199719
+Dominican Republic,DOM,1994,4.89772671474673
+Dominican Republic,DOM,1995,4.83759418858443
+Dominican Republic,DOM,1996,5.18260695477951
+Dominican Republic,DOM,1997,7.07105161955105
+Dominican Republic,DOM,1998,7.32181826197706
+Dominican Republic,DOM,1999,7.8840553416465
+Dominican Republic,DOM,2000,8.72035116834374
+Dominican Republic,DOM,2001,9.5302089730322
+Dominican Republic,DOM,2002,9.97161491189806
+Dominican Republic,DOM,2003,8.63688299618643
+Dominican Republic,DOM,2004,7.58809384193007
+Dominican Republic,DOM,2005,8.08939077915312
+Dominican Republic,DOM,2006,8.78702467164024
+Dominican Republic,DOM,2007,9.17706784303049
+Dominican Republic,DOM,2008,10.0566202626498
+Dominican Republic,DOM,2009,10.7055663766325
+Dominican Republic,DOM,2010,9.92711136577918
+Dominican Republic,DOM,2011,9.32214404605185
+Dominican Republic,DOM,2012,9.88614641231318
+Dominican Republic,DOM,2013,10.448334491604
+Dominican Republic,DOM,2014,10.4712899402275
+Dominican Republic,DOM,2015,10.2887459629005
+Dominican Republic,DOM,2016,10.3026903963908
+Dominican Republic,DOM,2017,10.938643492768
+Dominican Republic,DOM,2018,10.8598569852577
+Dominican Republic,DOM,2019,11.0687972697794
+Dominican Republic,DOM,2020,12.6266153626567
+Dominican Republic,DOM,2021,11.465112312541
+Jamaica,JAM,1960,7.16271081418992
+Jamaica,JAM,1961,7.30223818444856
+Jamaica,JAM,1962,7.90147969470046
+Jamaica,JAM,1963,8.1216247110524
+Jamaica,JAM,1964,8.11093177904821
+Jamaica,JAM,1965,8.19412442396313
+Jamaica,JAM,1966,7.99080929282614
+Jamaica,JAM,1967,8.80442626894395
+Jamaica,JAM,1968,9.45527015057573
+Jamaica,JAM,1969,10.3354487760653
+Jamaica,JAM,1970,11.7290288509336
+Jamaica,JAM,1971,12.406425452277
+Jamaica,JAM,1972,13.6960600375235
+Jamaica,JAM,1973,16.2916448630734
+Jamaica,JAM,1974,17.8816228232679
+Jamaica,JAM,1975,18.3471780628818
+Jamaica,JAM,1976,20.8463143764395
+Jamaica,JAM,1977,20.7291074274484
+Jamaica,JAM,1978,20.0647503594812
+Jamaica,JAM,1979,19.2770521298222
+Jamaica,JAM,1980,20.2426096247722
+Jamaica,JAM,1981,20.6335167423543
+Jamaica,JAM,1982,21.9529231834152
+Jamaica,JAM,1983,20.1081061587241
+Jamaica,JAM,1984,16.4716571346189
+Jamaica,JAM,1985,14.8908280619539
+Jamaica,JAM,1986,14.2521401703256
+Jamaica,JAM,1987,13.8477384055748
+Jamaica,JAM,1988,14.3617484207158
+Jamaica,JAM,1989,12.9228492738786
+Jamaica,JAM,1990,13.0361627903991
+Jamaica,JAM,1991,11.6015386086547
+Jamaica,JAM,1992,
+Jamaica,JAM,1993,10.5141391962983
+Jamaica,JAM,1994,9.31192940250439
+Jamaica,JAM,1995,9.99922127814214
+Jamaica,JAM,1996,11.9198565900794
+Jamaica,JAM,1997,13.478189233992
+Jamaica,JAM,1998,14.6774936793992
+Jamaica,JAM,1999,13.5632395916791
+Jamaica,JAM,2000,13.957771985254
+Jamaica,JAM,2001,14.2569687626353
+Jamaica,JAM,2002,14.7281401748999
+Jamaica,JAM,2003,14.2159005344254
+Jamaica,JAM,2004,12.8856633063577
+Jamaica,JAM,2005,14.2112538484826
+Jamaica,JAM,2006,13.8898380286
+Jamaica,JAM,2007,14.8875605217517
+Jamaica,JAM,2008,16.2060225937496
+Jamaica,JAM,2009,16.538645304637
+Jamaica,JAM,2010,16.1200609656127
+Jamaica,JAM,2011,15.804842742254
+Jamaica,JAM,2012,16.277054102879
+Jamaica,JAM,2013,15.5003575179318
+Jamaica,JAM,2014,14.5182838879723
+Jamaica,JAM,2015,13.816001547289
+Jamaica,JAM,2016,13.8399387612324
+Jamaica,JAM,2017,13.3827785913115
+Jamaica,JAM,2018,13.4379511959792
+Jamaica,JAM,2019,13.5821416742441
+Jamaica,JAM,2020,16.994224356977
+Jamaica,JAM,2021,17.2773903976257
+St. Kitts and Nevis,KNA,1960,
+St. Kitts and Nevis,KNA,1961,
+St. Kitts and Nevis,KNA,1962,
+St. Kitts and Nevis,KNA,1963,
+St. Kitts and Nevis,KNA,1964,
+St. Kitts and Nevis,KNA,1965,
+St. Kitts and Nevis,KNA,1966,
+St. Kitts and Nevis,KNA,1967,
+St. Kitts and Nevis,KNA,1968,
+St. Kitts and Nevis,KNA,1969,
+St. Kitts and Nevis,KNA,1970,
+St. Kitts and Nevis,KNA,1971,
+St. Kitts and Nevis,KNA,1972,
+St. Kitts and Nevis,KNA,1973,
+St. Kitts and Nevis,KNA,1974,
+St. Kitts and Nevis,KNA,1975,
+St. Kitts and Nevis,KNA,1976,
+St. Kitts and Nevis,KNA,1977,
+St. Kitts and Nevis,KNA,1978,
+St. Kitts and Nevis,KNA,1979,
+St. Kitts and Nevis,KNA,1980,
+St. Kitts and Nevis,KNA,1981,
+St. Kitts and Nevis,KNA,1982,
+St. Kitts and Nevis,KNA,1983,
+St. Kitts and Nevis,KNA,1984,
+St. Kitts and Nevis,KNA,1985,
+St. Kitts and Nevis,KNA,1986,
+St. Kitts and Nevis,KNA,1987,
+St. Kitts and Nevis,KNA,1988,
+St. Kitts and Nevis,KNA,1989,
+St. Kitts and Nevis,KNA,1990,
+St. Kitts and Nevis,KNA,1991,
+St. Kitts and Nevis,KNA,1992,
+St. Kitts and Nevis,KNA,1993,
+St. Kitts and Nevis,KNA,1994,
+St. Kitts and Nevis,KNA,1995,
+St. Kitts and Nevis,KNA,1996,
+St. Kitts and Nevis,KNA,1997,
+St. Kitts and Nevis,KNA,1998,
+St. Kitts and Nevis,KNA,1999,
+St. Kitts and Nevis,KNA,2000,
+St. Kitts and Nevis,KNA,2001,
+St. Kitts and Nevis,KNA,2002,
+St. Kitts and Nevis,KNA,2003,
+St. Kitts and Nevis,KNA,2004,
+St. Kitts and Nevis,KNA,2005,
+St. Kitts and Nevis,KNA,2006,
+St. Kitts and Nevis,KNA,2007,
+St. Kitts and Nevis,KNA,2008,
+St. Kitts and Nevis,KNA,2009,
+St. Kitts and Nevis,KNA,2010,
+St. Kitts and Nevis,KNA,2011,
+St. Kitts and Nevis,KNA,2012,
+St. Kitts and Nevis,KNA,2013,
+St. Kitts and Nevis,KNA,2014,
+St. Kitts and Nevis,KNA,2015,
+St. Kitts and Nevis,KNA,2016,
+St. Kitts and Nevis,KNA,2017,
+St. Kitts and Nevis,KNA,2018,
+St. Kitts and Nevis,KNA,2019,
+St. Kitts and Nevis,KNA,2020,
+St. Kitts and Nevis,KNA,2021,
+Brazil,BRA,1960,12.5596955904002
+Brazil,BRA,1961,12.9162169083743
+Brazil,BRA,1962,12.0964094901385
+Brazil,BRA,1963,12.7368474442453
+Brazil,BRA,1964,11.851968516625
+Brazil,BRA,1965,10.5456847151613
+Brazil,BRA,1966,10.6690658167339
+Brazil,BRA,1967,11.3543843508467
+Brazil,BRA,1968,11.1149937580771
+Brazil,BRA,1969,10.8982828674882
+Brazil,BRA,1970,11.3246354178855
+Brazil,BRA,1971,11.0981152345092
+Brazil,BRA,1972,10.7720913280882
+Brazil,BRA,1973,9.90642975311758
+Brazil,BRA,1974,9.32983875373664
+Brazil,BRA,1975,10.1851800259585
+Brazil,BRA,1976,10.4870945451757
+Brazil,BRA,1977,9.42630744535613
+Brazil,BRA,1978,9.68052852137433
+Brazil,BRA,1979,9.90043859063946
+Brazil,BRA,1980,9.1063174474986
+Brazil,BRA,1981,9.51874160060973
+Brazil,BRA,1982,10.3881016194293
+Brazil,BRA,1983,10.3559481952446
+Brazil,BRA,1984,9.19464987548048
+Brazil,BRA,1985,10.4338900725915
+Brazil,BRA,1986,11.1592046131695
+Brazil,BRA,1987,12.6374579272704
+Brazil,BRA,1988,13.4929526900474
+Brazil,BRA,1989,15.4991373147458
+Brazil,BRA,1990,19.2909200915421
+Brazil,BRA,1991,17.8998442925068
+Brazil,BRA,1992,17.0630164563171
+Brazil,BRA,1993,17.6640230609158
+Brazil,BRA,1994,17.8657165129222
+Brazil,BRA,1995,20.9279248599037
+Brazil,BRA,1996,19.7508265125741
+Brazil,BRA,1997,19.5352948012041
+Brazil,BRA,1998,20.0705315840705
+Brazil,BRA,1999,19.7826907684467
+Brazil,BRA,2000,18.7678457433113
+Brazil,BRA,2001,19.3432950151268
+Brazil,BRA,2002,19.8096623433068
+Brazil,BRA,2003,19.0774784940227
+Brazil,BRA,2004,18.4675839216309
+Brazil,BRA,2005,18.890001426152
+Brazil,BRA,2006,19.0389169317169
+Brazil,BRA,2007,18.9429876077424
+Brazil,BRA,2008,18.8393928790908
+Brazil,BRA,2009,19.6506384014322
+Brazil,BRA,2010,19.0168578489142
+Brazil,BRA,2011,18.6692569308054
+Brazil,BRA,2012,18.5301032598962
+Brazil,BRA,2013,18.8924790058973
+Brazil,BRA,2014,19.1535387068806
+Brazil,BRA,2015,19.7768199516315
+Brazil,BRA,2016,20.3792974290439
+Brazil,BRA,2017,20.1619046971408
+Brazil,BRA,2018,19.895087780459
+Brazil,BRA,2019,19.9835812827569
+Brazil,BRA,2020,20.4792676011264
+Brazil,BRA,2021,19.0956120865727
+Guatemala,GTM,1960,7.6561908447864
+Guatemala,GTM,1961,7.71802802247869
+Guatemala,GTM,1962,6.75061210213361
+Guatemala,GTM,1963,6.60437123851758
+Guatemala,GTM,1964,6.89708312655555
+Guatemala,GTM,1965,7.3531626373113
+Guatemala,GTM,1966,7.55015459840368
+Guatemala,GTM,1967,7.7468180254558
+Guatemala,GTM,1968,7.15926730828935
+Guatemala,GTM,1969,7.84073731145723
+Guatemala,GTM,1970,7.95168067226891
+Guatemala,GTM,1971,7.01833937928255
+Guatemala,GTM,1972,7.45728834531005
+Guatemala,GTM,1973,6.48450854411846
+Guatemala,GTM,1974,6.53487289371731
+Guatemala,GTM,1975,6.86524589264654
+Guatemala,GTM,1976,6.81052817398446
+Guatemala,GTM,1977,6.46838768475914
+Guatemala,GTM,1978,7.15909441705616
+Guatemala,GTM,1979,7.0697995807435
+Guatemala,GTM,1980,7.95816568723267
+Guatemala,GTM,1981,7.90008685796967
+Guatemala,GTM,1982,7.74348999920236
+Guatemala,GTM,1983,7.60220960874212
+Guatemala,GTM,1984,7.66525863077868
+Guatemala,GTM,1985,6.95355063062774
+Guatemala,GTM,1986,7.0962242259362
+Guatemala,GTM,1987,7.90243369436923
+Guatemala,GTM,1988,7.98150473540535
+Guatemala,GTM,1989,7.89542578633733
+Guatemala,GTM,1990,6.58421335494863
+Guatemala,GTM,1991,5.4225664497941
+Guatemala,GTM,1992,6.42488304503928
+Guatemala,GTM,1993,6.35631122172758
+Guatemala,GTM,1994,5.57324957201488
+Guatemala,GTM,1995,5.50995915259415
+Guatemala,GTM,1996,5.08030909352217
+Guatemala,GTM,1997,4.99730137319696
+Guatemala,GTM,1998,5.67746180706161
+Guatemala,GTM,1999,6.32163614869932
+Guatemala,GTM,2000,7.00261473951945
+Guatemala,GTM,2001,10.2195681687394
+Guatemala,GTM,2002,9.82093278550152
+Guatemala,GTM,2003,9.75241609376197
+Guatemala,GTM,2004,8.9066313301877
+Guatemala,GTM,2005,8.61352510250589
+Guatemala,GTM,2006,8.50696938888144
+Guatemala,GTM,2007,8.79868760763897
+Guatemala,GTM,2008,9.16134519080737
+Guatemala,GTM,2009,10.3456302167651
+Guatemala,GTM,2010,10.6462476186343
+Guatemala,GTM,2011,10.3584830794978
+Guatemala,GTM,2012,10.5135030709737
+Guatemala,GTM,2013,11.2879486082846
+Guatemala,GTM,2014,11.2553849306527
+Guatemala,GTM,2015,11.0881085257885
+Guatemala,GTM,2016,10.440352787248
+Guatemala,GTM,2017,10.572823006819
+Guatemala,GTM,2018,11.0821079957052
+Guatemala,GTM,2019,11.1205508517324
+Guatemala,GTM,2020,11.5447227883509
+Guatemala,GTM,2021,11.2292976725662
+Cuba,CUB,1960,
+Cuba,CUB,1961,
+Cuba,CUB,1962,
+Cuba,CUB,1963,
+Cuba,CUB,1964,
+Cuba,CUB,1965,
+Cuba,CUB,1966,
+Cuba,CUB,1967,
+Cuba,CUB,1968,
+Cuba,CUB,1969,
+Cuba,CUB,1970,31.6722247153402
+Cuba,CUB,1971,31.6712709914925
+Cuba,CUB,1972,31.6722149425573
+Cuba,CUB,1973,31.674673552041
+Cuba,CUB,1974,31.67811108551
+Cuba,CUB,1975,31.6648497509544
+Cuba,CUB,1976,31.6665045967426
+Cuba,CUB,1977,31.6769393338883
+Cuba,CUB,1978,31.6869616627744
+Cuba,CUB,1979,31.6952980488371
+Cuba,CUB,1980,31.5985450434823
+Cuba,CUB,1981,31.6747806983019
+Cuba,CUB,1982,31.7291096367023
+Cuba,CUB,1983,31.7370738566875
+Cuba,CUB,1984,31.7369810311986
+Cuba,CUB,1985,31.1147792864508
+Cuba,CUB,1986,32.0559609949414
+Cuba,CUB,1987,32.000752194734
+Cuba,CUB,1988,31.7768973435549
+Cuba,CUB,1989,31.7365145363797
+Cuba,CUB,1990,31.001588232443
+Cuba,CUB,1991,33.310971592638
+Cuba,CUB,1992,34.7986525877134
+Cuba,CUB,1993,35.3824243289626
+Cuba,CUB,1994,27.2659559543373
+Cuba,CUB,1995,24.3937786137389
+Cuba,CUB,1996,26.553551972874
+Cuba,CUB,1997,26.8348366365011
+Cuba,CUB,1998,27.6731261524953
+Cuba,CUB,1999,28.9247854841338
+Cuba,CUB,2000,29.5962912312615
+Cuba,CUB,2001,30.8878115294296
+Cuba,CUB,2002,34.1045113945907
+Cuba,CUB,2003,33.7331690862701
+Cuba,CUB,2004,35.4796733240845
+Cuba,CUB,2005,33.6483604954105
+Cuba,CUB,2006,32.2340400964681
+Cuba,CUB,2007,35.4097594187418
+Cuba,CUB,2008,39.8807360421535
+Cuba,CUB,2009,38.9610180412371
+Cuba,CUB,2010,34.7593582887701
+Cuba,CUB,2011,35.421075518191
+Cuba,CUB,2012,31.9150681560274
+Cuba,CUB,2013,32.4467257738373
+Cuba,CUB,2014,32.4067645308471
+Cuba,CUB,2015,32.2059380487301
+Cuba,CUB,2016,31.895589361935
+Cuba,CUB,2017,30.8380915013784
+Cuba,CUB,2018,30.0449775112444
+Cuba,CUB,2019,32.2320841551611
+Cuba,CUB,2020,38.8479022281839
+Cuba,CUB,2021,
+Cayman Islands,CYM,1960,
+Cayman Islands,CYM,1961,
+Cayman Islands,CYM,1962,
+Cayman Islands,CYM,1963,
+Cayman Islands,CYM,1964,
+Cayman Islands,CYM,1965,
+Cayman Islands,CYM,1966,
+Cayman Islands,CYM,1967,
+Cayman Islands,CYM,1968,
+Cayman Islands,CYM,1969,
+Cayman Islands,CYM,1970,
+Cayman Islands,CYM,1971,
+Cayman Islands,CYM,1972,
+Cayman Islands,CYM,1973,
+Cayman Islands,CYM,1974,
+Cayman Islands,CYM,1975,
+Cayman Islands,CYM,1976,
+Cayman Islands,CYM,1977,
+Cayman Islands,CYM,1978,
+Cayman Islands,CYM,1979,
+Cayman Islands,CYM,1980,
+Cayman Islands,CYM,1981,
+Cayman Islands,CYM,1982,
+Cayman Islands,CYM,1983,
+Cayman Islands,CYM,1984,
+Cayman Islands,CYM,1985,
+Cayman Islands,CYM,1986,
+Cayman Islands,CYM,1987,
+Cayman Islands,CYM,1988,
+Cayman Islands,CYM,1989,
+Cayman Islands,CYM,1990,
+Cayman Islands,CYM,1991,
+Cayman Islands,CYM,1992,
+Cayman Islands,CYM,1993,
+Cayman Islands,CYM,1994,
+Cayman Islands,CYM,1995,
+Cayman Islands,CYM,1996,
+Cayman Islands,CYM,1997,
+Cayman Islands,CYM,1998,
+Cayman Islands,CYM,1999,
+Cayman Islands,CYM,2000,
+Cayman Islands,CYM,2001,
+Cayman Islands,CYM,2002,
+Cayman Islands,CYM,2003,
+Cayman Islands,CYM,2004,
+Cayman Islands,CYM,2005,
+Cayman Islands,CYM,2006,
+Cayman Islands,CYM,2007,
+Cayman Islands,CYM,2008,
+Cayman Islands,CYM,2009,
+Cayman Islands,CYM,2010,
+Cayman Islands,CYM,2011,
+Cayman Islands,CYM,2012,
+Cayman Islands,CYM,2013,
+Cayman Islands,CYM,2014,
+Cayman Islands,CYM,2015,
+Cayman Islands,CYM,2016,
+Cayman Islands,CYM,2017,2.01383568290918
+Cayman Islands,CYM,2018,2.1113327004712
+Cayman Islands,CYM,2019,2.35422729893334
+Cayman Islands,CYM,2020,2.58024724217545
+Cayman Islands,CYM,2021,
+Mexico,MEX,1960,5.64840490797546
+Mexico,MEX,1961,5.71485875706215
+Mexico,MEX,1962,6.27031578947368
+Mexico,MEX,1963,6.51042452830189
+Mexico,MEX,1964,6.39800796812749
+Mexico,MEX,1965,6.28545787545788
+Mexico,MEX,1966,6.50552631578947
+Mexico,MEX,1967,6.57009036144578
+Mexico,MEX,1968,6.8416348773842
+Mexico,MEX,1969,6.87692118226601
+Mexico,MEX,1970,7.26198198198198
+Mexico,MEX,1971,7.61865306122449
+Mexico,MEX,1972,8.62642477876106
+Mexico,MEX,1973,9.17897250361795
+Mexico,MEX,1974,9.1409
+Mexico,MEX,1975,10.3175545454545
+Mexico,MEX,1976,11.0077461706783
+Mexico,MEX,1977,10.760811249324
+Mexico,MEX,1978,10.9198587933248
+Mexico,MEX,1979,10.8968676662321
+Mexico,MEX,1980,9.51091719531118
+Mexico,MEX,1981,10.2009527982723
+Mexico,MEX,1982,9.85257669872132
+Mexico,MEX,1983,8.39115711126528
+Mexico,MEX,1984,8.80251316670849
+Mexico,MEX,1985,8.7214630318366
+Mexico,MEX,1986,8.75656475980654
+Mexico,MEX,1987,8.35812828183434
+Mexico,MEX,1988,8.48490939682856
+Mexico,MEX,1989,8.32743339061301
+Mexico,MEX,1990,8.430745096664
+Mexico,MEX,1991,9.11590346275984
+Mexico,MEX,1992,9.94287452110455
+Mexico,MEX,1993,9.11478347327494
+Mexico,MEX,1994,9.46682590944767
+Mexico,MEX,1995,8.55116005842394
+Mexico,MEX,1996,8.11971417973755
+Mexico,MEX,1997,8.26160243536039
+Mexico,MEX,1998,8.54312865209883
+Mexico,MEX,1999,9.17851218655456
+Mexico,MEX,2000,9.51521934438588
+Mexico,MEX,2001,9.88112603307671
+Mexico,MEX,2002,10.3777164459419
+Mexico,MEX,2003,11.0337903739071
+Mexico,MEX,2004,10.4872897953287
+Mexico,MEX,2005,10.5217066665057
+Mexico,MEX,2006,10.3444234976116
+Mexico,MEX,2007,10.4053811429815
+Mexico,MEX,2008,10.7295188813689
+Mexico,MEX,2009,11.9169638457325
+Mexico,MEX,2010,11.7713633086286
+Mexico,MEX,2011,11.7770831054448
+Mexico,MEX,2012,11.946733981519
+Mexico,MEX,2013,12.191387292477
+Mexico,MEX,2014,12.194961984343
+Mexico,MEX,2015,12.3171958978037
+Mexico,MEX,2016,12.0104130483677
+Mexico,MEX,2017,11.6165964021021
+Mexico,MEX,2018,11.5703277782178
+Mexico,MEX,2019,11.3899252651208
+Mexico,MEX,2020,12.5646448719691
+Mexico,MEX,2021,11.8155818015075
+Virgin Islands (U.S.),VIR,1960,
+Virgin Islands (U.S.),VIR,1961,
+Virgin Islands (U.S.),VIR,1962,
+Virgin Islands (U.S.),VIR,1963,
+Virgin Islands (U.S.),VIR,1964,
+Virgin Islands (U.S.),VIR,1965,
+Virgin Islands (U.S.),VIR,1966,
+Virgin Islands (U.S.),VIR,1967,
+Virgin Islands (U.S.),VIR,1968,
+Virgin Islands (U.S.),VIR,1969,
+Virgin Islands (U.S.),VIR,1970,
+Virgin Islands (U.S.),VIR,1971,
+Virgin Islands (U.S.),VIR,1972,
+Virgin Islands (U.S.),VIR,1973,
+Virgin Islands (U.S.),VIR,1974,
+Virgin Islands (U.S.),VIR,1975,
+Virgin Islands (U.S.),VIR,1976,
+Virgin Islands (U.S.),VIR,1977,
+Virgin Islands (U.S.),VIR,1978,
+Virgin Islands (U.S.),VIR,1979,
+Virgin Islands (U.S.),VIR,1980,
+Virgin Islands (U.S.),VIR,1981,
+Virgin Islands (U.S.),VIR,1982,
+Virgin Islands (U.S.),VIR,1983,
+Virgin Islands (U.S.),VIR,1984,
+Virgin Islands (U.S.),VIR,1985,
+Virgin Islands (U.S.),VIR,1986,
+Virgin Islands (U.S.),VIR,1987,
+Virgin Islands (U.S.),VIR,1988,
+Virgin Islands (U.S.),VIR,1989,
+Virgin Islands (U.S.),VIR,1990,
+Virgin Islands (U.S.),VIR,1991,
+Virgin Islands (U.S.),VIR,1992,
+Virgin Islands (U.S.),VIR,1993,
+Virgin Islands (U.S.),VIR,1994,
+Virgin Islands (U.S.),VIR,1995,
+Virgin Islands (U.S.),VIR,1996,
+Virgin Islands (U.S.),VIR,1997,
+Virgin Islands (U.S.),VIR,1998,
+Virgin Islands (U.S.),VIR,1999,
+Virgin Islands (U.S.),VIR,2000,
+Virgin Islands (U.S.),VIR,2001,
+Virgin Islands (U.S.),VIR,2002,24.1569589209074
+Virgin Islands (U.S.),VIR,2003,21.405750798722
+Virgin Islands (U.S.),VIR,2004,19.647089807743
+Virgin Islands (U.S.),VIR,2005,17.5474254742547
+Virgin Islands (U.S.),VIR,2006,20.0267618198037
+Virgin Islands (U.S.),VIR,2007,20.9030100334448
+Virgin Islands (U.S.),VIR,2008,24.5758718190386
+Virgin Islands (U.S.),VIR,2009,26.4222804094263
+Virgin Islands (U.S.),VIR,2010,28.168362627197
+Virgin Islands (U.S.),VIR,2011,27.1607861709685
+Virgin Islands (U.S.),VIR,2012,25.0917094644167
+Virgin Islands (U.S.),VIR,2013,27.9026217228464
+Virgin Islands (U.S.),VIR,2014,29.3969144460028
+Virgin Islands (U.S.),VIR,2015,28.2555282555283
+Virgin Islands (U.S.),VIR,2016,27.5934702474987
+Virgin Islands (U.S.),VIR,2017,31.9451765946231
+Virgin Islands (U.S.),VIR,2018,43.2177460479347
+Virgin Islands (U.S.),VIR,2019,37.3087199417051
+Virgin Islands (U.S.),VIR,2020,35.6565176022835
+Virgin Islands (U.S.),VIR,2021,
+Curacao,CUW,1960,
+Curacao,CUW,1961,
+Curacao,CUW,1962,
+Curacao,CUW,1963,
+Curacao,CUW,1964,
+Curacao,CUW,1965,
+Curacao,CUW,1966,
+Curacao,CUW,1967,
+Curacao,CUW,1968,
+Curacao,CUW,1969,
+Curacao,CUW,1970,
+Curacao,CUW,1971,
+Curacao,CUW,1972,
+Curacao,CUW,1973,
+Curacao,CUW,1974,
+Curacao,CUW,1975,
+Curacao,CUW,1976,
+Curacao,CUW,1977,
+Curacao,CUW,1978,
+Curacao,CUW,1979,
+Curacao,CUW,1980,
+Curacao,CUW,1981,
+Curacao,CUW,1982,
+Curacao,CUW,1983,
+Curacao,CUW,1984,
+Curacao,CUW,1985,
+Curacao,CUW,1986,
+Curacao,CUW,1987,
+Curacao,CUW,1988,
+Curacao,CUW,1989,
+Curacao,CUW,1990,
+Curacao,CUW,1991,
+Curacao,CUW,1992,
+Curacao,CUW,1993,
+Curacao,CUW,1994,
+Curacao,CUW,1995,
+Curacao,CUW,1996,
+Curacao,CUW,1997,
+Curacao,CUW,1998,
+Curacao,CUW,1999,
+Curacao,CUW,2000,
+Curacao,CUW,2001,
+Curacao,CUW,2002,
+Curacao,CUW,2003,
+Curacao,CUW,2004,
+Curacao,CUW,2005,16.0737660531258
+Curacao,CUW,2006,15.9510940411445
+Curacao,CUW,2007,16.6639442645017
+Curacao,CUW,2008,16.0136522596176
+Curacao,CUW,2009,16.529121297581
+Curacao,CUW,2010,16.1918532831074
+Curacao,CUW,2011,15.9590880521113
+Curacao,CUW,2012,15.8203882598496
+Curacao,CUW,2013,14.5842139116053
+Curacao,CUW,2014,16.3028936903257
+Curacao,CUW,2015,16.1296245295144
+Curacao,CUW,2016,16.3386702245942
+Curacao,CUW,2017,
+Curacao,CUW,2018,
+Curacao,CUW,2019,
+Curacao,CUW,2020,
+Curacao,CUW,2021,
+Costa Rica,CRI,1960,10.3513364550717
+Costa Rica,CRI,1961,11.6205208977009
+Costa Rica,CRI,1962,11.4730419289472
+Costa Rica,CRI,1963,12.1291331732409
+Costa Rica,CRI,1964,12.6655936294447
+Costa Rica,CRI,1965,12.5951374522012
+Costa Rica,CRI,1966,12.5198214961208
+Costa Rica,CRI,1967,12.635145069269
+Costa Rica,CRI,1968,12.4056412976309
+Costa Rica,CRI,1969,12.4785597142758
+Costa Rica,CRI,1970,12.564947890718
+Costa Rica,CRI,1971,13.8713751101881
+Costa Rica,CRI,1972,14.3869130212517
+Costa Rica,CRI,1973,13.9445405224697
+Costa Rica,CRI,1974,14.2936054412071
+Costa Rica,CRI,1975,15.2214275568679
+Costa Rica,CRI,1976,15.9917970941593
+Costa Rica,CRI,1977,15.9817250582348
+Costa Rica,CRI,1978,16.7868347048052
+Costa Rica,CRI,1979,18.0520694061125
+Costa Rica,CRI,1980,18.2205259065481
+Costa Rica,CRI,1981,15.7374343442829
+Costa Rica,CRI,1982,14.5550336360716
+Costa Rica,CRI,1983,15.1005304916714
+Costa Rica,CRI,1984,15.6447206904569
+Costa Rica,CRI,1985,15.7513295789507
+Costa Rica,CRI,1986,15.3909107536602
+Costa Rica,CRI,1987,14.9900855224729
+Costa Rica,CRI,1988,15.6199355640774
+Costa Rica,CRI,1989,16.9714684322324
+Costa Rica,CRI,1990,18.1598510771488
+Costa Rica,CRI,1991,13.1929164489477
+Costa Rica,CRI,1992,12.1100290283559
+Costa Rica,CRI,1993,12.771781238667
+Costa Rica,CRI,1994,13.2978782889928
+Costa Rica,CRI,1995,12.9266885376626
+Costa Rica,CRI,1996,13.0629276640645
+Costa Rica,CRI,1997,12.623995050026
+Costa Rica,CRI,1998,12.7302429987193
+Costa Rica,CRI,1999,13.2871099206616
+Costa Rica,CRI,2000,13.7278261786138
+Costa Rica,CRI,2001,14.2963123765465
+Costa Rica,CRI,2002,14.6890642516559
+Costa Rica,CRI,2003,14.4974654373008
+Costa Rica,CRI,2004,13.9764073002574
+Costa Rica,CRI,2005,13.5128811924967
+Costa Rica,CRI,2006,13.1650410564006
+Costa Rica,CRI,2007,12.8052686650694
+Costa Rica,CRI,2008,13.5774747362871
+Costa Rica,CRI,2009,15.7481281178918
+Costa Rica,CRI,2010,16.6207106449752
+Costa Rica,CRI,2011,16.9618362201618
+Costa Rica,CRI,2012,16.7900477033521
+Costa Rica,CRI,2013,17.1301891401507
+Costa Rica,CRI,2014,17.0113032501812
+Costa Rica,CRI,2015,16.9602419140685
+Costa Rica,CRI,2016,16.7086790790549
+Costa Rica,CRI,2017,16.3581746478518
+Costa Rica,CRI,2018,16.1957338928329
+Costa Rica,CRI,2019,16.7512009792355
+Costa Rica,CRI,2020,17.6517014043256
+Costa Rica,CRI,2021,16.2475838887545
+Trinidad and Tobago,TTO,1960,
+Trinidad and Tobago,TTO,1961,
+Trinidad and Tobago,TTO,1962,
+Trinidad and Tobago,TTO,1963,
+Trinidad and Tobago,TTO,1964,
+Trinidad and Tobago,TTO,1965,
+Trinidad and Tobago,TTO,1966,
+Trinidad and Tobago,TTO,1967,
+Trinidad and Tobago,TTO,1968,
+Trinidad and Tobago,TTO,1969,
+Trinidad and Tobago,TTO,1970,
+Trinidad and Tobago,TTO,1971,
+Trinidad and Tobago,TTO,1972,
+Trinidad and Tobago,TTO,1973,
+Trinidad and Tobago,TTO,1974,
+Trinidad and Tobago,TTO,1975,
+Trinidad and Tobago,TTO,1976,
+Trinidad and Tobago,TTO,1977,
+Trinidad and Tobago,TTO,1978,
+Trinidad and Tobago,TTO,1979,
+Trinidad and Tobago,TTO,1980,
+Trinidad and Tobago,TTO,1981,
+Trinidad and Tobago,TTO,1982,
+Trinidad and Tobago,TTO,1983,
+Trinidad and Tobago,TTO,1984,
+Trinidad and Tobago,TTO,1985,
+Trinidad and Tobago,TTO,1986,
+Trinidad and Tobago,TTO,1987,
+Trinidad and Tobago,TTO,1988,
+Trinidad and Tobago,TTO,1989,
+Trinidad and Tobago,TTO,1990,
+Trinidad and Tobago,TTO,1991,
+Trinidad and Tobago,TTO,1992,
+Trinidad and Tobago,TTO,1993,
+Trinidad and Tobago,TTO,1994,
+Trinidad and Tobago,TTO,1995,
+Trinidad and Tobago,TTO,1996,
+Trinidad and Tobago,TTO,1997,
+Trinidad and Tobago,TTO,1998,
+Trinidad and Tobago,TTO,1999,
+Trinidad and Tobago,TTO,2000,
+Trinidad and Tobago,TTO,2001,
+Trinidad and Tobago,TTO,2002,
+Trinidad and Tobago,TTO,2003,
+Trinidad and Tobago,TTO,2004,
+Trinidad and Tobago,TTO,2005,
+Trinidad and Tobago,TTO,2006,
+Trinidad and Tobago,TTO,2007,
+Trinidad and Tobago,TTO,2008,
+Trinidad and Tobago,TTO,2009,
+Trinidad and Tobago,TTO,2010,
+Trinidad and Tobago,TTO,2011,
+Trinidad and Tobago,TTO,2012,
+Trinidad and Tobago,TTO,2013,
+Trinidad and Tobago,TTO,2014,
+Trinidad and Tobago,TTO,2015,
+Trinidad and Tobago,TTO,2016,
+Trinidad and Tobago,TTO,2017,
+Trinidad and Tobago,TTO,2018,
+Trinidad and Tobago,TTO,2019,
+Trinidad and Tobago,TTO,2020,
+Trinidad and Tobago,TTO,2021,
+Dominica,DMA,1960,
+Dominica,DMA,1961,
+Dominica,DMA,1962,
+Dominica,DMA,1963,
+Dominica,DMA,1964,
+Dominica,DMA,1965,
+Dominica,DMA,1966,
+Dominica,DMA,1967,
+Dominica,DMA,1968,
+Dominica,DMA,1969,
+Dominica,DMA,1970,
+Dominica,DMA,1971,
+Dominica,DMA,1972,
+Dominica,DMA,1973,
+Dominica,DMA,1974,
+Dominica,DMA,1975,
+Dominica,DMA,1976,
+Dominica,DMA,1977,
+Dominica,DMA,1978,
+Dominica,DMA,1979,
+Dominica,DMA,1980,
+Dominica,DMA,1981,
+Dominica,DMA,1982,
+Dominica,DMA,1983,
+Dominica,DMA,1984,
+Dominica,DMA,1985,
+Dominica,DMA,1986,
+Dominica,DMA,1987,
+Dominica,DMA,1988,
+Dominica,DMA,1989,
+Dominica,DMA,1990,
+Dominica,DMA,1991,
+Dominica,DMA,1992,
+Dominica,DMA,1993,
+Dominica,DMA,1994,
+Dominica,DMA,1995,
+Dominica,DMA,1996,
+Dominica,DMA,1997,
+Dominica,DMA,1998,
+Dominica,DMA,1999,
+Dominica,DMA,2000,
+Dominica,DMA,2001,
+Dominica,DMA,2002,
+Dominica,DMA,2003,
+Dominica,DMA,2004,
+Dominica,DMA,2005,
+Dominica,DMA,2006,15.6489636322223
+Dominica,DMA,2007,16.2563394889735
+Dominica,DMA,2008,14.6187485348918
+Dominica,DMA,2009,16.8458917076865
+Dominica,DMA,2010,16.7287918219796
+Dominica,DMA,2011,17.3658493313719
+Dominica,DMA,2012,18.4447374236963
+Dominica,DMA,2013,19.8587780585699
+Dominica,DMA,2014,20.4754513869112
+Dominica,DMA,2015,21.3487763614819
+Dominica,DMA,2016,19.081898934324
+Dominica,DMA,2017,24.0784269168223
+Dominica,DMA,2018,27.3907122065853
+Dominica,DMA,2019,
+Dominica,DMA,2020,
+Dominica,DMA,2021,
+"Bahamas, The",BHS,1960,
+"Bahamas, The",BHS,1961,
+"Bahamas, The",BHS,1962,
+"Bahamas, The",BHS,1963,
+"Bahamas, The",BHS,1964,
+"Bahamas, The",BHS,1965,
+"Bahamas, The",BHS,1966,
+"Bahamas, The",BHS,1967,
+"Bahamas, The",BHS,1968,
+"Bahamas, The",BHS,1969,
+"Bahamas, The",BHS,1970,
+"Bahamas, The",BHS,1971,
+"Bahamas, The",BHS,1972,
+"Bahamas, The",BHS,1973,
+"Bahamas, The",BHS,1974,
+"Bahamas, The",BHS,1975,
+"Bahamas, The",BHS,1976,
+"Bahamas, The",BHS,1977,15.3295932678822
+"Bahamas, The",BHS,1978,15.4252763094666
+"Bahamas, The",BHS,1979,12.6162473577604
+"Bahamas, The",BHS,1980,12.506552834569
+"Bahamas, The",BHS,1981,13.8310550297932
+"Bahamas, The",BHS,1982,13.2357599949313
+"Bahamas, The",BHS,1983,13.7349953831948
+"Bahamas, The",BHS,1984,12.9342021459017
+"Bahamas, The",BHS,1985,12.4574487205347
+"Bahamas, The",BHS,1986,12.1375126390293
+"Bahamas, The",BHS,1987,12.0265295514565
+"Bahamas, The",BHS,1988,
+"Bahamas, The",BHS,1989,13.5620509470934
+"Bahamas, The",BHS,1990,12.8591282375237
+"Bahamas, The",BHS,1991,14.1612774656398
+"Bahamas, The",BHS,1992,13.7430041814088
+"Bahamas, The",BHS,1993,12.8716041397154
+"Bahamas, The",BHS,1994,14.8106781221233
+"Bahamas, The",BHS,1995,13.8874307378244
+"Bahamas, The",BHS,1996,14.3216957605985
+"Bahamas, The",BHS,1997,10.0357528630716
+"Bahamas, The",BHS,1998,9.52406039905052
+"Bahamas, The",BHS,1999,9.18157126552115
+"Bahamas, The",BHS,2000,9.2540429172646
+"Bahamas, The",BHS,2001,9.64674680776116
+"Bahamas, The",BHS,2002,9.52916060514618
+"Bahamas, The",BHS,2003,9.72143461903994
+"Bahamas, The",BHS,2004,10.0239749361975
+"Bahamas, The",BHS,2005,9.75173339297696
+"Bahamas, The",BHS,2006,10.238756792643
+"Bahamas, The",BHS,2007,10.0976235456766
+"Bahamas, The",BHS,2008,11.1846855405662
+"Bahamas, The",BHS,2009,12.6728618427643
+"Bahamas, The",BHS,2010,12.5171359065588
+"Bahamas, The",BHS,2011,13.7590673703757
+"Bahamas, The",BHS,2012,13.0880089548062
+"Bahamas, The",BHS,2013,12.7257924035294
+"Bahamas, The",BHS,2014,11.9827131110137
+"Bahamas, The",BHS,2015,12.2611048820172
+"Bahamas, The",BHS,2016,11.6810031602251
+"Bahamas, The",BHS,2017,12.7670421441057
+"Bahamas, The",BHS,2018,12.3747628529767
+"Bahamas, The",BHS,2019,13.7491662118731
+"Bahamas, The",BHS,2020,16.7245734316202
+"Bahamas, The",BHS,2021,16.2919543921632
+Sint Maarten (Dutch part),SXM,1960,
+Sint Maarten (Dutch part),SXM,1961,
+Sint Maarten (Dutch part),SXM,1962,
+Sint Maarten (Dutch part),SXM,1963,
+Sint Maarten (Dutch part),SXM,1964,
+Sint Maarten (Dutch part),SXM,1965,
+Sint Maarten (Dutch part),SXM,1966,
+Sint Maarten (Dutch part),SXM,1967,
+Sint Maarten (Dutch part),SXM,1968,
+Sint Maarten (Dutch part),SXM,1969,
+Sint Maarten (Dutch part),SXM,1970,
+Sint Maarten (Dutch part),SXM,1971,
+Sint Maarten (Dutch part),SXM,1972,
+Sint Maarten (Dutch part),SXM,1973,
+Sint Maarten (Dutch part),SXM,1974,
+Sint Maarten (Dutch part),SXM,1975,
+Sint Maarten (Dutch part),SXM,1976,
+Sint Maarten (Dutch part),SXM,1977,
+Sint Maarten (Dutch part),SXM,1978,
+Sint Maarten (Dutch part),SXM,1979,
+Sint Maarten (Dutch part),SXM,1980,
+Sint Maarten (Dutch part),SXM,1981,
+Sint Maarten (Dutch part),SXM,1982,
+Sint Maarten (Dutch part),SXM,1983,
+Sint Maarten (Dutch part),SXM,1984,
+Sint Maarten (Dutch part),SXM,1985,
+Sint Maarten (Dutch part),SXM,1986,
+Sint Maarten (Dutch part),SXM,1987,
+Sint Maarten (Dutch part),SXM,1988,
+Sint Maarten (Dutch part),SXM,1989,
+Sint Maarten (Dutch part),SXM,1990,
+Sint Maarten (Dutch part),SXM,1991,
+Sint Maarten (Dutch part),SXM,1992,
+Sint Maarten (Dutch part),SXM,1993,
+Sint Maarten (Dutch part),SXM,1994,
+Sint Maarten (Dutch part),SXM,1995,
+Sint Maarten (Dutch part),SXM,1996,
+Sint Maarten (Dutch part),SXM,1997,
+Sint Maarten (Dutch part),SXM,1998,
+Sint Maarten (Dutch part),SXM,1999,
+Sint Maarten (Dutch part),SXM,2000,
+Sint Maarten (Dutch part),SXM,2001,
+Sint Maarten (Dutch part),SXM,2002,
+Sint Maarten (Dutch part),SXM,2003,
+Sint Maarten (Dutch part),SXM,2004,
+Sint Maarten (Dutch part),SXM,2005,
+Sint Maarten (Dutch part),SXM,2006,
+Sint Maarten (Dutch part),SXM,2007,
+Sint Maarten (Dutch part),SXM,2008,
+Sint Maarten (Dutch part),SXM,2009,
+Sint Maarten (Dutch part),SXM,2010,
+Sint Maarten (Dutch part),SXM,2011,
+Sint Maarten (Dutch part),SXM,2012,
+Sint Maarten (Dutch part),SXM,2013,
+Sint Maarten (Dutch part),SXM,2014,
+Sint Maarten (Dutch part),SXM,2015,
+Sint Maarten (Dutch part),SXM,2016,
+Sint Maarten (Dutch part),SXM,2017,
+Sint Maarten (Dutch part),SXM,2018,
+Sint Maarten (Dutch part),SXM,2019,
+Sint Maarten (Dutch part),SXM,2020,
+Sint Maarten (Dutch part),SXM,2021,
+St. Vincent and the Grenadines,VCT,1960,
+St. Vincent and the Grenadines,VCT,1961,
+St. Vincent and the Grenadines,VCT,1962,
+St. Vincent and the Grenadines,VCT,1963,
+St. Vincent and the Grenadines,VCT,1964,
+St. Vincent and the Grenadines,VCT,1965,
+St. Vincent and the Grenadines,VCT,1966,
+St. Vincent and the Grenadines,VCT,1967,
+St. Vincent and the Grenadines,VCT,1968,
+St. Vincent and the Grenadines,VCT,1969,
+St. Vincent and the Grenadines,VCT,1970,
+St. Vincent and the Grenadines,VCT,1971,
+St. Vincent and the Grenadines,VCT,1972,
+St. Vincent and the Grenadines,VCT,1973,
+St. Vincent and the Grenadines,VCT,1974,
+St. Vincent and the Grenadines,VCT,1975,
+St. Vincent and the Grenadines,VCT,1976,
+St. Vincent and the Grenadines,VCT,1977,
+St. Vincent and the Grenadines,VCT,1978,
+St. Vincent and the Grenadines,VCT,1979,
+St. Vincent and the Grenadines,VCT,1980,
+St. Vincent and the Grenadines,VCT,1981,
+St. Vincent and the Grenadines,VCT,1982,
+St. Vincent and the Grenadines,VCT,1983,
+St. Vincent and the Grenadines,VCT,1984,
+St. Vincent and the Grenadines,VCT,1985,
+St. Vincent and the Grenadines,VCT,1986,
+St. Vincent and the Grenadines,VCT,1987,
+St. Vincent and the Grenadines,VCT,1988,
+St. Vincent and the Grenadines,VCT,1989,
+St. Vincent and the Grenadines,VCT,1990,
+St. Vincent and the Grenadines,VCT,1991,
+St. Vincent and the Grenadines,VCT,1992,
+St. Vincent and the Grenadines,VCT,1993,
+St. Vincent and the Grenadines,VCT,1994,
+St. Vincent and the Grenadines,VCT,1995,
+St. Vincent and the Grenadines,VCT,1996,
+St. Vincent and the Grenadines,VCT,1997,
+St. Vincent and the Grenadines,VCT,1998,
+St. Vincent and the Grenadines,VCT,1999,
+St. Vincent and the Grenadines,VCT,2000,
+St. Vincent and the Grenadines,VCT,2001,
+St. Vincent and the Grenadines,VCT,2002,
+St. Vincent and the Grenadines,VCT,2003,
+St. Vincent and the Grenadines,VCT,2004,
+St. Vincent and the Grenadines,VCT,2005,
+St. Vincent and the Grenadines,VCT,2006,
+St. Vincent and the Grenadines,VCT,2007,
+St. Vincent and the Grenadines,VCT,2008,
+St. Vincent and the Grenadines,VCT,2009,
+St. Vincent and the Grenadines,VCT,2010,
+St. Vincent and the Grenadines,VCT,2011,
+St. Vincent and the Grenadines,VCT,2012,
+St. Vincent and the Grenadines,VCT,2013,
+St. Vincent and the Grenadines,VCT,2014,
+St. Vincent and the Grenadines,VCT,2015,
+St. Vincent and the Grenadines,VCT,2016,
+St. Vincent and the Grenadines,VCT,2017,
+St. Vincent and the Grenadines,VCT,2018,
+St. Vincent and the Grenadines,VCT,2019,
+St. Vincent and the Grenadines,VCT,2020,
+St. Vincent and the Grenadines,VCT,2021,
+Honduras,HND,1960,11.0233874571726
+Honduras,HND,1961,11.5103874227962
+Honduras,HND,1962,10.7027724049001
+Honduras,HND,1963,10.7264748902974
+Honduras,HND,1964,11.1597374179431
+Honduras,HND,1965,10.026540843409
+Honduras,HND,1966,10.3645785980544
+Honduras,HND,1967,10.0317672629995
+Honduras,HND,1968,9.9721706864564
+Honduras,HND,1969,11.152693775996
+Honduras,HND,1970,11.4799446749654
+Honduras,HND,1971,11.9699042407661
+Honduras,HND,1972,12.017435368458
+Honduras,HND,1973,10.1917813803716
+Honduras,HND,1974,11.6964717254712
+Honduras,HND,1975,12.3665480427046
+Honduras,HND,1976,12.90801234822
+Honduras,HND,1977,12.4887694665699
+Honduras,HND,1978,6.73179537556209
+Honduras,HND,1979,6.95486424749224
+Honduras,HND,1980,8.19019384884961
+Honduras,HND,1981,8.91467287905381
+Honduras,HND,1982,8.8831521578715
+Honduras,HND,1983,9.01334138403467
+Honduras,HND,1984,8.91093004224915
+Honduras,HND,1985,9.02783445008222
+Honduras,HND,1986,9.57232075718821
+Honduras,HND,1987,9.53877673565527
+Honduras,HND,1988,9.51042345184195
+Honduras,HND,1989,9.36282027110879
+Honduras,HND,1990,8.00754209652464
+Honduras,HND,1991,7.15742987932909
+Honduras,HND,1992,7.9874994419604
+Honduras,HND,1993,7.49149806860769
+Honduras,HND,1994,7.12162952679656
+Honduras,HND,1995,6.81525713421117
+Honduras,HND,1996,7.37862240640289
+Honduras,HND,1997,7.18689611084789
+Honduras,HND,1998,8.25635683327832
+Honduras,HND,1999,9.47979854278701
+Honduras,HND,2000,13.4084733653246
+Honduras,HND,2001,14.687410537623
+Honduras,HND,2002,14.9755432131836
+Honduras,HND,2003,14.9208291963607
+Honduras,HND,2004,15.0107580143337
+Honduras,HND,2005,15.5226141975342
+Honduras,HND,2006,15.0037811215388
+Honduras,HND,2007,16.6023739634675
+Honduras,HND,2008,17.1148275892292
+Honduras,HND,2009,18.6997382744106
+Honduras,HND,2010,17.9264315738123
+Honduras,HND,2011,16.0643683897277
+Honduras,HND,2012,16.2017830432394
+Honduras,HND,2013,16.7338132476973
+Honduras,HND,2014,15.3323115474268
+Honduras,HND,2015,14.3052467695847
+Honduras,HND,2016,14.1139360855006
+Honduras,HND,2017,13.4984164607115
+Honduras,HND,2018,13.4622514861767
+Honduras,HND,2019,13.4889921041466
+Honduras,HND,2020,14.9741964606435
+Honduras,HND,2021,14.6200152644578
+El Salvador,SLV,1960,
+El Salvador,SLV,1961,
+El Salvador,SLV,1962,
+El Salvador,SLV,1963,
+El Salvador,SLV,1964,
+El Salvador,SLV,1965,8.66335505628219
+El Salvador,SLV,1966,8.7141750580945
+El Salvador,SLV,1967,9.14976439254251
+El Salvador,SLV,1968,9.41609794247168
+El Salvador,SLV,1969,10.4478749761769
+El Salvador,SLV,1970,10.7227341736398
+El Salvador,SLV,1971,10.1676053013186
+El Salvador,SLV,1972,10.6700851454436
+El Salvador,SLV,1973,10.4747906151201
+El Salvador,SLV,1974,10.8723317405816
+El Salvador,SLV,1975,11.1924924531085
+El Salvador,SLV,1976,12.020890441833
+El Salvador,SLV,1977,11.2291099104884
+El Salvador,SLV,1978,12.5973477921713
+El Salvador,SLV,1979,13.1630311800023
+El Salvador,SLV,1980,13.9889650132896
+El Salvador,SLV,1981,15.8291623513812
+El Salvador,SLV,1982,15.778233696972
+El Salvador,SLV,1983,15.8294479515124
+El Salvador,SLV,1984,16.0361979957088
+El Salvador,SLV,1985,15.4905211036635
+El Salvador,SLV,1986,14.1810965517812
+El Salvador,SLV,1987,13.745705014328
+El Salvador,SLV,1988,12.7316725061338
+El Salvador,SLV,1989,12.1941341726699
+El Salvador,SLV,1990,9.88078042398401
+El Salvador,SLV,1991,10.1763833980054
+El Salvador,SLV,1992,9.82984086436313
+El Salvador,SLV,1993,9.26497093859631
+El Salvador,SLV,1994,9.26564813011044
+El Salvador,SLV,1995,9.77007249908487
+El Salvador,SLV,1996,10.9275816752271
+El Salvador,SLV,1997,10.883207860637
+El Salvador,SLV,1998,11.8270781858379
+El Salvador,SLV,1999,12.5114219469937
+El Salvador,SLV,2000,13.0857417139691
+El Salvador,SLV,2001,13.8066587499504
+El Salvador,SLV,2002,14.0156943156484
+El Salvador,SLV,2003,13.8076841187215
+El Salvador,SLV,2004,13.7705773417978
+El Salvador,SLV,2005,13.9948292284665
+El Salvador,SLV,2006,14.3343485486463
+El Salvador,SLV,2007,14.3442032712684
+El Salvador,SLV,2008,14.7107143035844
+El Salvador,SLV,2009,16.1016997299112
+El Salvador,SLV,2010,15.7115815766764
+El Salvador,SLV,2011,15.7558896813119
+El Salvador,SLV,2012,15.7574411476586
+El Salvador,SLV,2013,16.3058820533528
+El Salvador,SLV,2014,15.9541672881589
+El Salvador,SLV,2015,16.497441787438
+El Salvador,SLV,2016,16.3164393340948
+El Salvador,SLV,2017,16.1331092000982
+El Salvador,SLV,2018,16.1096582163919
+El Salvador,SLV,2019,16.2324987563512
+El Salvador,SLV,2020,19.3828656683464
+El Salvador,SLV,2021,19.6512572319809
+Barbados,BRB,1960,
+Barbados,BRB,1961,
+Barbados,BRB,1962,
+Barbados,BRB,1963,
+Barbados,BRB,1964,
+Barbados,BRB,1965,
+Barbados,BRB,1966,
+Barbados,BRB,1967,
+Barbados,BRB,1968,
+Barbados,BRB,1969,
+Barbados,BRB,1970,
+Barbados,BRB,1971,
+Barbados,BRB,1972,
+Barbados,BRB,1973,
+Barbados,BRB,1974,
+Barbados,BRB,1975,16.5859428561582
+Barbados,BRB,1976,17.3287508915498
+Barbados,BRB,1977,17.3185971283121
+Barbados,BRB,1978,17.0565145254336
+Barbados,BRB,1979,15.5974189720389
+Barbados,BRB,1980,12.6817288801572
+Barbados,BRB,1981,14.3328871039714
+Barbados,BRB,1982,14.0538231524989
+Barbados,BRB,1983,13.9219629927595
+Barbados,BRB,1984,14.3078626799557
+Barbados,BRB,1985,16.0952380952381
+Barbados,BRB,1986,15.0594282043045
+Barbados,BRB,1987,14.5128354725788
+Barbados,BRB,1988,14.73669775096
+Barbados,BRB,1989,15.2193308550186
+Barbados,BRB,1990,14.1932295527551
+Barbados,BRB,1991,13.3513779527559
+Barbados,BRB,1992,12.1819110884006
+Barbados,BRB,1993,12.4939759036145
+Barbados,BRB,1994,12.1215622833372
+Barbados,BRB,1995,12.332361516035
+Barbados,BRB,1996,13.2961716449306
+Barbados,BRB,1997,12.9930348258706
+Barbados,BRB,1998,13.4239322273209
+Barbados,BRB,1999,12.9964628600303
+Barbados,BRB,2000,13.5397940840007
+Barbados,BRB,2001,13.7714846947127
+Barbados,BRB,2002,14.6386608723644
+Barbados,BRB,2003,19.3394609752298
+Barbados,BRB,2004,17.6701988677602
+Barbados,BRB,2005,16.6972116769211
+Barbados,BRB,2006,14.5075788348295
+Barbados,BRB,2007,13.0140560235485
+Barbados,BRB,2008,13.322273074237
+Barbados,BRB,2009,15.8569746380419
+Barbados,BRB,2010,15.4261168387734
+Barbados,BRB,2011,15.4674466360749
+Barbados,BRB,2012,15.2147326764128
+Barbados,BRB,2013,14.7901255055337
+Barbados,BRB,2014,14.3479787984379
+Barbados,BRB,2015,13.6077745429828
+Barbados,BRB,2016,13.4203091932393
+Barbados,BRB,2017,12.1468410055527
+Barbados,BRB,2018,11.7917498806231
+Barbados,BRB,2019,10.9475421171019
+Barbados,BRB,2020,12.5198674434264
+Barbados,BRB,2021,
+Guyana,GUY,1960,11.4461960246744
+Guyana,GUY,1961,11.9271814187068
+Guyana,GUY,1962,11.5499700777977
+Guyana,GUY,1963,12.1473614337869
+Guyana,GUY,1964,13.9562743336328
+Guyana,GUY,1965,15.0068965517241
+Guyana,GUY,1966,15.2006172839506
+Guyana,GUY,1967,15.6595344462732
+Guyana,GUY,1968,15.2121871599565
+Guyana,GUY,1969,15.8644203770558
+Guyana,GUY,1970,16.9716206123973
+Guyana,GUY,1971,18.028718312356
+Guyana,GUY,1972,19.5060904388453
+Guyana,GUY,1973,24.7673697270471
+Guyana,GUY,1974,16.9896302503404
+Guyana,GUY,1975,19.6126315789474
+Guyana,GUY,1976,28.1753366781093
+Guyana,GUY,1977,25.7846536854272
+Guyana,GUY,1978,23.3493728800189
+Guyana,GUY,1979,26.2423648291984
+Guyana,GUY,1980,24.2042440318302
+Guyana,GUY,1981,29.0544789639624
+Guyana,GUY,1982,25.7952973720609
+Guyana,GUY,1983,27.1117166212534
+Guyana,GUY,1984,18.0998185147433
+Guyana,GUY,1985,18.0512820512821
+Guyana,GUY,1986,31.4746558283252
+Guyana,GUY,1987,27.3956826648724
+Guyana,GUY,1988,28.105368006413
+Guyana,GUY,1989,16.4666021180989
+Guyana,GUY,1990,13.6163420472266
+Guyana,GUY,1991,14.923266694041
+Guyana,GUY,1992,16.7511875722172
+Guyana,GUY,1993,15.1968741966037
+Guyana,GUY,1994,15.4916244980613
+Guyana,GUY,1995,15.0062866170925
+Guyana,GUY,1996,16.2135118271072
+Guyana,GUY,1997,17.5374496164751
+Guyana,GUY,1998,18.4374364679016
+Guyana,GUY,1999,18.9760248280568
+Guyana,GUY,2000,24.6721060474628
+Guyana,GUY,2001,25.0806947778099
+Guyana,GUY,2002,25.727551565445
+Guyana,GUY,2003,28.0087058529542
+Guyana,GUY,2004,27.1793843032206
+Guyana,GUY,2005,26.9140489952873
+Guyana,GUY,2006,
+Guyana,GUY,2007,
+Guyana,GUY,2008,
+Guyana,GUY,2009,
+Guyana,GUY,2010,
+Guyana,GUY,2011,
+Guyana,GUY,2012,
+Guyana,GUY,2013,
+Guyana,GUY,2014,
+Guyana,GUY,2015,
+Guyana,GUY,2016,
+Guyana,GUY,2017,
+Guyana,GUY,2018,
+Guyana,GUY,2019,
+Guyana,GUY,2020,
+Guyana,GUY,2021,
+Argentina,ARG,1960,9.88044509530908
+Argentina,ARG,1961,7.78963204837659
+Argentina,ARG,1962,12.1923745358944
+Argentina,ARG,1963,10.2521949604089
+Argentina,ARG,1964,7.22902581011462
+Argentina,ARG,1965,8.08948631231509
+Argentina,ARG,1966,10.8043385562514
+Argentina,ARG,1967,9.73927816591007
+Argentina,ARG,1968,9.82935062850281
+Argentina,ARG,1969,9.50117537000899
+Argentina,ARG,1970,9.74254326207249
+Argentina,ARG,1971,10.1462160701724
+Argentina,ARG,1972,9.35169696056921
+Argentina,ARG,1973,11.5393235681285
+Argentina,ARG,1974,13.1532327349798
+Argentina,ARG,1975,12.5891776401773
+Argentina,ARG,1976,9.42009472768441
+Argentina,ARG,1977,9.01540997692432
+Argentina,ARG,1978,11.1661116654098
+Argentina,ARG,1979,11.0078459559273
+Argentina,ARG,1980,
+Argentina,ARG,1981,
+Argentina,ARG,1982,
+Argentina,ARG,1983,
+Argentina,ARG,1984,
+Argentina,ARG,1985,
+Argentina,ARG,1986,
+Argentina,ARG,1987,4.7144944990421
+Argentina,ARG,1988,4.32191028434568
+Argentina,ARG,1989,4.49439596541391
+Argentina,ARG,1990,3.13542839161188
+Argentina,ARG,1991,3.32176128752774
+Argentina,ARG,1992,2.97553802761558
+Argentina,ARG,1993,13.5103784728742
+Argentina,ARG,1994,13.1869043660659
+Argentina,ARG,1995,13.3494556774505
+Argentina,ARG,1996,12.5016776609201
+Argentina,ARG,1997,12.0620142457633
+Argentina,ARG,1998,12.4947749986829
+Argentina,ARG,1999,13.7232114149469
+Argentina,ARG,2000,13.7841913064131
+Argentina,ARG,2001,14.1562743129569
+Argentina,ARG,2002,12.235247296692
+Argentina,ARG,2003,11.4380567929249
+Argentina,ARG,2004,11.114636067696
+Argentina,ARG,2005,12.1418612359575
+Argentina,ARG,2006,12.4294153726307
+Argentina,ARG,2007,12.9893238963619
+Argentina,ARG,2008,13.6335132595631
+Argentina,ARG,2009,15.903896746884
+Argentina,ARG,2010,15.1637178886417
+Argentina,ARG,2011,15.6889565165983
+Argentina,ARG,2012,16.6454378106252
+Argentina,ARG,2013,16.8062377968797
+Argentina,ARG,2014,16.9498757371062
+Argentina,ARG,2015,18.098379759087
+Argentina,ARG,2016,17.6545781863509
+Argentina,ARG,2017,17.6968939223042
+Argentina,ARG,2018,15.8050971558947
+Argentina,ARG,2019,15.2094887555093
+Argentina,ARG,2020,15.5314105488087
+Argentina,ARG,2021,14.5455351612635
+Belize,BLZ,1960,
+Belize,BLZ,1961,
+Belize,BLZ,1962,
+Belize,BLZ,1963,
+Belize,BLZ,1964,
+Belize,BLZ,1965,
+Belize,BLZ,1966,
+Belize,BLZ,1967,
+Belize,BLZ,1968,
+Belize,BLZ,1969,
+Belize,BLZ,1970,
+Belize,BLZ,1971,
+Belize,BLZ,1972,
+Belize,BLZ,1973,
+Belize,BLZ,1974,
+Belize,BLZ,1975,
+Belize,BLZ,1976,
+Belize,BLZ,1977,
+Belize,BLZ,1978,
+Belize,BLZ,1979,
+Belize,BLZ,1980,15.4587849907671
+Belize,BLZ,1981,16.5006679720515
+Belize,BLZ,1982,18.777804970415
+Belize,BLZ,1983,18.8332528649342
+Belize,BLZ,1984,17.8452779851026
+Belize,BLZ,1985,19.024381766188
+Belize,BLZ,1986,18.467341486374
+Belize,BLZ,1987,16.0928334558407
+Belize,BLZ,1988,14.9431231899511
+Belize,BLZ,1989,13.7020563631804
+Belize,BLZ,1990,12.9787530044586
+Belize,BLZ,1991,13.0868640601996
+Belize,BLZ,1992,13.5150398305152
+Belize,BLZ,1993,14.831071751731
+Belize,BLZ,1994,15.2759335148383
+Belize,BLZ,1995,14.2747401972043
+Belize,BLZ,1996,14.1347598416607
+Belize,BLZ,1997,14.5248371138323
+Belize,BLZ,1998,14.3294105696956
+Belize,BLZ,1999,13.5036893075623
+Belize,BLZ,2000,12.90820889455
+Belize,BLZ,2001,13.0967486581968
+Belize,BLZ,2002,14.308808517439
+Belize,BLZ,2003,14.6155193404112
+Belize,BLZ,2004,13.960146989821
+Belize,BLZ,2005,14.4855320642643
+Belize,BLZ,2006,14.2509384983456
+Belize,BLZ,2007,15.1233810315577
+Belize,BLZ,2008,15.5590516099351
+Belize,BLZ,2009,16.1024624362104
+Belize,BLZ,2010,16.0527384219023
+Belize,BLZ,2011,15.6358436018742
+Belize,BLZ,2012,15.3590074627329
+Belize,BLZ,2013,15.5040481119788
+Belize,BLZ,2014,15.2409307672306
+Belize,BLZ,2015,15.683375896879
+Belize,BLZ,2016,16.7869743670244
+Belize,BLZ,2017,16.7975974748884
+Belize,BLZ,2018,18.0798033605326
+Belize,BLZ,2019,17.9128625010456
+Belize,BLZ,2020,15.4701753621292
+Belize,BLZ,2021,13.1461028586338
+Paraguay,PRY,1960,
+Paraguay,PRY,1961,
+Paraguay,PRY,1962,7.04981517338497
+Paraguay,PRY,1963,6.9461672041677
+Paraguay,PRY,1964,6.81023089481458
+Paraguay,PRY,1965,6.7880913189723
+Paraguay,PRY,1966,7.82426493134817
+Paraguay,PRY,1967,7.78388130869726
+Paraguay,PRY,1968,8.31902367226788
+Paraguay,PRY,1969,9.03228567759976
+Paraguay,PRY,1970,9.00682051761188
+Paraguay,PRY,1971,8.48977739562434
+Paraguay,PRY,1972,8.01762660089371
+Paraguay,PRY,1973,6.5132297487982
+Paraguay,PRY,1974,5.49170619642312
+Paraguay,PRY,1975,6.28652744448353
+Paraguay,PRY,1976,6.26573674843158
+Paraguay,PRY,1977,6.20343535195666
+Paraguay,PRY,1978,6.66579856266781
+Paraguay,PRY,1979,5.73965074306527
+Paraguay,PRY,1980,6.19706347832758
+Paraguay,PRY,1981,6.86126072226322
+Paraguay,PRY,1982,7.09215239335721
+Paraguay,PRY,1983,7.23911794081834
+Paraguay,PRY,1984,6.67718749188918
+Paraguay,PRY,1985,6.67831302162834
+Paraguay,PRY,1986,6.8355514993471
+Paraguay,PRY,1987,7.33900022268439
+Paraguay,PRY,1988,6.27917168818831
+Paraguay,PRY,1989,6.47518847330066
+Paraguay,PRY,1990,6.16494703610531
+Paraguay,PRY,1991,6.63962399123003
+Paraguay,PRY,1992,8.03321117542784
+Paraguay,PRY,1993,8.67001484717436
+Paraguay,PRY,1994,8.88325722853195
+Paraguay,PRY,1995,8.87135694769523
+Paraguay,PRY,1996,9.62621865463877
+Paraguay,PRY,1997,10.1839567905594
+Paraguay,PRY,1998,10.2908406937636
+Paraguay,PRY,1999,9.89065247505807
+Paraguay,PRY,2000,10.4050719792481
+Paraguay,PRY,2001,9.48114361115282
+Paraguay,PRY,2002,8.39686429853125
+Paraguay,PRY,2003,7.93637429708313
+Paraguay,PRY,2004,7.58724400427132
+Paraguay,PRY,2005,8.11892416861415
+Paraguay,PRY,2006,8.30448470445992
+Paraguay,PRY,2007,7.67142378869969
+Paraguay,PRY,2008,7.4300674515924
+Paraguay,PRY,2009,9.13708153040746
+Paraguay,PRY,2010,9.06137526683434
+Paraguay,PRY,2011,10.0606239849881
+Paraguay,PRY,2012,11.7254484481079
+Paraguay,PRY,2013,11.2997503996766
+Paraguay,PRY,2014,11.5488457611573
+Paraguay,PRY,2015,11.8031750486187
+Paraguay,PRY,2016,11.3629906714553
+Paraguay,PRY,2017,11.1076787786728
+Paraguay,PRY,2018,11.5202342968007
+Paraguay,PRY,2019,11.9462687058903
+Paraguay,PRY,2020,12.6444728382554
+Paraguay,PRY,2021,12.7186240665185
+Colombia,COL,1960,6.37628417711344
+Colombia,COL,1961,6.781266888005
+Colombia,COL,1962,7.04725198250252
+Colombia,COL,1963,7.41422476479305
+Colombia,COL,1964,6.64865393236273
+Colombia,COL,1965,8.31239254066922
+Colombia,COL,1966,8.70027972982193
+Colombia,COL,1967,8.58539240746
+Colombia,COL,1968,8.46223558732055
+Colombia,COL,1969,8.80531290276386
+Colombia,COL,1970,9.25222945288021
+Colombia,COL,1971,10.9663472024428
+Colombia,COL,1972,9.56891368780786
+Colombia,COL,1973,9.46331633492351
+Colombia,COL,1974,8.74981388654524
+Colombia,COL,1975,8.9299643551843
+Colombia,COL,1976,8.20673718225713
+Colombia,COL,1977,7.711419509545
+Colombia,COL,1978,8.55647194517349
+Colombia,COL,1979,9.31362859043907
+Colombia,COL,1980,10.0923293205753
+Colombia,COL,1981,10.4335695513304
+Colombia,COL,1982,10.9224449785328
+Colombia,COL,1983,10.9544856697653
+Colombia,COL,1984,11.0364768406445
+Colombia,COL,1985,10.6982786344342
+Colombia,COL,1986,9.80875538969316
+Colombia,COL,1987,9.84069412928323
+Colombia,COL,1988,10.0787224110989
+Colombia,COL,1989,10.5545366813872
+Colombia,COL,1990,12.4524654899488
+Colombia,COL,1991,11.7592720369725
+Colombia,COL,1992,13.1328297032988
+Colombia,COL,1993,14.0515703261773
+Colombia,COL,1994,14.4734544198645
+Colombia,COL,1995,14.9483765869675
+Colombia,COL,1996,17.9945338654797
+Colombia,COL,1997,19.9213136419587
+Colombia,COL,1998,20.3069357941294
+Colombia,COL,1999,22.1605930735792
+Colombia,COL,2000,16.4728505593893
+Colombia,COL,2001,16.5662317191423
+Colombia,COL,2002,16.0408930267443
+Colombia,COL,2003,15.6103471699499
+Colombia,COL,2004,15.6815981180263
+Colombia,COL,2005,13.9561720687186
+Colombia,COL,2006,13.8806197000031
+Colombia,COL,2007,13.7300294511629
+Colombia,COL,2008,13.143945911691
+Colombia,COL,2009,13.8041445529473
+Colombia,COL,2010,13.7602470315774
+Colombia,COL,2011,13.3492616590983
+Colombia,COL,2012,13.4754773768318
+Colombia,COL,2013,14.097323457869
+Colombia,COL,2014,14.2437505161207
+Colombia,COL,2015,14.8116297912742
+Colombia,COL,2016,14.5412847223026
+Colombia,COL,2017,14.8806426275244
+Colombia,COL,2018,15.4214808598175
+Colombia,COL,2019,15.7732334152149
+Colombia,COL,2020,17.1668907870983
+Colombia,COL,2021,16.6433469578501
+Antigua and Barbuda,ATG,1960,
+Antigua and Barbuda,ATG,1961,
+Antigua and Barbuda,ATG,1962,
+Antigua and Barbuda,ATG,1963,
+Antigua and Barbuda,ATG,1964,
+Antigua and Barbuda,ATG,1965,
+Antigua and Barbuda,ATG,1966,
+Antigua and Barbuda,ATG,1967,
+Antigua and Barbuda,ATG,1968,
+Antigua and Barbuda,ATG,1969,
+Antigua and Barbuda,ATG,1970,
+Antigua and Barbuda,ATG,1971,
+Antigua and Barbuda,ATG,1972,
+Antigua and Barbuda,ATG,1973,
+Antigua and Barbuda,ATG,1974,
+Antigua and Barbuda,ATG,1975,
+Antigua and Barbuda,ATG,1976,
+Antigua and Barbuda,ATG,1977,
+Antigua and Barbuda,ATG,1978,
+Antigua and Barbuda,ATG,1979,
+Antigua and Barbuda,ATG,1980,
+Antigua and Barbuda,ATG,1981,
+Antigua and Barbuda,ATG,1982,
+Antigua and Barbuda,ATG,1983,
+Antigua and Barbuda,ATG,1984,
+Antigua and Barbuda,ATG,1985,
+Antigua and Barbuda,ATG,1986,
+Antigua and Barbuda,ATG,1987,
+Antigua and Barbuda,ATG,1988,
+Antigua and Barbuda,ATG,1989,
+Antigua and Barbuda,ATG,1990,
+Antigua and Barbuda,ATG,1991,
+Antigua and Barbuda,ATG,1992,
+Antigua and Barbuda,ATG,1993,15.931126597784
+Antigua and Barbuda,ATG,1994,16.2240961130032
+Antigua and Barbuda,ATG,1995,18.272105526542
+Antigua and Barbuda,ATG,1996,17.982899589146
+Antigua and Barbuda,ATG,1997,17.3099631598709
+Antigua and Barbuda,ATG,1998,18.5678957063331
+Antigua and Barbuda,ATG,1999,19.1614219283235
+Antigua and Barbuda,ATG,2000,17.295625672284
+Antigua and Barbuda,ATG,2001,19.4743904131773
+Antigua and Barbuda,ATG,2002,22.0026104792094
+Antigua and Barbuda,ATG,2003,18.5229233610262
+Antigua and Barbuda,ATG,2004,18.3226149391729
+Antigua and Barbuda,ATG,2005,16.4627081824765
+Antigua and Barbuda,ATG,2006,15.017484139502
+Antigua and Barbuda,ATG,2007,15.3140825798079
+Antigua and Barbuda,ATG,2008,17.7633481924421
+Antigua and Barbuda,ATG,2009,19.5296834906784
+Antigua and Barbuda,ATG,2010,17.8623822743262
+Antigua and Barbuda,ATG,2011,17.5444879249386
+Antigua and Barbuda,ATG,2012,17.584093139827
+Antigua and Barbuda,ATG,2013,17.1728982949362
+Antigua and Barbuda,ATG,2014,16.717047785009
+Antigua and Barbuda,ATG,2015,16.2609425696925
+Antigua and Barbuda,ATG,2016,15.7415037718045
+Antigua and Barbuda,ATG,2017,16.0272307079025
+Antigua and Barbuda,ATG,2018,15.2422043103746
+Antigua and Barbuda,ATG,2019,15.0912881830592
+Antigua and Barbuda,ATG,2020,19.3361136938612
+Antigua and Barbuda,ATG,2021,
+St. Martin (French part),MAF,1960,
+St. Martin (French part),MAF,1961,
+St. Martin (French part),MAF,1962,
+St. Martin (French part),MAF,1963,
+St. Martin (French part),MAF,1964,
+St. Martin (French part),MAF,1965,
+St. Martin (French part),MAF,1966,
+St. Martin (French part),MAF,1967,
+St. Martin (French part),MAF,1968,
+St. Martin (French part),MAF,1969,
+St. Martin (French part),MAF,1970,
+St. Martin (French part),MAF,1971,
+St. Martin (French part),MAF,1972,
+St. Martin (French part),MAF,1973,
+St. Martin (French part),MAF,1974,
+St. Martin (French part),MAF,1975,
+St. Martin (French part),MAF,1976,
+St. Martin (French part),MAF,1977,
+St. Martin (French part),MAF,1978,
+St. Martin (French part),MAF,1979,
+St. Martin (French part),MAF,1980,
+St. Martin (French part),MAF,1981,
+St. Martin (French part),MAF,1982,
+St. Martin (French part),MAF,1983,
+St. Martin (French part),MAF,1984,
+St. Martin (French part),MAF,1985,
+St. Martin (French part),MAF,1986,
+St. Martin (French part),MAF,1987,
+St. Martin (French part),MAF,1988,
+St. Martin (French part),MAF,1989,
+St. Martin (French part),MAF,1990,
+St. Martin (French part),MAF,1991,
+St. Martin (French part),MAF,1992,
+St. Martin (French part),MAF,1993,
+St. Martin (French part),MAF,1994,
+St. Martin (French part),MAF,1995,
+St. Martin (French part),MAF,1996,
+St. Martin (French part),MAF,1997,
+St. Martin (French part),MAF,1998,
+St. Martin (French part),MAF,1999,
+St. Martin (French part),MAF,2000,
+St. Martin (French part),MAF,2001,
+St. Martin (French part),MAF,2002,
+St. Martin (French part),MAF,2003,
+St. Martin (French part),MAF,2004,
+St. Martin (French part),MAF,2005,
+St. Martin (French part),MAF,2006,
+St. Martin (French part),MAF,2007,
+St. Martin (French part),MAF,2008,
+St. Martin (French part),MAF,2009,
+St. Martin (French part),MAF,2010,
+St. Martin (French part),MAF,2011,
+St. Martin (French part),MAF,2012,
+St. Martin (French part),MAF,2013,
+St. Martin (French part),MAF,2014,
+St. Martin (French part),MAF,2015,
+St. Martin (French part),MAF,2016,
+St. Martin (French part),MAF,2017,
+St. Martin (French part),MAF,2018,
+St. Martin (French part),MAF,2019,
+St. Martin (French part),MAF,2020,
+St. Martin (French part),MAF,2021,
+Ecuador,ECU,1960,8.86943259917402
+Ecuador,ECU,1961,9.50732327271953
+Ecuador,ECU,1962,9.28521531012741
+Ecuador,ECU,1963,8.84538437111648
+Ecuador,ECU,1964,9.21130458910258
+Ecuador,ECU,1965,9.43361509935018
+Ecuador,ECU,1966,9.1516363314382
+Ecuador,ECU,1967,7.48205982513521
+Ecuador,ECU,1968,7.19744682466835
+Ecuador,ECU,1969,8.23599379555884
+Ecuador,ECU,1970,9.69333117101902
+Ecuador,ECU,1971,8.51251407606524
+Ecuador,ECU,1972,9.22724731979676
+Ecuador,ECU,1973,10.8068865700572
+Ecuador,ECU,1974,16.0378502677948
+Ecuador,ECU,1975,20.9388984508353
+Ecuador,ECU,1976,20.1909070041417
+Ecuador,ECU,1977,20.9127959640183
+Ecuador,ECU,1978,19.7792072645085
+Ecuador,ECU,1979,18.8371761298458
+Ecuador,ECU,1980,18.2915482917391
+Ecuador,ECU,1981,15.8728599847562
+Ecuador,ECU,1982,17.3340009939609
+Ecuador,ECU,1983,15.3875223901456
+Ecuador,ECU,1984,16.1990825114964
+Ecuador,ECU,1985,14.7619893828051
+Ecuador,ECU,1986,15.6142860138724
+Ecuador,ECU,1987,15.2809072436712
+Ecuador,ECU,1988,16.2754500932496
+Ecuador,ECU,1989,13.6809114264663
+Ecuador,ECU,1990,12.3019782138532
+Ecuador,ECU,1991,11.3385886406281
+Ecuador,ECU,1992,9.93883890969136
+Ecuador,ECU,1993,10.6039500354161
+Ecuador,ECU,1994,10.9567918572233
+Ecuador,ECU,1995,11.2136981674703
+Ecuador,ECU,1996,10.8754339888743
+Ecuador,ECU,1997,11.2693127590151
+Ecuador,ECU,1998,11.0929970945984
+Ecuador,ECU,1999,11.7675327023318
+Ecuador,ECU,2000,9.35039744574381
+Ecuador,ECU,2001,9.44893487596453
+Ecuador,ECU,2002,9.83244039315638
+Ecuador,ECU,2003,10.7139124156126
+Ecuador,ECU,2004,10.8843542248601
+Ecuador,ECU,2005,10.7178449173195
+Ecuador,ECU,2006,10.6018937976299
+Ecuador,ECU,2007,10.9281551321086
+Ecuador,ECU,2008,11.8304343718496
+Ecuador,ECU,2009,13.7257167286477
+Ecuador,ECU,2010,13.1996528750973
+Ecuador,ECU,2011,12.7290497491166
+Ecuador,ECU,2012,13.3372906659601
+Ecuador,ECU,2013,14.005388161856
+Ecuador,ECU,2014,14.2961560267027
+Ecuador,ECU,2015,14.4295226342217
+Ecuador,ECU,2016,14.6056939315471
+Ecuador,ECU,2017,14.5712569114199
+Ecuador,ECU,2018,14.7163578426316
+Ecuador,ECU,2019,14.4147442397168
+Ecuador,ECU,2020,16.3567400042727
+Ecuador,ECU,2021,15.2801956139085
+British Virgin Islands,VGB,1960,
+British Virgin Islands,VGB,1961,
+British Virgin Islands,VGB,1962,
+British Virgin Islands,VGB,1963,
+British Virgin Islands,VGB,1964,
+British Virgin Islands,VGB,1965,
+British Virgin Islands,VGB,1966,
+British Virgin Islands,VGB,1967,
+British Virgin Islands,VGB,1968,
+British Virgin Islands,VGB,1969,
+British Virgin Islands,VGB,1970,
+British Virgin Islands,VGB,1971,
+British Virgin Islands,VGB,1972,
+British Virgin Islands,VGB,1973,
+British Virgin Islands,VGB,1974,
+British Virgin Islands,VGB,1975,
+British Virgin Islands,VGB,1976,
+British Virgin Islands,VGB,1977,
+British Virgin Islands,VGB,1978,
+British Virgin Islands,VGB,1979,
+British Virgin Islands,VGB,1980,
+British Virgin Islands,VGB,1981,
+British Virgin Islands,VGB,1982,
+British Virgin Islands,VGB,1983,
+British Virgin Islands,VGB,1984,
+British Virgin Islands,VGB,1985,
+British Virgin Islands,VGB,1986,
+British Virgin Islands,VGB,1987,
+British Virgin Islands,VGB,1988,
+British Virgin Islands,VGB,1989,
+British Virgin Islands,VGB,1990,
+British Virgin Islands,VGB,1991,
+British Virgin Islands,VGB,1992,
+British Virgin Islands,VGB,1993,
+British Virgin Islands,VGB,1994,
+British Virgin Islands,VGB,1995,
+British Virgin Islands,VGB,1996,
+British Virgin Islands,VGB,1997,
+British Virgin Islands,VGB,1998,
+British Virgin Islands,VGB,1999,
+British Virgin Islands,VGB,2000,
+British Virgin Islands,VGB,2001,
+British Virgin Islands,VGB,2002,
+British Virgin Islands,VGB,2003,
+British Virgin Islands,VGB,2004,
+British Virgin Islands,VGB,2005,
+British Virgin Islands,VGB,2006,
+British Virgin Islands,VGB,2007,
+British Virgin Islands,VGB,2008,
+British Virgin Islands,VGB,2009,
+British Virgin Islands,VGB,2010,
+British Virgin Islands,VGB,2011,
+British Virgin Islands,VGB,2012,
+British Virgin Islands,VGB,2013,
+British Virgin Islands,VGB,2014,
+British Virgin Islands,VGB,2015,
+British Virgin Islands,VGB,2016,
+British Virgin Islands,VGB,2017,
+British Virgin Islands,VGB,2018,
+British Virgin Islands,VGB,2019,
+British Virgin Islands,VGB,2020,
+British Virgin Islands,VGB,2021,
+Chile,CHL,1960,10.3634232121212
+Chile,CHL,1961,10.540596952689
+Chile,CHL,1962,11.1130773314423
+Chile,CHL,1963,9.62449451180382
+Chile,CHL,1964,9.54303122592555
+Chile,CHL,1965,10.7168088690232
+Chile,CHL,1966,11.2290715371257
+Chile,CHL,1967,11.1798147931211
+Chile,CHL,1968,11.0894941633352
+Chile,CHL,1969,11.1208291424566
+Chile,CHL,1970,12.790473190901
+Chile,CHL,1971,15.2631537501638
+Chile,CHL,1972,16.0812142043662
+Chile,CHL,1973,13.1522224393794
+Chile,CHL,1974,15.7453773742218
+Chile,CHL,1975,15.6852064582497
+Chile,CHL,1976,13.9808254900433
+Chile,CHL,1977,14.5737907793701
+Chile,CHL,1978,14.4298893410793
+Chile,CHL,1979,14.2961358248088
+Chile,CHL,1980,12.4480660659014
+Chile,CHL,1981,12.9831066777748
+Chile,CHL,1982,15.7788844454112
+Chile,CHL,1983,14.3498181258675
+Chile,CHL,1984,13.471165464497
+Chile,CHL,1985,12.2277472225917
+Chile,CHL,1986,12.5809214938519
+Chile,CHL,1987,10.8819933066366
+Chile,CHL,1988,10.3642538145763
+Chile,CHL,1989,10.0873312029282
+Chile,CHL,1990,9.75470888307932
+Chile,CHL,1991,9.66571147017591
+Chile,CHL,1992,9.673892844036
+Chile,CHL,1993,10.0335428532653
+Chile,CHL,1994,9.94869640053868
+Chile,CHL,1995,9.82909968098605
+Chile,CHL,1996,11.3042387762434
+Chile,CHL,1997,11.4376438172391
+Chile,CHL,1998,11.8075864366811
+Chile,CHL,1999,12.6522045996008
+Chile,CHL,2000,12.5909258671039
+Chile,CHL,2001,12.6430976838425
+Chile,CHL,2002,12.7485938739069
+Chile,CHL,2003,12.1781884394566
+Chile,CHL,2004,11.4302095052364
+Chile,CHL,2005,10.9536305505405
+Chile,CHL,2006,10.2971154567969
+Chile,CHL,2007,10.5459552760673
+Chile,CHL,2008,11.2649291903438
+Chile,CHL,2009,12.8685277947587
+Chile,CHL,2010,12.5461769482963
+Chile,CHL,2011,12.3111909097858
+Chile,CHL,2012,12.3259315107792
+Chile,CHL,2013,12.7855842175532
+Chile,CHL,2014,13.2263259780646
+Chile,CHL,2015,13.5921177180299
+Chile,CHL,2016,14.3426676192756
+Chile,CHL,2017,14.6487131962187
+Chile,CHL,2018,14.8564737573909
+Chile,CHL,2019,15.2250792613708
+Chile,CHL,2020,16.0357915528858
+Chile,CHL,2021,14.3620279002241
+Puerto Rico,PRI,1960,12.8849222767303
+Puerto Rico,PRI,1961,
+Puerto Rico,PRI,1962,
+Puerto Rico,PRI,1963,13.4127528282482
+Puerto Rico,PRI,1964,13.8494456331453
+Puerto Rico,PRI,1965,13.6040256810689
+Puerto Rico,PRI,1966,13.5309888030279
+Puerto Rico,PRI,1967,14.3516290655872
+Puerto Rico,PRI,1968,15.1711190603039
+Puerto Rico,PRI,1969,15.0649001277826
+Puerto Rico,PRI,1970,15.9294496196397
+Puerto Rico,PRI,1971,16.1826167032656
+Puerto Rico,PRI,1972,16.4404556874022
+Puerto Rico,PRI,1973,17.5839712098709
+Puerto Rico,PRI,1974,17.2509369144285
+Puerto Rico,PRI,1975,19.6857885171316
+Puerto Rico,PRI,1976,17.9838547822403
+Puerto Rico,PRI,1977,17.444429870143
+Puerto Rico,PRI,1978,16.7254814151366
+Puerto Rico,PRI,1979,16.12
+Puerto Rico,PRI,1980,15.8048226321513
+Puerto Rico,PRI,1981,15.6997185958623
+Puerto Rico,PRI,1982,14.4331372806337
+Puerto Rico,PRI,1983,14.8565111190859
+Puerto Rico,PRI,1984,15.0689363656289
+Puerto Rico,PRI,1985,15.1075449007354
+Puerto Rico,PRI,1986,14.6987864221034
+Puerto Rico,PRI,1987,14.3096171615513
+Puerto Rico,PRI,1988,13.9404528193195
+Puerto Rico,PRI,1989,14.1272388960698
+Puerto Rico,PRI,1990,14.4788646186131
+Puerto Rico,PRI,1991,14.373263370051
+Puerto Rico,PRI,1992,13.8756579112647
+Puerto Rico,PRI,1993,13.7786067102362
+Puerto Rico,PRI,1994,13.4978961029341
+Puerto Rico,PRI,1995,13.9422558471479
+Puerto Rico,PRI,1996,14.3212029509382
+Puerto Rico,PRI,1997,14.3458659080505
+Puerto Rico,PRI,1998,13.1251109336173
+Puerto Rico,PRI,1999,12.9753980740305
+Puerto Rico,PRI,2000,11.7166760126933
+Puerto Rico,PRI,2001,11.1576224851319
+Puerto Rico,PRI,2002,11.6667211180688
+Puerto Rico,PRI,2003,11.6715160489339
+Puerto Rico,PRI,2004,11.3304082764648
+Puerto Rico,PRI,2005,11.9948786504011
+Puerto Rico,PRI,2006,11.8355361638693
+Puerto Rico,PRI,2007,11.7425389245552
+Puerto Rico,PRI,2008,11.2325700854235
+Puerto Rico,PRI,2009,11.5180068391959
+Puerto Rico,PRI,2010,11.0202853591079
+Puerto Rico,PRI,2011,10.4697777915073
+Puerto Rico,PRI,2012,10.6282885409118
+Puerto Rico,PRI,2013,10.3361639824305
+Puerto Rico,PRI,2014,10.769206741516
+Puerto Rico,PRI,2015,8.80314968246828
+Puerto Rico,PRI,2016,8.24609173953173
+Puerto Rico,PRI,2017,8.75581608043638
+Puerto Rico,PRI,2018,7.97879613574437
+Puerto Rico,PRI,2019,8.01423252817053
+Puerto Rico,PRI,2020,7.6332458456267
+Puerto Rico,PRI,2021,
+Peru,PER,1960,7.623460023847
+Peru,PER,1961,8.563691227928
+Peru,PER,1962,8.61309673905775
+Peru,PER,1963,8.95612220878794
+Peru,PER,1964,9.80227080530605
+Peru,PER,1965,10.1103562259132
+Peru,PER,1966,10.0705126855425
+Peru,PER,1967,9.92696424604416
+Peru,PER,1968,9.7303240463335
+Peru,PER,1969,9.37666442091951
+Peru,PER,1970,11.8903984572682
+Peru,PER,1971,12.0945043159232
+Peru,PER,1972,12.7941854608277
+Peru,PER,1973,12.5739578067439
+Peru,PER,1974,11.1873158985311
+Peru,PER,1975,12.025892379037
+Peru,PER,1976,11.8627940384468
+Peru,PER,1977,13.70401429264
+Peru,PER,1978,10.8648325674039
+Peru,PER,1979,8.38733301614957
+Peru,PER,1980,13.3615299026563
+Peru,PER,1981,13.1256120391474
+Peru,PER,1982,13.8129329400685
+Peru,PER,1983,13.4517636112299
+Peru,PER,1984,11.7997926413524
+Peru,PER,1985,11.7228852406873
+Peru,PER,1986,12.4309304720086
+Peru,PER,1987,12.2047640228817
+Peru,PER,1988,8.5077600860946
+Peru,PER,1989,8.58435859444137
+Peru,PER,1990,7.27374848190843
+Peru,PER,1991,7.61217251643866
+Peru,PER,1992,7.85955799014648
+Peru,PER,1993,7.98563822184906
+Peru,PER,1994,8.79700544740766
+Peru,PER,1995,9.87834994969359
+Peru,PER,1996,10.3594236243234
+Peru,PER,1997,10.2385332945999
+Peru,PER,1998,10.9812652995953
+Peru,PER,1999,11.5489906334077
+Peru,PER,2000,11.4506268550924
+Peru,PER,2001,11.7171706103755
+Peru,PER,2002,11.165025870435
+Peru,PER,2003,11.518716629881
+Peru,PER,2004,11.2562792024042
+Peru,PER,2005,11.444512241325
+Peru,PER,2006,10.9166950883829
+Peru,PER,2007,10.455030294689
+Peru,PER,2008,10.3708617908307
+Peru,PER,2009,11.466355995307
+Peru,PER,2010,10.5258359246036
+Peru,PER,2011,10.3623514688753
+Peru,PER,2012,10.8712123448481
+Peru,PER,2013,11.5009309068431
+Peru,PER,2014,12.4020903759554
+Peru,PER,2015,12.9655733799238
+Peru,PER,2016,13.1636888035228
+Peru,PER,2017,13.2122751962604
+Peru,PER,2018,13.0774424949562
+Peru,PER,2019,13.2443725852511
+Peru,PER,2020,16.071319646097
+Peru,PER,2021,14.0028995477537
+Panama,PAN,1960,10.4412925248968
+Panama,PAN,1961,9.94163361441726
+Panama,PAN,1962,10.2508139211609
+Panama,PAN,1963,11.1016630821497
+Panama,PAN,1964,10.0611811695737
+Panama,PAN,1965,10.1560812837476
+Panama,PAN,1966,11.1623618023907
+Panama,PAN,1967,11.8616008640568
+Panama,PAN,1968,11.7887445361488
+Panama,PAN,1969,11.5735806358719
+Panama,PAN,1970,13.2595596882443
+Panama,PAN,1971,13.9084853166563
+Panama,PAN,1972,15.9203261217786
+Panama,PAN,1973,15.3711053659188
+Panama,PAN,1974,16.0873635863624
+Panama,PAN,1975,17.0638484121962
+Panama,PAN,1976,17.547055646098
+Panama,PAN,1977,17.7016668858446
+Panama,PAN,1978,17.5060453523632
+Panama,PAN,1979,18.0088947876985
+Panama,PAN,1980,16.7889097178588
+Panama,PAN,1981,16.246677906025
+Panama,PAN,1982,18.2511674343088
+Panama,PAN,1983,17.7962295846795
+Panama,PAN,1984,18.8685971156488
+Panama,PAN,1985,18.6620348359251
+Panama,PAN,1986,19.58121602907
+Panama,PAN,1987,21.0115982105918
+Panama,PAN,1988,19.9495207633741
+Panama,PAN,1989,18.4191342836623
+Panama,PAN,1990,17.2773189542315
+Panama,PAN,1991,16.7412978870904
+Panama,PAN,1992,15.1664931951316
+Panama,PAN,1993,14.445855544997
+Panama,PAN,1994,14.1205977416737
+Panama,PAN,1995,14.4078905567172
+Panama,PAN,1996,14.2952591835829
+Panama,PAN,1997,13.2571468699335
+Panama,PAN,1998,13.4514978135174
+Panama,PAN,1999,13.8127507357184
+Panama,PAN,2000,13.9871165053318
+Panama,PAN,2001,14.7822661908201
+Panama,PAN,2002,15.7186717657599
+Panama,PAN,2003,14.8147107139303
+Panama,PAN,2004,14.4303225168784
+Panama,PAN,2005,13.9446547697866
+Panama,PAN,2006,13.0967886891404
+Panama,PAN,2007,12.4662000829246
+Panama,PAN,2008,12.0727200230963
+Panama,PAN,2009,11.9487537015838
+Panama,PAN,2010,12.6126485258928
+Panama,PAN,2011,11.8640759640132
+Panama,PAN,2012,10.8556241220323
+Panama,PAN,2013,10.7127207078141
+Panama,PAN,2014,10.0413721036597
+Panama,PAN,2015,10.285494041788
+Panama,PAN,2016,10.9714260878702
+Panama,PAN,2017,11.4195874492007
+Panama,PAN,2018,11.5448188923302
+Panama,PAN,2019,11.9059010181399
+Panama,PAN,2020,16.8855359733807
+Panama,PAN,2021,
+Bolivia,BOL,1960,8.6403215003349
+Bolivia,BOL,1961,9.23645320197044
+Bolivia,BOL,1962,9.23596771165759
+Bolivia,BOL,1963,9.64086471408647
+Bolivia,BOL,1964,9.50023209036051
+Bolivia,BOL,1965,11.5181058495822
+Bolivia,BOL,1966,11.622641509434
+Bolivia,BOL,1967,10.8809444258826
+Bolivia,BOL,1968,10.5769230769231
+Bolivia,BOL,1969,10.4491126403477
+Bolivia,BOL,1970,9.70038073166694
+Bolivia,BOL,1971,10.3334357713583
+Bolivia,BOL,1972,10.1614832535885
+Bolivia,BOL,1973,9.85280151946819
+Bolivia,BOL,1974,9.39418455241993
+Bolivia,BOL,1975,10.4804854732117
+Bolivia,BOL,1976,10.8456655752099
+Bolivia,BOL,1977,11.7279075889193
+Bolivia,BOL,1978,12.6871625754634
+Bolivia,BOL,1979,15.067065735506
+Bolivia,BOL,1980,13.8415518653943
+Bolivia,BOL,1981,13.2906743377358
+Bolivia,BOL,1982,11.8016427975822
+Bolivia,BOL,1983,9.02830394168307
+Bolivia,BOL,1984,13.3095990804782
+Bolivia,BOL,1985,10.5612995770292
+Bolivia,BOL,1986,9.44747489673778
+Bolivia,BOL,1987,11.1257075296038
+Bolivia,BOL,1988,11.3865159779039
+Bolivia,BOL,1989,11.9406592118685
+Bolivia,BOL,1990,11.7554815839229
+Bolivia,BOL,1991,12.0747308599222
+Bolivia,BOL,1992,12.8705016251926
+Bolivia,BOL,1993,13.3704366684004
+Bolivia,BOL,1994,13.5679063950211
+Bolivia,BOL,1995,13.5726201506434
+Bolivia,BOL,1996,13.3272666220148
+Bolivia,BOL,1997,13.9035290001569
+Bolivia,BOL,1998,14.2188708067528
+Bolivia,BOL,1999,14.7978925435747
+Bolivia,BOL,2000,14.5392995149189
+Bolivia,BOL,2001,15.7241302193543
+Bolivia,BOL,2002,15.9678902393715
+Bolivia,BOL,2003,16.5211414224599
+Bolivia,BOL,2004,16.2585361956677
+Bolivia,BOL,2005,15.9745575009633
+Bolivia,BOL,2006,14.3542326624169
+Bolivia,BOL,2007,14.0586525031966
+Bolivia,BOL,2008,13.2773746897522
+Bolivia,BOL,2009,14.7087648409415
+Bolivia,BOL,2010,13.831218450538
+Bolivia,BOL,2011,13.7771015326236
+Bolivia,BOL,2012,13.4396269650146
+Bolivia,BOL,2013,13.8415143362661
+Bolivia,BOL,2014,14.7070466402409
+Bolivia,BOL,2015,17.4952582258727
+Bolivia,BOL,2016,17.4582521973373
+Bolivia,BOL,2017,17.0216400266816
+Bolivia,BOL,2018,17.525644686723
+Bolivia,BOL,2019,18.143092001616
+Bolivia,BOL,2020,19.7386344530618
+Bolivia,BOL,2021,19.3359811642833
+Haiti,HTI,1960,
+Haiti,HTI,1961,
+Haiti,HTI,1962,
+Haiti,HTI,1963,
+Haiti,HTI,1964,
+Haiti,HTI,1965,
+Haiti,HTI,1966,
+Haiti,HTI,1967,
+Haiti,HTI,1968,
+Haiti,HTI,1969,
+Haiti,HTI,1970,
+Haiti,HTI,1971,
+Haiti,HTI,1972,
+Haiti,HTI,1973,
+Haiti,HTI,1974,
+Haiti,HTI,1975,
+Haiti,HTI,1976,
+Haiti,HTI,1977,
+Haiti,HTI,1978,
+Haiti,HTI,1979,
+Haiti,HTI,1980,
+Haiti,HTI,1981,
+Haiti,HTI,1982,
+Haiti,HTI,1983,
+Haiti,HTI,1984,
+Haiti,HTI,1985,
+Haiti,HTI,1986,
+Haiti,HTI,1987,
+Haiti,HTI,1988,
+Haiti,HTI,1989,
+Haiti,HTI,1990,
+Haiti,HTI,1991,
+Haiti,HTI,1992,
+Haiti,HTI,1993,
+Haiti,HTI,1994,
+Haiti,HTI,1995,
+Haiti,HTI,1996,
+Haiti,HTI,1997,
+Haiti,HTI,1998,
+Haiti,HTI,1999,
+Haiti,HTI,2000,6.98287753877131
+Haiti,HTI,2001,7.36101271908804
+Haiti,HTI,2002,8.02510683619889
+Haiti,HTI,2003,8.31252567194673
+Haiti,HTI,2004,7.39729910740716
+Haiti,HTI,2005,6.45694589047821
+Haiti,HTI,2006,6.9529949944419
+Haiti,HTI,2007,7.43855264615954
+Haiti,HTI,2008,8.10346184972203
+Haiti,HTI,2009,6.98508151629048
+Haiti,HTI,2010,7.27840732548793
+Haiti,HTI,2011,6.55241371085916
+Haiti,HTI,2012,7.43953745212035
+Haiti,HTI,2013,7.19118472596498
+Haiti,HTI,2014,7.66786339542768
+Haiti,HTI,2015,8.26697500099843
+Haiti,HTI,2016,8.25717515584204
+Haiti,HTI,2017,7.92804259741613
+Haiti,HTI,2018,8.23773996468872
+Haiti,HTI,2019,7.30333800698013
+Haiti,HTI,2020,7.31205783971625
+Haiti,HTI,2021,7.44905588352977
+St. Lucia,LCA,1960,
+St. Lucia,LCA,1961,
+St. Lucia,LCA,1962,
+St. Lucia,LCA,1963,
+St. Lucia,LCA,1964,
+St. Lucia,LCA,1965,
+St. Lucia,LCA,1966,
+St. Lucia,LCA,1967,
+St. Lucia,LCA,1968,
+St. Lucia,LCA,1969,
+St. Lucia,LCA,1970,
+St. Lucia,LCA,1971,
+St. Lucia,LCA,1972,
+St. Lucia,LCA,1973,
+St. Lucia,LCA,1974,
+St. Lucia,LCA,1975,
+St. Lucia,LCA,1976,
+St. Lucia,LCA,1977,
+St. Lucia,LCA,1978,
+St. Lucia,LCA,1979,
+St. Lucia,LCA,1980,
+St. Lucia,LCA,1981,
+St. Lucia,LCA,1982,
+St. Lucia,LCA,1983,
+St. Lucia,LCA,1984,
+St. Lucia,LCA,1985,
+St. Lucia,LCA,1986,
+St. Lucia,LCA,1987,
+St. Lucia,LCA,1988,
+St. Lucia,LCA,1989,
+St. Lucia,LCA,1990,
+St. Lucia,LCA,1991,
+St. Lucia,LCA,1992,
+St. Lucia,LCA,1993,
+St. Lucia,LCA,1994,
+St. Lucia,LCA,1995,
+St. Lucia,LCA,1996,
+St. Lucia,LCA,1997,
+St. Lucia,LCA,1998,
+St. Lucia,LCA,1999,
+St. Lucia,LCA,2000,
+St. Lucia,LCA,2001,
+St. Lucia,LCA,2002,
+St. Lucia,LCA,2003,
+St. Lucia,LCA,2004,
+St. Lucia,LCA,2005,
+St. Lucia,LCA,2006,
+St. Lucia,LCA,2007,
+St. Lucia,LCA,2008,
+St. Lucia,LCA,2009,
+St. Lucia,LCA,2010,
+St. Lucia,LCA,2011,
+St. Lucia,LCA,2012,
+St. Lucia,LCA,2013,
+St. Lucia,LCA,2014,
+St. Lucia,LCA,2015,
+St. Lucia,LCA,2016,
+St. Lucia,LCA,2017,
+St. Lucia,LCA,2018,
+St. Lucia,LCA,2019,
+St. Lucia,LCA,2020,
+St. Lucia,LCA,2021,
+Grenada,GRD,1960,
+Grenada,GRD,1961,
+Grenada,GRD,1962,
+Grenada,GRD,1963,
+Grenada,GRD,1964,
+Grenada,GRD,1965,
+Grenada,GRD,1966,
+Grenada,GRD,1967,
+Grenada,GRD,1968,
+Grenada,GRD,1969,
+Grenada,GRD,1970,
+Grenada,GRD,1971,
+Grenada,GRD,1972,
+Grenada,GRD,1973,
+Grenada,GRD,1974,
+Grenada,GRD,1975,
+Grenada,GRD,1976,
+Grenada,GRD,1977,
+Grenada,GRD,1978,
+Grenada,GRD,1979,
+Grenada,GRD,1980,
+Grenada,GRD,1981,
+Grenada,GRD,1982,
+Grenada,GRD,1983,
+Grenada,GRD,1984,
+Grenada,GRD,1985,
+Grenada,GRD,1986,
+Grenada,GRD,1987,
+Grenada,GRD,1988,
+Grenada,GRD,1989,
+Grenada,GRD,1990,
+Grenada,GRD,1991,
+Grenada,GRD,1992,
+Grenada,GRD,1993,
+Grenada,GRD,1994,
+Grenada,GRD,1995,
+Grenada,GRD,1996,
+Grenada,GRD,1997,
+Grenada,GRD,1998,
+Grenada,GRD,1999,
+Grenada,GRD,2000,
+Grenada,GRD,2001,
+Grenada,GRD,2002,
+Grenada,GRD,2003,
+Grenada,GRD,2004,
+Grenada,GRD,2005,
+Grenada,GRD,2006,
+Grenada,GRD,2007,
+Grenada,GRD,2008,
+Grenada,GRD,2009,
+Grenada,GRD,2010,
+Grenada,GRD,2011,
+Grenada,GRD,2012,
+Grenada,GRD,2013,
+Grenada,GRD,2014,
+Grenada,GRD,2015,
+Grenada,GRD,2016,
+Grenada,GRD,2017,
+Grenada,GRD,2018,
+Grenada,GRD,2019,
+Grenada,GRD,2020,
+Grenada,GRD,2021,
+Nicaragua,NIC,1960,8.7659411888836
+Nicaragua,NIC,1961,8.55637297289446
+Nicaragua,NIC,1962,8.29879876926696
+Nicaragua,NIC,1963,7.35275415634402
+Nicaragua,NIC,1964,7.13769969776472
+Nicaragua,NIC,1965,7.98325707291924
+Nicaragua,NIC,1966,8.64671374623941
+Nicaragua,NIC,1967,9.32568132221124
+Nicaragua,NIC,1968,9.01196868077099
+Nicaragua,NIC,1969,8.73409931931842
+Nicaragua,NIC,1970,9.59143566711591
+Nicaragua,NIC,1971,9.73038375067761
+Nicaragua,NIC,1972,9.39360016944407
+Nicaragua,NIC,1973,8.13585872158129
+Nicaragua,NIC,1974,7.71629532435219
+Nicaragua,NIC,1975,9.04787613759541
+Nicaragua,NIC,1976,9.33815749523287
+Nicaragua,NIC,1977,8.90554307542527
+Nicaragua,NIC,1978,11.7533290977513
+Nicaragua,NIC,1979,17.8503028442233
+Nicaragua,NIC,1980,19.7275804550111
+Nicaragua,NIC,1981,21.9381669244575
+Nicaragua,NIC,1982,23.4431778049136
+Nicaragua,NIC,1983,31.4440118919771
+Nicaragua,NIC,1984,35.3386650576044
+Nicaragua,NIC,1985,35.730704667712
+Nicaragua,NIC,1986,35.3510782850756
+Nicaragua,NIC,1987,34.2330672335019
+Nicaragua,NIC,1988,32.2084003856666
+Nicaragua,NIC,1989,26.6969508807477
+Nicaragua,NIC,1990,43.4792056528719
+Nicaragua,NIC,1991,20.5506391347099
+Nicaragua,NIC,1992,19.6720214190094
+Nicaragua,NIC,1993,17.5887250569794
+Nicaragua,NIC,1994,7.49096592667875
+Nicaragua,NIC,1995,7.51657999473092
+Nicaragua,NIC,1996,7.34507965495221
+Nicaragua,NIC,1997,6.91524311357816
+Nicaragua,NIC,1998,7.12629932963073
+Nicaragua,NIC,1999,8.227810985919
+Nicaragua,NIC,2000,8.67671427742945
+Nicaragua,NIC,2001,8.96260821490308
+Nicaragua,NIC,2002,8.74502652362897
+Nicaragua,NIC,2003,9.18469723668059
+Nicaragua,NIC,2004,9.08413312739566
+Nicaragua,NIC,2005,9.42815325263766
+Nicaragua,NIC,2006,15.1661519560406
+Nicaragua,NIC,2007,14.0183571986652
+Nicaragua,NIC,2008,13.8382279680684
+Nicaragua,NIC,2009,14.49781090224
+Nicaragua,NIC,2010,14.0976086991387
+Nicaragua,NIC,2011,13.5987444224434
+Nicaragua,NIC,2012,13.5684734308088
+Nicaragua,NIC,2013,13.762015246934
+Nicaragua,NIC,2014,14.2796924802936
+Nicaragua,NIC,2015,14.0523486728769
+Nicaragua,NIC,2016,14.4608571481167
+Nicaragua,NIC,2017,14.4105783783392
+Nicaragua,NIC,2018,14.8023786582577
+Nicaragua,NIC,2019,15.0979574423209
+Nicaragua,NIC,2020,14.9823486681688
+Nicaragua,NIC,2021,14.2328731546184
+Aruba,ABW,1960,
+Aruba,ABW,1961,
+Aruba,ABW,1962,
+Aruba,ABW,1963,
+Aruba,ABW,1964,
+Aruba,ABW,1965,
+Aruba,ABW,1966,
+Aruba,ABW,1967,
+Aruba,ABW,1968,
+Aruba,ABW,1969,
+Aruba,ABW,1970,
+Aruba,ABW,1971,
+Aruba,ABW,1972,
+Aruba,ABW,1973,
+Aruba,ABW,1974,
+Aruba,ABW,1975,
+Aruba,ABW,1976,
+Aruba,ABW,1977,
+Aruba,ABW,1978,
+Aruba,ABW,1979,
+Aruba,ABW,1980,
+Aruba,ABW,1981,
+Aruba,ABW,1982,
+Aruba,ABW,1983,
+Aruba,ABW,1984,
+Aruba,ABW,1985,
+Aruba,ABW,1986,
+Aruba,ABW,1987,
+Aruba,ABW,1988,
+Aruba,ABW,1989,
+Aruba,ABW,1990,
+Aruba,ABW,1991,
+Aruba,ABW,1992,
+Aruba,ABW,1993,
+Aruba,ABW,1994,
+Aruba,ABW,1995,19.9661590524535
+Aruba,ABW,1996,20.1619433198381
+Aruba,ABW,1997,23.5959153902261
+Aruba,ABW,1998,21.9724924521972
+Aruba,ABW,1999,21.8547341115435
+Aruba,ABW,2000,21.413659409484
+Aruba,ABW,2001,24.8306332842415
+Aruba,ABW,2002,24.8861047835991
+Aruba,ABW,2003,24.4329051653457
+Aruba,ABW,2004,22.8939544103072
+Aruba,ABW,2005,22.8456439393939
+Aruba,ABW,2006,22.3252657769735
+Aruba,ABW,2007,21.4062174003755
+Aruba,ABW,2008,21.2418942817842
+Aruba,ABW,2009,24.8304528549552
+Aruba,ABW,2010,26.4571948998178
+Aruba,ABW,2011,25.1164760694621
+Aruba,ABW,2012,26.1696218756676
+Aruba,ABW,2013,26.192914192095
+Aruba,ABW,2014,24.8198558847078
+Aruba,ABW,2015,23.2466063348416
+Aruba,ABW,2016,23.4787492978843
+Aruba,ABW,2017,23.0171635049684
+Aruba,ABW,2018,23.5519888346127
+Aruba,ABW,2019,21.9071729957806
+Aruba,ABW,2020,28.373237860819
+Aruba,ABW,2021,

@@ -1,0 +1,2605 @@
+country_name,country_code,year,life_expectancy
+Uruguay,URY,1960,67.783
+Uruguay,URY,1961,68.007
+Uruguay,URY,1962,68.198
+Uruguay,URY,1963,68.347
+Uruguay,URY,1964,68.455
+Uruguay,URY,1965,68.521
+Uruguay,URY,1966,68.554
+Uruguay,URY,1967,68.567
+Uruguay,URY,1968,68.575
+Uruguay,URY,1969,68.588
+Uruguay,URY,1970,68.616
+Uruguay,URY,1971,68.664
+Uruguay,URY,1972,68.732
+Uruguay,URY,1973,68.823
+Uruguay,URY,1974,68.941
+Uruguay,URY,1975,69.089
+Uruguay,URY,1976,69.271
+Uruguay,URY,1977,69.484
+Uruguay,URY,1978,69.723
+Uruguay,URY,1979,69.983
+Uruguay,URY,1980,70.256
+Uruguay,URY,1981,70.536
+Uruguay,URY,1982,70.814
+Uruguay,URY,1983,71.085
+Uruguay,URY,1984,71.343
+Uruguay,URY,1985,71.583
+Uruguay,URY,1986,71.804
+Uruguay,URY,1987,72.008
+Uruguay,URY,1988,72.201
+Uruguay,URY,1989,72.386
+Uruguay,URY,1990,72.569
+Uruguay,URY,1991,72.757
+Uruguay,URY,1992,72.955
+Uruguay,URY,1993,73.166
+Uruguay,URY,1994,73.388
+Uruguay,URY,1995,73.62
+Uruguay,URY,1996,73.854
+Uruguay,URY,1997,74.086
+Uruguay,URY,1998,74.309
+Uruguay,URY,1999,74.523
+Uruguay,URY,2000,74.731
+Uruguay,URY,2001,74.939
+Uruguay,URY,2002,75.152
+Uruguay,URY,2003,75.373
+Uruguay,URY,2004,75.599
+Uruguay,URY,2005,75.826
+Uruguay,URY,2006,76.046
+Uruguay,URY,2007,76.251
+Uruguay,URY,2008,76.437
+Uruguay,URY,2009,76.603
+Uruguay,URY,2010,76.75
+Uruguay,URY,2011,76.882
+Uruguay,URY,2012,77.004
+Uruguay,URY,2013,77.124
+Uruguay,URY,2014,77.244
+Uruguay,URY,2015,77.369
+Uruguay,URY,2016,77.498
+Uruguay,URY,2017,77.632
+Uruguay,URY,2018,77.77
+Uruguay,URY,2019,77.911
+Uruguay,URY,2020,78.056
+Uruguay,URY,2021,
+Suriname,SUR,1960,59.682
+Suriname,SUR,1961,60.038
+Suriname,SUR,1962,60.377
+Suriname,SUR,1963,60.705
+Suriname,SUR,1964,61.026
+Suriname,SUR,1965,61.346
+Suriname,SUR,1966,61.666
+Suriname,SUR,1967,61.984
+Suriname,SUR,1968,62.299
+Suriname,SUR,1969,62.609
+Suriname,SUR,1970,62.911
+Suriname,SUR,1971,63.199
+Suriname,SUR,1972,63.47
+Suriname,SUR,1973,63.724
+Suriname,SUR,1974,63.964
+Suriname,SUR,1975,64.201
+Suriname,SUR,1976,64.445
+Suriname,SUR,1977,64.704
+Suriname,SUR,1978,64.981
+Suriname,SUR,1979,65.274
+Suriname,SUR,1980,65.575
+Suriname,SUR,1981,65.873
+Suriname,SUR,1982,66.154
+Suriname,SUR,1983,66.409
+Suriname,SUR,1984,66.631
+Suriname,SUR,1985,66.819
+Suriname,SUR,1986,66.978
+Suriname,SUR,1987,67.113
+Suriname,SUR,1988,67.233
+Suriname,SUR,1989,67.341
+Suriname,SUR,1990,67.436
+Suriname,SUR,1991,67.519
+Suriname,SUR,1992,67.59
+Suriname,SUR,1993,67.647
+Suriname,SUR,1994,67.695
+Suriname,SUR,1995,67.731
+Suriname,SUR,1996,67.753
+Suriname,SUR,1997,67.762
+Suriname,SUR,1998,67.768
+Suriname,SUR,1999,67.781
+Suriname,SUR,2000,67.822
+Suriname,SUR,2001,67.913
+Suriname,SUR,2002,68.064
+Suriname,SUR,2003,68.28
+Suriname,SUR,2004,68.555
+Suriname,SUR,2005,68.877
+Suriname,SUR,2006,69.227
+Suriname,SUR,2007,69.579
+Suriname,SUR,2008,69.91
+Suriname,SUR,2009,70.209
+Suriname,SUR,2010,70.465
+Suriname,SUR,2011,70.676
+Suriname,SUR,2012,70.851
+Suriname,SUR,2013,71.002
+Suriname,SUR,2014,71.133
+Suriname,SUR,2015,71.249
+Suriname,SUR,2016,71.358
+Suriname,SUR,2017,71.463
+Suriname,SUR,2018,71.57
+Suriname,SUR,2019,71.682
+Suriname,SUR,2020,71.802
+Suriname,SUR,2021,
+"Venezuela, RB",VEN,1960,59.831
+"Venezuela, RB",VEN,1961,60.377
+"Venezuela, RB",VEN,1962,60.907
+"Venezuela, RB",VEN,1963,61.422
+"Venezuela, RB",VEN,1964,61.923
+"Venezuela, RB",VEN,1965,62.416
+"Venezuela, RB",VEN,1966,62.91
+"Venezuela, RB",VEN,1967,63.409
+"Venezuela, RB",VEN,1968,63.916
+"Venezuela, RB",VEN,1969,64.427
+"Venezuela, RB",VEN,1970,64.935
+"Venezuela, RB",VEN,1971,65.428
+"Venezuela, RB",VEN,1972,65.896
+"Venezuela, RB",VEN,1973,66.331
+"Venezuela, RB",VEN,1974,66.729
+"Venezuela, RB",VEN,1975,67.092
+"Venezuela, RB",VEN,1976,67.42
+"Venezuela, RB",VEN,1977,67.723
+"Venezuela, RB",VEN,1978,68.009
+"Venezuela, RB",VEN,1979,68.281
+"Venezuela, RB",VEN,1980,68.542
+"Venezuela, RB",VEN,1981,68.795
+"Venezuela, RB",VEN,1982,69.038
+"Venezuela, RB",VEN,1983,69.272
+"Venezuela, RB",VEN,1984,69.497
+"Venezuela, RB",VEN,1985,69.715
+"Venezuela, RB",VEN,1986,69.923
+"Venezuela, RB",VEN,1987,70.123
+"Venezuela, RB",VEN,1988,70.312
+"Venezuela, RB",VEN,1989,70.491
+"Venezuela, RB",VEN,1990,70.658
+"Venezuela, RB",VEN,1991,70.811
+"Venezuela, RB",VEN,1992,70.951
+"Venezuela, RB",VEN,1993,71.079
+"Venezuela, RB",VEN,1994,71.2
+"Venezuela, RB",VEN,1995,71.321
+"Venezuela, RB",VEN,1996,71.451
+"Venezuela, RB",VEN,1997,71.596
+"Venezuela, RB",VEN,1998,71.756
+"Venezuela, RB",VEN,1999,71.93
+"Venezuela, RB",VEN,2000,72.112
+"Venezuela, RB",VEN,2001,72.294
+"Venezuela, RB",VEN,2002,72.466
+"Venezuela, RB",VEN,2003,72.618
+"Venezuela, RB",VEN,2004,72.746
+"Venezuela, RB",VEN,2005,72.852
+"Venezuela, RB",VEN,2006,72.938
+"Venezuela, RB",VEN,2007,73.01
+"Venezuela, RB",VEN,2008,73.071
+"Venezuela, RB",VEN,2009,73.116
+"Venezuela, RB",VEN,2010,73.134
+"Venezuela, RB",VEN,2011,73.11
+"Venezuela, RB",VEN,2012,73.037
+"Venezuela, RB",VEN,2013,72.918
+"Venezuela, RB",VEN,2014,72.762
+"Venezuela, RB",VEN,2015,72.584
+"Venezuela, RB",VEN,2016,72.405
+"Venezuela, RB",VEN,2017,72.246
+"Venezuela, RB",VEN,2018,72.128
+"Venezuela, RB",VEN,2019,72.064
+"Venezuela, RB",VEN,2020,72.066
+"Venezuela, RB",VEN,2021,
+Turks and Caicos Islands,TCA,1960,
+Turks and Caicos Islands,TCA,1961,
+Turks and Caicos Islands,TCA,1962,
+Turks and Caicos Islands,TCA,1963,
+Turks and Caicos Islands,TCA,1964,
+Turks and Caicos Islands,TCA,1965,
+Turks and Caicos Islands,TCA,1966,
+Turks and Caicos Islands,TCA,1967,
+Turks and Caicos Islands,TCA,1968,
+Turks and Caicos Islands,TCA,1969,
+Turks and Caicos Islands,TCA,1970,
+Turks and Caicos Islands,TCA,1971,
+Turks and Caicos Islands,TCA,1972,
+Turks and Caicos Islands,TCA,1973,
+Turks and Caicos Islands,TCA,1974,
+Turks and Caicos Islands,TCA,1975,
+Turks and Caicos Islands,TCA,1976,
+Turks and Caicos Islands,TCA,1977,
+Turks and Caicos Islands,TCA,1978,
+Turks and Caicos Islands,TCA,1979,
+Turks and Caicos Islands,TCA,1980,
+Turks and Caicos Islands,TCA,1981,
+Turks and Caicos Islands,TCA,1982,
+Turks and Caicos Islands,TCA,1983,
+Turks and Caicos Islands,TCA,1984,
+Turks and Caicos Islands,TCA,1985,
+Turks and Caicos Islands,TCA,1986,
+Turks and Caicos Islands,TCA,1987,
+Turks and Caicos Islands,TCA,1988,
+Turks and Caicos Islands,TCA,1989,
+Turks and Caicos Islands,TCA,1990,
+Turks and Caicos Islands,TCA,1991,
+Turks and Caicos Islands,TCA,1992,
+Turks and Caicos Islands,TCA,1993,
+Turks and Caicos Islands,TCA,1994,
+Turks and Caicos Islands,TCA,1995,
+Turks and Caicos Islands,TCA,1996,
+Turks and Caicos Islands,TCA,1997,
+Turks and Caicos Islands,TCA,1998,
+Turks and Caicos Islands,TCA,1999,
+Turks and Caicos Islands,TCA,2000,
+Turks and Caicos Islands,TCA,2001,
+Turks and Caicos Islands,TCA,2002,
+Turks and Caicos Islands,TCA,2003,
+Turks and Caicos Islands,TCA,2004,
+Turks and Caicos Islands,TCA,2005,
+Turks and Caicos Islands,TCA,2006,
+Turks and Caicos Islands,TCA,2007,
+Turks and Caicos Islands,TCA,2008,
+Turks and Caicos Islands,TCA,2009,
+Turks and Caicos Islands,TCA,2010,
+Turks and Caicos Islands,TCA,2011,
+Turks and Caicos Islands,TCA,2012,
+Turks and Caicos Islands,TCA,2013,
+Turks and Caicos Islands,TCA,2014,
+Turks and Caicos Islands,TCA,2015,
+Turks and Caicos Islands,TCA,2016,
+Turks and Caicos Islands,TCA,2017,
+Turks and Caicos Islands,TCA,2018,
+Turks and Caicos Islands,TCA,2019,
+Turks and Caicos Islands,TCA,2020,
+Turks and Caicos Islands,TCA,2021,
+Dominican Republic,DOM,1960,51.602
+Dominican Republic,DOM,1961,52.306
+Dominican Republic,DOM,1962,52.997
+Dominican Republic,DOM,1963,53.675
+Dominican Republic,DOM,1964,54.34
+Dominican Republic,DOM,1965,54.993
+Dominican Republic,DOM,1966,55.635
+Dominican Republic,DOM,1967,56.267
+Dominican Republic,DOM,1968,56.889
+Dominican Republic,DOM,1969,57.498
+Dominican Republic,DOM,1970,58.093
+Dominican Republic,DOM,1971,58.671
+Dominican Republic,DOM,1972,59.229
+Dominican Republic,DOM,1973,59.764
+Dominican Republic,DOM,1974,60.277
+Dominican Republic,DOM,1975,60.764
+Dominican Republic,DOM,1976,61.226
+Dominican Republic,DOM,1977,61.663
+Dominican Republic,DOM,1978,62.079
+Dominican Republic,DOM,1979,62.477
+Dominican Republic,DOM,1980,62.861
+Dominican Republic,DOM,1981,63.234
+Dominican Republic,DOM,1982,63.601
+Dominican Republic,DOM,1983,63.964
+Dominican Republic,DOM,1984,64.326
+Dominican Republic,DOM,1985,64.692
+Dominican Republic,DOM,1986,65.065
+Dominican Republic,DOM,1987,65.443
+Dominican Republic,DOM,1988,65.822
+Dominican Republic,DOM,1989,66.201
+Dominican Republic,DOM,1990,66.574
+Dominican Republic,DOM,1991,66.932
+Dominican Republic,DOM,1992,67.272
+Dominican Republic,DOM,1993,67.591
+Dominican Republic,DOM,1994,67.887
+Dominican Republic,DOM,1995,68.164
+Dominican Republic,DOM,1996,68.425
+Dominican Republic,DOM,1997,68.677
+Dominican Republic,DOM,1998,68.925
+Dominican Republic,DOM,1999,69.175
+Dominican Republic,DOM,2000,69.429
+Dominican Republic,DOM,2001,69.69
+Dominican Republic,DOM,2002,69.957
+Dominican Republic,DOM,2003,70.227
+Dominican Republic,DOM,2004,70.499
+Dominican Republic,DOM,2005,70.771
+Dominican Republic,DOM,2006,71.041
+Dominican Republic,DOM,2007,71.304
+Dominican Republic,DOM,2008,71.559
+Dominican Republic,DOM,2009,71.806
+Dominican Republic,DOM,2010,72.046
+Dominican Republic,DOM,2011,72.284
+Dominican Republic,DOM,2012,72.523
+Dominican Republic,DOM,2013,72.763
+Dominican Republic,DOM,2014,73.003
+Dominican Republic,DOM,2015,73.241
+Dominican Republic,DOM,2016,73.471
+Dominican Republic,DOM,2017,73.689
+Dominican Republic,DOM,2018,73.892
+Dominican Republic,DOM,2019,74.081
+Dominican Republic,DOM,2020,74.257
+Dominican Republic,DOM,2021,
+Jamaica,JAM,1960,64.77
+Jamaica,JAM,1961,65.133
+Jamaica,JAM,1962,65.465
+Jamaica,JAM,1963,65.784
+Jamaica,JAM,1964,66.1
+Jamaica,JAM,1965,66.42
+Jamaica,JAM,1966,66.74
+Jamaica,JAM,1967,67.051
+Jamaica,JAM,1968,67.349
+Jamaica,JAM,1969,67.636
+Jamaica,JAM,1970,67.917
+Jamaica,JAM,1971,68.2
+Jamaica,JAM,1972,68.491
+Jamaica,JAM,1973,68.791
+Jamaica,JAM,1974,69.099
+Jamaica,JAM,1975,69.41
+Jamaica,JAM,1976,69.718
+Jamaica,JAM,1977,70.015
+Jamaica,JAM,1978,70.294
+Jamaica,JAM,1979,70.553
+Jamaica,JAM,1980,70.793
+Jamaica,JAM,1981,71.012
+Jamaica,JAM,1982,71.217
+Jamaica,JAM,1983,71.416
+Jamaica,JAM,1984,71.614
+Jamaica,JAM,1985,71.823
+Jamaica,JAM,1986,72.056
+Jamaica,JAM,1987,72.317
+Jamaica,JAM,1988,72.601
+Jamaica,JAM,1989,72.903
+Jamaica,JAM,1990,73.204
+Jamaica,JAM,1991,73.485
+Jamaica,JAM,1992,73.727
+Jamaica,JAM,1993,73.918
+Jamaica,JAM,1994,74.053
+Jamaica,JAM,1995,74.133
+Jamaica,JAM,1996,74.167
+Jamaica,JAM,1997,74.172
+Jamaica,JAM,1998,74.164
+Jamaica,JAM,1999,74.152
+Jamaica,JAM,2000,74.142
+Jamaica,JAM,2001,74.139
+Jamaica,JAM,2002,74.14
+Jamaica,JAM,2003,74.142
+Jamaica,JAM,2004,74.146
+Jamaica,JAM,2005,74.148
+Jamaica,JAM,2006,74.143
+Jamaica,JAM,2007,74.129
+Jamaica,JAM,2008,74.103
+Jamaica,JAM,2009,74.071
+Jamaica,JAM,2010,74.038
+Jamaica,JAM,2011,74.012
+Jamaica,JAM,2012,74.001
+Jamaica,JAM,2013,74.01
+Jamaica,JAM,2014,74.042
+Jamaica,JAM,2015,74.098
+Jamaica,JAM,2016,74.175
+Jamaica,JAM,2017,74.267
+Jamaica,JAM,2018,74.368
+Jamaica,JAM,2019,74.475
+Jamaica,JAM,2020,74.586
+Jamaica,JAM,2021,
+St. Kitts and Nevis,KNA,1960,
+St. Kitts and Nevis,KNA,1961,
+St. Kitts and Nevis,KNA,1962,
+St. Kitts and Nevis,KNA,1963,
+St. Kitts and Nevis,KNA,1964,
+St. Kitts and Nevis,KNA,1965,
+St. Kitts and Nevis,KNA,1966,
+St. Kitts and Nevis,KNA,1967,
+St. Kitts and Nevis,KNA,1968,
+St. Kitts and Nevis,KNA,1969,
+St. Kitts and Nevis,KNA,1970,
+St. Kitts and Nevis,KNA,1971,
+St. Kitts and Nevis,KNA,1972,
+St. Kitts and Nevis,KNA,1973,
+St. Kitts and Nevis,KNA,1974,
+St. Kitts and Nevis,KNA,1975,
+St. Kitts and Nevis,KNA,1976,
+St. Kitts and Nevis,KNA,1977,
+St. Kitts and Nevis,KNA,1978,
+St. Kitts and Nevis,KNA,1979,
+St. Kitts and Nevis,KNA,1980,
+St. Kitts and Nevis,KNA,1981,
+St. Kitts and Nevis,KNA,1982,63.9512195121951
+St. Kitts and Nevis,KNA,1983,
+St. Kitts and Nevis,KNA,1984,
+St. Kitts and Nevis,KNA,1985,
+St. Kitts and Nevis,KNA,1986,
+St. Kitts and Nevis,KNA,1987,65.9512195121951
+St. Kitts and Nevis,KNA,1988,
+St. Kitts and Nevis,KNA,1989,
+St. Kitts and Nevis,KNA,1990,
+St. Kitts and Nevis,KNA,1991,
+St. Kitts and Nevis,KNA,1992,67.9512195121951
+St. Kitts and Nevis,KNA,1993,
+St. Kitts and Nevis,KNA,1994,
+St. Kitts and Nevis,KNA,1995,
+St. Kitts and Nevis,KNA,1996,
+St. Kitts and Nevis,KNA,1997,70.0363414634146
+St. Kitts and Nevis,KNA,1998,
+St. Kitts and Nevis,KNA,1999,
+St. Kitts and Nevis,KNA,2000,
+St. Kitts and Nevis,KNA,2001,
+St. Kitts and Nevis,KNA,2002,71.3365853658537
+St. Kitts and Nevis,KNA,2003,
+St. Kitts and Nevis,KNA,2004,
+St. Kitts and Nevis,KNA,2005,
+St. Kitts and Nevis,KNA,2006,
+St. Kitts and Nevis,KNA,2007,
+St. Kitts and Nevis,KNA,2008,
+St. Kitts and Nevis,KNA,2009,
+St. Kitts and Nevis,KNA,2010,
+St. Kitts and Nevis,KNA,2011,
+St. Kitts and Nevis,KNA,2012,
+St. Kitts and Nevis,KNA,2013,
+St. Kitts and Nevis,KNA,2014,
+St. Kitts and Nevis,KNA,2015,
+St. Kitts and Nevis,KNA,2016,
+St. Kitts and Nevis,KNA,2017,
+St. Kitts and Nevis,KNA,2018,
+St. Kitts and Nevis,KNA,2019,
+St. Kitts and Nevis,KNA,2020,
+St. Kitts and Nevis,KNA,2021,
+Brazil,BRA,1960,54.143
+Brazil,BRA,1961,54.634
+Brazil,BRA,1962,55.13
+Brazil,BRA,1963,55.627
+Brazil,BRA,1964,56.121
+Brazil,BRA,1965,56.61
+Brazil,BRA,1966,57.091
+Brazil,BRA,1967,57.563
+Brazil,BRA,1968,58.025
+Brazil,BRA,1969,58.475
+Brazil,BRA,1970,58.911
+Brazil,BRA,1971,59.332
+Brazil,BRA,1972,59.739
+Brazil,BRA,1973,60.132
+Brazil,BRA,1974,60.513
+Brazil,BRA,1975,60.884
+Brazil,BRA,1976,61.243
+Brazil,BRA,1977,61.595
+Brazil,BRA,1978,61.942
+Brazil,BRA,1979,62.286
+Brazil,BRA,1980,62.63
+Brazil,BRA,1981,62.976
+Brazil,BRA,1982,63.326
+Brazil,BRA,1983,63.68
+Brazil,BRA,1984,64.039
+Brazil,BRA,1985,64.406
+Brazil,BRA,1986,64.782
+Brazil,BRA,1987,65.165
+Brazil,BRA,1988,65.553
+Brazil,BRA,1989,65.947
+Brazil,BRA,1990,66.343
+Brazil,BRA,1991,66.742
+Brazil,BRA,1992,67.141
+Brazil,BRA,1993,67.539
+Brazil,BRA,1994,67.932
+Brazil,BRA,1995,68.318
+Brazil,BRA,1996,68.695
+Brazil,BRA,1997,69.061
+Brazil,BRA,1998,69.419
+Brazil,BRA,1999,69.769
+Brazil,BRA,2000,70.116
+Brazil,BRA,2001,70.462
+Brazil,BRA,2002,70.813
+Brazil,BRA,2003,71.17
+Brazil,BRA,2004,71.531
+Brazil,BRA,2005,71.896
+Brazil,BRA,2006,72.26
+Brazil,BRA,2007,72.618
+Brazil,BRA,2008,72.966
+Brazil,BRA,2009,73.3
+Brazil,BRA,2010,73.619
+Brazil,BRA,2011,73.921
+Brazil,BRA,2012,74.209
+Brazil,BRA,2013,74.483
+Brazil,BRA,2014,74.745
+Brazil,BRA,2015,74.994
+Brazil,BRA,2016,75.23
+Brazil,BRA,2017,75.456
+Brazil,BRA,2018,75.672
+Brazil,BRA,2019,75.881
+Brazil,BRA,2020,76.084
+Brazil,BRA,2021,
+Guatemala,GTM,1960,46.702
+Guatemala,GTM,1961,47.219
+Guatemala,GTM,1962,47.75
+Guatemala,GTM,1963,48.295
+Guatemala,GTM,1964,48.856
+Guatemala,GTM,1965,49.434
+Guatemala,GTM,1966,50.032
+Guatemala,GTM,1967,50.646
+Guatemala,GTM,1968,51.267
+Guatemala,GTM,1969,51.889
+Guatemala,GTM,1970,52.501
+Guatemala,GTM,1971,53.091
+Guatemala,GTM,1972,53.652
+Guatemala,GTM,1973,54.181
+Guatemala,GTM,1974,54.676
+Guatemala,GTM,1975,55.14
+Guatemala,GTM,1976,55.577
+Guatemala,GTM,1977,56
+Guatemala,GTM,1978,56.418
+Guatemala,GTM,1979,56.84
+Guatemala,GTM,1980,57.272
+Guatemala,GTM,1981,57.719
+Guatemala,GTM,1982,58.183
+Guatemala,GTM,1983,58.661
+Guatemala,GTM,1984,59.154
+Guatemala,GTM,1985,59.661
+Guatemala,GTM,1986,60.176
+Guatemala,GTM,1987,60.694
+Guatemala,GTM,1988,61.214
+Guatemala,GTM,1989,61.735
+Guatemala,GTM,1990,62.261
+Guatemala,GTM,1991,62.799
+Guatemala,GTM,1992,63.352
+Guatemala,GTM,1993,63.921
+Guatemala,GTM,1994,64.502
+Guatemala,GTM,1995,65.09
+Guatemala,GTM,1996,65.678
+Guatemala,GTM,1997,66.257
+Guatemala,GTM,1998,66.817
+Guatemala,GTM,1999,67.351
+Guatemala,GTM,2000,67.849
+Guatemala,GTM,2001,68.304
+Guatemala,GTM,2002,68.717
+Guatemala,GTM,2003,69.092
+Guatemala,GTM,2004,69.437
+Guatemala,GTM,2005,69.762
+Guatemala,GTM,2006,70.082
+Guatemala,GTM,2007,70.409
+Guatemala,GTM,2008,70.75
+Guatemala,GTM,2009,71.108
+Guatemala,GTM,2010,71.481
+Guatemala,GTM,2011,71.861
+Guatemala,GTM,2012,72.236
+Guatemala,GTM,2013,72.596
+Guatemala,GTM,2014,72.935
+Guatemala,GTM,2015,73.25
+Guatemala,GTM,2016,73.541
+Guatemala,GTM,2017,73.81
+Guatemala,GTM,2018,74.063
+Guatemala,GTM,2019,74.302
+Guatemala,GTM,2020,74.529
+Guatemala,GTM,2021,
+Cuba,CUB,1960,63.834
+Cuba,CUB,1961,64.446
+Cuba,CUB,1962,65.066
+Cuba,CUB,1963,65.695
+Cuba,CUB,1964,66.327
+Cuba,CUB,1965,66.956
+Cuba,CUB,1966,67.573
+Cuba,CUB,1967,68.171
+Cuba,CUB,1968,68.744
+Cuba,CUB,1969,69.29
+Cuba,CUB,1970,69.809
+Cuba,CUB,1971,70.306
+Cuba,CUB,1972,70.787
+Cuba,CUB,1973,71.255
+Cuba,CUB,1974,71.707
+Cuba,CUB,1975,72.138
+Cuba,CUB,1976,72.543
+Cuba,CUB,1977,72.915
+Cuba,CUB,1978,73.249
+Cuba,CUB,1979,73.543
+Cuba,CUB,1980,73.794
+Cuba,CUB,1981,74.004
+Cuba,CUB,1982,74.175
+Cuba,CUB,1983,74.315
+Cuba,CUB,1984,74.427
+Cuba,CUB,1985,74.511
+Cuba,CUB,1986,74.566
+Cuba,CUB,1987,74.595
+Cuba,CUB,1988,74.607
+Cuba,CUB,1989,74.615
+Cuba,CUB,1990,74.638
+Cuba,CUB,1991,74.696
+Cuba,CUB,1992,74.801
+Cuba,CUB,1993,74.957
+Cuba,CUB,1994,75.164
+Cuba,CUB,1995,75.412
+Cuba,CUB,1996,75.686
+Cuba,CUB,1997,75.964
+Cuba,CUB,1998,76.23
+Cuba,CUB,1999,76.475
+Cuba,CUB,2000,76.699
+Cuba,CUB,2001,76.905
+Cuba,CUB,2002,77.105
+Cuba,CUB,2003,77.303
+Cuba,CUB,2004,77.499
+Cuba,CUB,2005,77.688
+Cuba,CUB,2006,77.864
+Cuba,CUB,2007,78.019
+Cuba,CUB,2008,78.15
+Cuba,CUB,2009,78.256
+Cuba,CUB,2010,78.338
+Cuba,CUB,2011,78.4
+Cuba,CUB,2012,78.446
+Cuba,CUB,2013,78.485
+Cuba,CUB,2014,78.521
+Cuba,CUB,2015,78.561
+Cuba,CUB,2016,78.607
+Cuba,CUB,2017,78.662
+Cuba,CUB,2018,78.726
+Cuba,CUB,2019,78.802
+Cuba,CUB,2020,78.892
+Cuba,CUB,2021,
+Cayman Islands,CYM,1960,
+Cayman Islands,CYM,1961,
+Cayman Islands,CYM,1962,
+Cayman Islands,CYM,1963,
+Cayman Islands,CYM,1964,
+Cayman Islands,CYM,1965,
+Cayman Islands,CYM,1966,
+Cayman Islands,CYM,1967,
+Cayman Islands,CYM,1968,
+Cayman Islands,CYM,1969,
+Cayman Islands,CYM,1970,
+Cayman Islands,CYM,1971,
+Cayman Islands,CYM,1972,
+Cayman Islands,CYM,1973,
+Cayman Islands,CYM,1974,
+Cayman Islands,CYM,1975,
+Cayman Islands,CYM,1976,
+Cayman Islands,CYM,1977,
+Cayman Islands,CYM,1978,
+Cayman Islands,CYM,1979,
+Cayman Islands,CYM,1980,
+Cayman Islands,CYM,1981,
+Cayman Islands,CYM,1982,
+Cayman Islands,CYM,1983,
+Cayman Islands,CYM,1984,
+Cayman Islands,CYM,1985,
+Cayman Islands,CYM,1986,
+Cayman Islands,CYM,1987,
+Cayman Islands,CYM,1988,
+Cayman Islands,CYM,1989,
+Cayman Islands,CYM,1990,
+Cayman Islands,CYM,1991,
+Cayman Islands,CYM,1992,
+Cayman Islands,CYM,1993,
+Cayman Islands,CYM,1994,
+Cayman Islands,CYM,1995,
+Cayman Islands,CYM,1996,
+Cayman Islands,CYM,1997,
+Cayman Islands,CYM,1998,
+Cayman Islands,CYM,1999,
+Cayman Islands,CYM,2000,
+Cayman Islands,CYM,2001,
+Cayman Islands,CYM,2002,
+Cayman Islands,CYM,2003,
+Cayman Islands,CYM,2004,
+Cayman Islands,CYM,2005,
+Cayman Islands,CYM,2006,
+Cayman Islands,CYM,2007,
+Cayman Islands,CYM,2008,
+Cayman Islands,CYM,2009,
+Cayman Islands,CYM,2010,82.190243902439
+Cayman Islands,CYM,2011,
+Cayman Islands,CYM,2012,
+Cayman Islands,CYM,2013,
+Cayman Islands,CYM,2014,
+Cayman Islands,CYM,2015,
+Cayman Islands,CYM,2016,
+Cayman Islands,CYM,2017,
+Cayman Islands,CYM,2018,
+Cayman Islands,CYM,2019,
+Cayman Islands,CYM,2020,
+Cayman Islands,CYM,2021,
+Mexico,MEX,1960,57.077
+Mexico,MEX,1961,57.668
+Mexico,MEX,1962,58.193
+Mexico,MEX,1963,58.656
+Mexico,MEX,1964,59.069
+Mexico,MEX,1965,59.447
+Mexico,MEX,1966,59.807
+Mexico,MEX,1967,60.165
+Mexico,MEX,1968,60.536
+Mexico,MEX,1969,60.932
+Mexico,MEX,1970,61.362
+Mexico,MEX,1971,61.829
+Mexico,MEX,1972,62.327
+Mexico,MEX,1973,62.845
+Mexico,MEX,1974,63.378
+Mexico,MEX,1975,63.922
+Mexico,MEX,1976,64.467
+Mexico,MEX,1977,65.009
+Mexico,MEX,1978,65.54
+Mexico,MEX,1979,66.055
+Mexico,MEX,1980,66.553
+Mexico,MEX,1981,67.031
+Mexico,MEX,1982,67.493
+Mexico,MEX,1983,67.942
+Mexico,MEX,1984,68.38
+Mexico,MEX,1985,68.809
+Mexico,MEX,1986,69.232
+Mexico,MEX,1987,69.649
+Mexico,MEX,1988,70.062
+Mexico,MEX,1989,70.469
+Mexico,MEX,1990,70.866
+Mexico,MEX,1991,71.248
+Mexico,MEX,1992,71.61
+Mexico,MEX,1993,71.953
+Mexico,MEX,1994,72.279
+Mexico,MEX,1995,72.598
+Mexico,MEX,1996,72.925
+Mexico,MEX,1997,73.268
+Mexico,MEX,1998,73.625
+Mexico,MEX,1999,73.988
+Mexico,MEX,2000,74.34
+Mexico,MEX,2001,74.658
+Mexico,MEX,2002,74.922
+Mexico,MEX,2003,75.118
+Mexico,MEX,2004,75.243
+Mexico,MEX,2005,75.3
+Mexico,MEX,2006,75.296
+Mexico,MEX,2007,75.255
+Mexico,MEX,2008,75.194
+Mexico,MEX,2009,75.128
+Mexico,MEX,2010,75.065
+Mexico,MEX,2011,75.011
+Mexico,MEX,2012,74.966
+Mexico,MEX,2013,74.93
+Mexico,MEX,2014,74.908
+Mexico,MEX,2015,74.904
+Mexico,MEX,2016,74.917
+Mexico,MEX,2017,74.947
+Mexico,MEX,2018,74.992
+Mexico,MEX,2019,75.054
+Mexico,MEX,2020,75.131
+Mexico,MEX,2021,
+Virgin Islands (U.S.),VIR,1960,66.2248536585366
+Virgin Islands (U.S.),VIR,1961,66.4879756097561
+Virgin Islands (U.S.),VIR,1962,66.7410975609756
+Virgin Islands (U.S.),VIR,1963,66.9962195121951
+Virgin Islands (U.S.),VIR,1964,67.2603658536585
+Virgin Islands (U.S.),VIR,1965,67.540512195122
+Virgin Islands (U.S.),VIR,1966,67.8351219512195
+Virgin Islands (U.S.),VIR,1967,68.1381951219512
+Virgin Islands (U.S.),VIR,1968,68.4427317073171
+Virgin Islands (U.S.),VIR,1969,68.7482195121951
+Virgin Islands (U.S.),VIR,1970,69.0511951219512
+Virgin Islands (U.S.),VIR,1971,69.3511463414634
+Virgin Islands (U.S.),VIR,1972,69.6466097560976
+Virgin Islands (U.S.),VIR,1973,69.9355853658537
+Virgin Islands (U.S.),VIR,1974,70.2175853658537
+Virgin Islands (U.S.),VIR,1975,70.4900731707317
+Virgin Islands (U.S.),VIR,1976,70.7505365853659
+Virgin Islands (U.S.),VIR,1977,70.9999268292683
+Virgin Islands (U.S.),VIR,1978,71.239243902439
+Virgin Islands (U.S.),VIR,1979,71.4709756097561
+Virgin Islands (U.S.),VIR,1980,71.7001219512195
+Virgin Islands (U.S.),VIR,1981,71.9307073170732
+Virgin Islands (U.S.),VIR,1982,72.166243902439
+Virgin Islands (U.S.),VIR,1983,72.410243902439
+Virgin Islands (U.S.),VIR,1984,72.6622195121951
+Virgin Islands (U.S.),VIR,1985,72.9221707317073
+Virgin Islands (U.S.),VIR,1986,73.1870487804878
+Virgin Islands (U.S.),VIR,1987,73.4538536585366
+Virgin Islands (U.S.),VIR,1988,73.7175853658537
+Virgin Islands (U.S.),VIR,1989,73.978243902439
+Virgin Islands (U.S.),VIR,1990,74.2358536585366
+Virgin Islands (U.S.),VIR,1991,74.4919512195122
+Virgin Islands (U.S.),VIR,1992,74.7470487804878
+Virgin Islands (U.S.),VIR,1993,75.0026585365854
+Virgin Islands (U.S.),VIR,1994,75.2572926829268
+Virgin Islands (U.S.),VIR,1995,75.5099268292683
+Virgin Islands (U.S.),VIR,1996,75.7590243902439
+Virgin Islands (U.S.),VIR,1997,76.0025365853659
+Virgin Islands (U.S.),VIR,1998,76.2369756097561
+Virgin Islands (U.S.),VIR,1999,76.4618536585366
+Virgin Islands (U.S.),VIR,2000,76.619512195122
+Virgin Islands (U.S.),VIR,2001,77.6219512195122
+Virgin Islands (U.S.),VIR,2002,77.5219512195122
+Virgin Islands (U.S.),VIR,2003,77.5219512195122
+Virgin Islands (U.S.),VIR,2004,77.7731707317073
+Virgin Islands (U.S.),VIR,2005,77.4219512195122
+Virgin Islands (U.S.),VIR,2006,78.3243902439024
+Virgin Islands (U.S.),VIR,2007,76.8634146341463
+Virgin Islands (U.S.),VIR,2008,77.1634146341463
+Virgin Islands (U.S.),VIR,2009,77.5146341463415
+Virgin Islands (U.S.),VIR,2010,77.8658536585366
+Virgin Islands (U.S.),VIR,2011,78.3170731707317
+Virgin Islands (U.S.),VIR,2012,78.5170731707317
+Virgin Islands (U.S.),VIR,2013,78.7170731707317
+Virgin Islands (U.S.),VIR,2014,78.8682926829268
+Virgin Islands (U.S.),VIR,2015,79.0170731707317
+Virgin Islands (U.S.),VIR,2016,79.1682926829268
+Virgin Islands (U.S.),VIR,2017,79.3682926829268
+Virgin Islands (U.S.),VIR,2018,79.5195121951219
+Virgin Islands (U.S.),VIR,2019,79.6682926829268
+Virgin Islands (U.S.),VIR,2020,79.819512195122
+Virgin Islands (U.S.),VIR,2021,
+Curacao,CUW,1960,
+Curacao,CUW,1961,
+Curacao,CUW,1962,
+Curacao,CUW,1963,
+Curacao,CUW,1964,
+Curacao,CUW,1965,
+Curacao,CUW,1966,
+Curacao,CUW,1967,
+Curacao,CUW,1968,
+Curacao,CUW,1969,
+Curacao,CUW,1970,
+Curacao,CUW,1971,
+Curacao,CUW,1972,
+Curacao,CUW,1973,
+Curacao,CUW,1974,
+Curacao,CUW,1975,
+Curacao,CUW,1976,
+Curacao,CUW,1977,
+Curacao,CUW,1978,
+Curacao,CUW,1979,
+Curacao,CUW,1980,
+Curacao,CUW,1981,
+Curacao,CUW,1982,
+Curacao,CUW,1983,
+Curacao,CUW,1984,
+Curacao,CUW,1985,
+Curacao,CUW,1986,
+Curacao,CUW,1987,
+Curacao,CUW,1988,
+Curacao,CUW,1989,
+Curacao,CUW,1990,
+Curacao,CUW,1991,
+Curacao,CUW,1992,
+Curacao,CUW,1993,
+Curacao,CUW,1994,
+Curacao,CUW,1995,
+Curacao,CUW,1996,
+Curacao,CUW,1997,
+Curacao,CUW,1998,
+Curacao,CUW,1999,
+Curacao,CUW,2000,
+Curacao,CUW,2001,
+Curacao,CUW,2002,
+Curacao,CUW,2003,
+Curacao,CUW,2004,
+Curacao,CUW,2005,
+Curacao,CUW,2006,74.709756097561
+Curacao,CUW,2007,75.3634146341464
+Curacao,CUW,2008,75.309756097561
+Curacao,CUW,2009,76.1560975609756
+Curacao,CUW,2010,
+Curacao,CUW,2011,77.4731707317073
+Curacao,CUW,2012,77.5243902439024
+Curacao,CUW,2013,77.8268292682927
+Curacao,CUW,2014,77.9756097560976
+Curacao,CUW,2015,78.0756097560976
+Curacao,CUW,2016,77.719512195122
+Curacao,CUW,2017,78.0170731707317
+Curacao,CUW,2018,
+Curacao,CUW,2019,
+Curacao,CUW,2020,
+Curacao,CUW,2021,
+Costa Rica,CRI,1960,60.381
+Costa Rica,CRI,1961,61.018
+Costa Rica,CRI,1962,61.638
+Costa Rica,CRI,1963,62.236
+Costa Rica,CRI,1964,62.807
+Costa Rica,CRI,1965,63.348
+Costa Rica,CRI,1966,63.862
+Costa Rica,CRI,1967,64.358
+Costa Rica,CRI,1968,64.847
+Costa Rica,CRI,1969,65.339
+Costa Rica,CRI,1970,65.844
+Costa Rica,CRI,1971,66.378
+Costa Rica,CRI,1972,66.943
+Costa Rica,CRI,1973,67.541
+Costa Rica,CRI,1974,68.17
+Costa Rica,CRI,1975,68.825
+Costa Rica,CRI,1976,69.501
+Costa Rica,CRI,1977,70.182
+Costa Rica,CRI,1978,70.853
+Costa Rica,CRI,1979,71.501
+Costa Rica,CRI,1980,72.113
+Costa Rica,CRI,1981,72.678
+Costa Rica,CRI,1982,73.193
+Costa Rica,CRI,1983,73.657
+Costa Rica,CRI,1984,74.07
+Costa Rica,CRI,1985,74.429
+Costa Rica,CRI,1986,74.738
+Costa Rica,CRI,1987,75.006
+Costa Rica,CRI,1988,75.243
+Costa Rica,CRI,1989,75.456
+Costa Rica,CRI,1990,75.654
+Costa Rica,CRI,1991,75.844
+Costa Rica,CRI,1992,76.028
+Costa Rica,CRI,1993,76.211
+Costa Rica,CRI,1994,76.394
+Costa Rica,CRI,1995,76.579
+Costa Rica,CRI,1996,76.765
+Costa Rica,CRI,1997,76.948
+Costa Rica,CRI,1998,77.124
+Costa Rica,CRI,1999,77.293
+Costa Rica,CRI,2000,77.452
+Costa Rica,CRI,2001,77.601
+Costa Rica,CRI,2002,77.74
+Costa Rica,CRI,2003,77.871
+Costa Rica,CRI,2004,77.996
+Costa Rica,CRI,2005,78.117
+Costa Rica,CRI,2006,78.239
+Costa Rica,CRI,2007,78.362
+Costa Rica,CRI,2008,78.491
+Costa Rica,CRI,2009,78.626
+Costa Rica,CRI,2010,78.769
+Costa Rica,CRI,2011,78.919
+Costa Rica,CRI,2012,79.074
+Costa Rica,CRI,2013,79.234
+Costa Rica,CRI,2014,79.398
+Costa Rica,CRI,2015,79.565
+Costa Rica,CRI,2016,79.738
+Costa Rica,CRI,2017,79.914
+Costa Rica,CRI,2018,80.095
+Costa Rica,CRI,2019,80.279
+Costa Rica,CRI,2020,80.465
+Costa Rica,CRI,2021,
+Trinidad and Tobago,TTO,1960,62.222
+Trinidad and Tobago,TTO,1961,62.652
+Trinidad and Tobago,TTO,1962,63.036
+Trinidad and Tobago,TTO,1963,63.373
+Trinidad and Tobago,TTO,1964,63.663
+Trinidad and Tobago,TTO,1965,63.908
+Trinidad and Tobago,TTO,1966,64.112
+Trinidad and Tobago,TTO,1967,64.282
+Trinidad and Tobago,TTO,1968,64.43
+Trinidad and Tobago,TTO,1969,64.565
+Trinidad and Tobago,TTO,1970,64.7
+Trinidad and Tobago,TTO,1971,64.844
+Trinidad and Tobago,TTO,1972,65.003
+Trinidad and Tobago,TTO,1973,65.177
+Trinidad and Tobago,TTO,1974,65.368
+Trinidad and Tobago,TTO,1975,65.572
+Trinidad and Tobago,TTO,1976,65.782
+Trinidad and Tobago,TTO,1977,65.987
+Trinidad and Tobago,TTO,1978,66.182
+Trinidad and Tobago,TTO,1979,66.364
+Trinidad and Tobago,TTO,1980,66.533
+Trinidad and Tobago,TTO,1981,66.694
+Trinidad and Tobago,TTO,1982,66.854
+Trinidad and Tobago,TTO,1983,67.015
+Trinidad and Tobago,TTO,1984,67.179
+Trinidad and Tobago,TTO,1985,67.344
+Trinidad and Tobago,TTO,1986,67.507
+Trinidad and Tobago,TTO,1987,67.666
+Trinidad and Tobago,TTO,1988,67.816
+Trinidad and Tobago,TTO,1989,67.957
+Trinidad and Tobago,TTO,1990,68.086
+Trinidad and Tobago,TTO,1991,68.201
+Trinidad and Tobago,TTO,1992,68.305
+Trinidad and Tobago,TTO,1993,68.402
+Trinidad and Tobago,TTO,1994,68.496
+Trinidad and Tobago,TTO,1995,68.597
+Trinidad and Tobago,TTO,1996,68.713
+Trinidad and Tobago,TTO,1997,68.85
+Trinidad and Tobago,TTO,1998,69.011
+Trinidad and Tobago,TTO,1999,69.199
+Trinidad and Tobago,TTO,2000,69.413
+Trinidad and Tobago,TTO,2001,69.65
+Trinidad and Tobago,TTO,2002,69.903
+Trinidad and Tobago,TTO,2003,70.164
+Trinidad and Tobago,TTO,2004,70.428
+Trinidad and Tobago,TTO,2005,70.691
+Trinidad and Tobago,TTO,2006,70.952
+Trinidad and Tobago,TTO,2007,71.21
+Trinidad and Tobago,TTO,2008,71.464
+Trinidad and Tobago,TTO,2009,71.71
+Trinidad and Tobago,TTO,2010,71.946
+Trinidad and Tobago,TTO,2011,72.17
+Trinidad and Tobago,TTO,2012,72.382
+Trinidad and Tobago,TTO,2013,72.582
+Trinidad and Tobago,TTO,2014,72.768
+Trinidad and Tobago,TTO,2015,72.941
+Trinidad and Tobago,TTO,2016,73.1
+Trinidad and Tobago,TTO,2017,73.245
+Trinidad and Tobago,TTO,2018,73.38
+Trinidad and Tobago,TTO,2019,73.507
+Trinidad and Tobago,TTO,2020,73.628
+Trinidad and Tobago,TTO,2021,
+Dominica,DMA,1960,
+Dominica,DMA,1961,
+Dominica,DMA,1962,
+Dominica,DMA,1963,
+Dominica,DMA,1964,
+Dominica,DMA,1965,
+Dominica,DMA,1966,
+Dominica,DMA,1967,
+Dominica,DMA,1968,
+Dominica,DMA,1969,
+Dominica,DMA,1970,
+Dominica,DMA,1971,
+Dominica,DMA,1972,
+Dominica,DMA,1973,
+Dominica,DMA,1974,
+Dominica,DMA,1975,
+Dominica,DMA,1976,
+Dominica,DMA,1977,
+Dominica,DMA,1978,
+Dominica,DMA,1979,
+Dominica,DMA,1980,
+Dominica,DMA,1981,
+Dominica,DMA,1982,71.4634146341463
+Dominica,DMA,1983,
+Dominica,DMA,1984,
+Dominica,DMA,1985,
+Dominica,DMA,1986,
+Dominica,DMA,1987,71.9634146341463
+Dominica,DMA,1988,
+Dominica,DMA,1989,
+Dominica,DMA,1990,
+Dominica,DMA,1991,
+Dominica,DMA,1992,73.9512195121951
+Dominica,DMA,1993,
+Dominica,DMA,1994,
+Dominica,DMA,1995,
+Dominica,DMA,1996,
+Dominica,DMA,1997,75.9512195121951
+Dominica,DMA,1998,
+Dominica,DMA,1999,
+Dominica,DMA,2000,
+Dominica,DMA,2001,
+Dominica,DMA,2002,76.5975609756098
+Dominica,DMA,2003,
+Dominica,DMA,2004,
+Dominica,DMA,2005,
+Dominica,DMA,2006,
+Dominica,DMA,2007,
+Dominica,DMA,2008,
+Dominica,DMA,2009,
+Dominica,DMA,2010,
+Dominica,DMA,2011,
+Dominica,DMA,2012,
+Dominica,DMA,2013,
+Dominica,DMA,2014,
+Dominica,DMA,2015,
+Dominica,DMA,2016,
+Dominica,DMA,2017,
+Dominica,DMA,2018,
+Dominica,DMA,2019,
+Dominica,DMA,2020,
+Dominica,DMA,2021,
+"Bahamas, The",BHS,1960,64.74
+"Bahamas, The",BHS,1961,64.885
+"Bahamas, The",BHS,1962,65.011
+"Bahamas, The",BHS,1963,65.121
+"Bahamas, The",BHS,1964,65.219
+"Bahamas, The",BHS,1965,65.31
+"Bahamas, The",BHS,1966,65.402
+"Bahamas, The",BHS,1967,65.499
+"Bahamas, The",BHS,1968,65.607
+"Bahamas, The",BHS,1969,65.73
+"Bahamas, The",BHS,1970,65.87
+"Bahamas, The",BHS,1971,66.031
+"Bahamas, The",BHS,1972,66.209
+"Bahamas, The",BHS,1973,66.397
+"Bahamas, The",BHS,1974,66.593
+"Bahamas, The",BHS,1975,66.785
+"Bahamas, The",BHS,1976,66.962
+"Bahamas, The",BHS,1977,67.118
+"Bahamas, The",BHS,1978,67.253
+"Bahamas, The",BHS,1979,67.372
+"Bahamas, The",BHS,1980,67.488
+"Bahamas, The",BHS,1981,67.615
+"Bahamas, The",BHS,1982,67.769
+"Bahamas, The",BHS,1983,67.962
+"Bahamas, The",BHS,1984,68.196
+"Bahamas, The",BHS,1985,68.474
+"Bahamas, The",BHS,1986,68.793
+"Bahamas, The",BHS,1987,69.139
+"Bahamas, The",BHS,1988,69.496
+"Bahamas, The",BHS,1989,69.854
+"Bahamas, The",BHS,1990,70.199
+"Bahamas, The",BHS,1991,70.518
+"Bahamas, The",BHS,1992,70.807
+"Bahamas, The",BHS,1993,71.061
+"Bahamas, The",BHS,1994,71.276
+"Bahamas, The",BHS,1995,71.451
+"Bahamas, The",BHS,1996,71.589
+"Bahamas, The",BHS,1997,71.698
+"Bahamas, The",BHS,1998,71.786
+"Bahamas, The",BHS,1999,71.858
+"Bahamas, The",BHS,2000,71.914
+"Bahamas, The",BHS,2001,71.954
+"Bahamas, The",BHS,2002,71.977
+"Bahamas, The",BHS,2003,71.986
+"Bahamas, The",BHS,2004,71.988
+"Bahamas, The",BHS,2005,71.987
+"Bahamas, The",BHS,2006,71.988
+"Bahamas, The",BHS,2007,71.998
+"Bahamas, The",BHS,2008,72.022
+"Bahamas, The",BHS,2009,72.067
+"Bahamas, The",BHS,2010,72.144
+"Bahamas, The",BHS,2011,72.263
+"Bahamas, The",BHS,2012,72.424
+"Bahamas, The",BHS,2013,72.62
+"Bahamas, The",BHS,2014,72.847
+"Bahamas, The",BHS,2015,73.088
+"Bahamas, The",BHS,2016,73.329
+"Bahamas, The",BHS,2017,73.554
+"Bahamas, The",BHS,2018,73.752
+"Bahamas, The",BHS,2019,73.918
+"Bahamas, The",BHS,2020,74.053
+"Bahamas, The",BHS,2021,
+Sint Maarten (Dutch part),SXM,1960,
+Sint Maarten (Dutch part),SXM,1961,
+Sint Maarten (Dutch part),SXM,1962,
+Sint Maarten (Dutch part),SXM,1963,
+Sint Maarten (Dutch part),SXM,1964,
+Sint Maarten (Dutch part),SXM,1965,
+Sint Maarten (Dutch part),SXM,1966,
+Sint Maarten (Dutch part),SXM,1967,
+Sint Maarten (Dutch part),SXM,1968,
+Sint Maarten (Dutch part),SXM,1969,
+Sint Maarten (Dutch part),SXM,1970,
+Sint Maarten (Dutch part),SXM,1971,
+Sint Maarten (Dutch part),SXM,1972,
+Sint Maarten (Dutch part),SXM,1973,
+Sint Maarten (Dutch part),SXM,1974,
+Sint Maarten (Dutch part),SXM,1975,
+Sint Maarten (Dutch part),SXM,1976,
+Sint Maarten (Dutch part),SXM,1977,
+Sint Maarten (Dutch part),SXM,1978,
+Sint Maarten (Dutch part),SXM,1979,
+Sint Maarten (Dutch part),SXM,1980,
+Sint Maarten (Dutch part),SXM,1981,
+Sint Maarten (Dutch part),SXM,1982,
+Sint Maarten (Dutch part),SXM,1983,
+Sint Maarten (Dutch part),SXM,1984,
+Sint Maarten (Dutch part),SXM,1985,
+Sint Maarten (Dutch part),SXM,1986,
+Sint Maarten (Dutch part),SXM,1987,
+Sint Maarten (Dutch part),SXM,1988,
+Sint Maarten (Dutch part),SXM,1989,
+Sint Maarten (Dutch part),SXM,1990,
+Sint Maarten (Dutch part),SXM,1991,
+Sint Maarten (Dutch part),SXM,1992,
+Sint Maarten (Dutch part),SXM,1993,
+Sint Maarten (Dutch part),SXM,1994,
+Sint Maarten (Dutch part),SXM,1995,
+Sint Maarten (Dutch part),SXM,1996,
+Sint Maarten (Dutch part),SXM,1997,
+Sint Maarten (Dutch part),SXM,1998,
+Sint Maarten (Dutch part),SXM,1999,
+Sint Maarten (Dutch part),SXM,2000,
+Sint Maarten (Dutch part),SXM,2001,
+Sint Maarten (Dutch part),SXM,2002,
+Sint Maarten (Dutch part),SXM,2003,
+Sint Maarten (Dutch part),SXM,2004,
+Sint Maarten (Dutch part),SXM,2005,
+Sint Maarten (Dutch part),SXM,2006,
+Sint Maarten (Dutch part),SXM,2007,74.5439024390244
+Sint Maarten (Dutch part),SXM,2008,74.5365853658537
+Sint Maarten (Dutch part),SXM,2009,75.5878048780488
+Sint Maarten (Dutch part),SXM,2010,
+Sint Maarten (Dutch part),SXM,2011,
+Sint Maarten (Dutch part),SXM,2012,73.0536585365854
+Sint Maarten (Dutch part),SXM,2013,
+Sint Maarten (Dutch part),SXM,2014,77.0682926829268
+Sint Maarten (Dutch part),SXM,2015,77.219512195122
+Sint Maarten (Dutch part),SXM,2016,78.2926829268293
+Sint Maarten (Dutch part),SXM,2017,
+Sint Maarten (Dutch part),SXM,2018,
+Sint Maarten (Dutch part),SXM,2019,
+Sint Maarten (Dutch part),SXM,2020,
+Sint Maarten (Dutch part),SXM,2021,
+St. Vincent and the Grenadines,VCT,1960,59.26
+St. Vincent and the Grenadines,VCT,1961,59.891
+St. Vincent and the Grenadines,VCT,1962,60.474
+St. Vincent and the Grenadines,VCT,1963,61.006
+St. Vincent and the Grenadines,VCT,1964,61.488
+St. Vincent and the Grenadines,VCT,1965,61.924
+St. Vincent and the Grenadines,VCT,1966,62.318
+St. Vincent and the Grenadines,VCT,1967,62.682
+St. Vincent and the Grenadines,VCT,1968,63.026
+St. Vincent and the Grenadines,VCT,1969,63.36
+St. Vincent and the Grenadines,VCT,1970,63.691
+St. Vincent and the Grenadines,VCT,1971,64.026
+St. Vincent and the Grenadines,VCT,1972,64.365
+St. Vincent and the Grenadines,VCT,1973,64.711
+St. Vincent and the Grenadines,VCT,1974,65.069
+St. Vincent and the Grenadines,VCT,1975,65.445
+St. Vincent and the Grenadines,VCT,1976,65.844
+St. Vincent and the Grenadines,VCT,1977,66.263
+St. Vincent and the Grenadines,VCT,1978,66.698
+St. Vincent and the Grenadines,VCT,1979,67.143
+St. Vincent and the Grenadines,VCT,1980,67.59
+St. Vincent and the Grenadines,VCT,1981,68.031
+St. Vincent and the Grenadines,VCT,1982,68.456
+St. Vincent and the Grenadines,VCT,1983,68.856
+St. Vincent and the Grenadines,VCT,1984,69.223
+St. Vincent and the Grenadines,VCT,1985,69.551
+St. Vincent and the Grenadines,VCT,1986,69.835
+St. Vincent and the Grenadines,VCT,1987,70.078
+St. Vincent and the Grenadines,VCT,1988,70.283
+St. Vincent and the Grenadines,VCT,1989,70.451
+St. Vincent and the Grenadines,VCT,1990,70.58
+St. Vincent and the Grenadines,VCT,1991,70.669
+St. Vincent and the Grenadines,VCT,1992,70.723
+St. Vincent and the Grenadines,VCT,1993,70.748
+St. Vincent and the Grenadines,VCT,1994,70.752
+St. Vincent and the Grenadines,VCT,1995,70.745
+St. Vincent and the Grenadines,VCT,1996,70.736
+St. Vincent and the Grenadines,VCT,1997,70.731
+St. Vincent and the Grenadines,VCT,1998,70.738
+St. Vincent and the Grenadines,VCT,1999,70.762
+St. Vincent and the Grenadines,VCT,2000,70.809
+St. Vincent and the Grenadines,VCT,2001,70.882
+St. Vincent and the Grenadines,VCT,2002,70.977
+St. Vincent and the Grenadines,VCT,2003,71.087
+St. Vincent and the Grenadines,VCT,2004,71.208
+St. Vincent and the Grenadines,VCT,2005,71.331
+St. Vincent and the Grenadines,VCT,2006,71.449
+St. Vincent and the Grenadines,VCT,2007,71.554
+St. Vincent and the Grenadines,VCT,2008,71.643
+St. Vincent and the Grenadines,VCT,2009,71.716
+St. Vincent and the Grenadines,VCT,2010,71.776
+St. Vincent and the Grenadines,VCT,2011,71.827
+St. Vincent and the Grenadines,VCT,2012,71.879
+St. Vincent and the Grenadines,VCT,2013,71.939
+St. Vincent and the Grenadines,VCT,2014,72.01
+St. Vincent and the Grenadines,VCT,2015,72.095
+St. Vincent and the Grenadines,VCT,2016,72.193
+St. Vincent and the Grenadines,VCT,2017,72.3
+St. Vincent and the Grenadines,VCT,2018,72.415
+St. Vincent and the Grenadines,VCT,2019,72.534
+St. Vincent and the Grenadines,VCT,2020,72.658
+St. Vincent and the Grenadines,VCT,2021,
+Honduras,HND,1960,46.274
+Honduras,HND,1961,46.953
+Honduras,HND,1962,47.625
+Honduras,HND,1963,48.285
+Honduras,HND,1964,48.926
+Honduras,HND,1965,49.548
+Honduras,HND,1966,50.151
+Honduras,HND,1967,50.742
+Honduras,HND,1968,51.33
+Honduras,HND,1969,51.921
+Honduras,HND,1970,52.522
+Honduras,HND,1971,53.14
+Honduras,HND,1972,53.778
+Honduras,HND,1973,54.439
+Honduras,HND,1974,55.124
+Honduras,HND,1975,55.834
+Honduras,HND,1976,56.567
+Honduras,HND,1977,57.317
+Honduras,HND,1978,58.08
+Honduras,HND,1979,58.851
+Honduras,HND,1980,59.632
+Honduras,HND,1981,60.427
+Honduras,HND,1982,61.236
+Honduras,HND,1983,62.05
+Honduras,HND,1984,62.859
+Honduras,HND,1985,63.643
+Honduras,HND,1986,64.382
+Honduras,HND,1987,65.062
+Honduras,HND,1988,65.679
+Honduras,HND,1989,66.229
+Honduras,HND,1990,66.723
+Honduras,HND,1991,67.175
+Honduras,HND,1992,67.605
+Honduras,HND,1993,68.028
+Honduras,HND,1994,68.45
+Honduras,HND,1995,68.871
+Honduras,HND,1996,69.284
+Honduras,HND,1997,69.676
+Honduras,HND,1998,70.041
+Honduras,HND,1999,70.378
+Honduras,HND,2000,70.689
+Honduras,HND,2001,70.976
+Honduras,HND,2002,71.249
+Honduras,HND,2003,71.511
+Honduras,HND,2004,71.77
+Honduras,HND,2005,72.026
+Honduras,HND,2006,72.285
+Honduras,HND,2007,72.544
+Honduras,HND,2008,72.803
+Honduras,HND,2009,73.061
+Honduras,HND,2010,73.317
+Honduras,HND,2011,73.569
+Honduras,HND,2012,73.814
+Honduras,HND,2013,74.051
+Honduras,HND,2014,74.278
+Honduras,HND,2015,74.495
+Honduras,HND,2016,74.701
+Honduras,HND,2017,74.898
+Honduras,HND,2018,75.088
+Honduras,HND,2019,75.27
+Honduras,HND,2020,75.448
+Honduras,HND,2021,
+El Salvador,SLV,1960,49.95
+El Salvador,SLV,1961,50.621
+El Salvador,SLV,1962,51.256
+El Salvador,SLV,1963,51.847
+El Salvador,SLV,1964,52.391
+El Salvador,SLV,1965,52.893
+El Salvador,SLV,1966,53.36
+El Salvador,SLV,1967,53.803
+El Salvador,SLV,1968,54.226
+El Salvador,SLV,1969,54.628
+El Salvador,SLV,1970,54.998
+El Salvador,SLV,1971,55.32
+El Salvador,SLV,1972,55.586
+El Salvador,SLV,1973,55.793
+El Salvador,SLV,1974,55.948
+El Salvador,SLV,1975,56.052
+El Salvador,SLV,1976,56.11
+El Salvador,SLV,1977,56.142
+El Salvador,SLV,1978,56.178
+El Salvador,SLV,1979,56.248
+El Salvador,SLV,1980,56.394
+El Salvador,SLV,1981,56.658
+El Salvador,SLV,1982,57.058
+El Salvador,SLV,1983,57.601
+El Salvador,SLV,1984,58.283
+El Salvador,SLV,1985,59.097
+El Salvador,SLV,1986,60.025
+El Salvador,SLV,1987,61.024
+El Salvador,SLV,1988,62.044
+El Salvador,SLV,1989,63.05
+El Salvador,SLV,1990,64
+El Salvador,SLV,1991,64.858
+El Salvador,SLV,1992,65.617
+El Salvador,SLV,1993,66.273
+El Salvador,SLV,1994,66.824
+El Salvador,SLV,1995,67.277
+El Salvador,SLV,1996,67.651
+El Salvador,SLV,1997,67.978
+El Salvador,SLV,1998,68.284
+El Salvador,SLV,1999,68.581
+El Salvador,SLV,2000,68.875
+El Salvador,SLV,2001,69.162
+El Salvador,SLV,2002,69.432
+El Salvador,SLV,2003,69.68
+El Salvador,SLV,2004,69.908
+El Salvador,SLV,2005,70.124
+El Salvador,SLV,2006,70.333
+El Salvador,SLV,2007,70.542
+El Salvador,SLV,2008,70.756
+El Salvador,SLV,2009,70.978
+El Salvador,SLV,2010,71.21
+El Salvador,SLV,2011,71.449
+El Salvador,SLV,2012,71.692
+El Salvador,SLV,2013,71.935
+El Salvador,SLV,2014,72.175
+El Salvador,SLV,2015,72.412
+El Salvador,SLV,2016,72.644
+El Salvador,SLV,2017,72.872
+El Salvador,SLV,2018,73.096
+El Salvador,SLV,2019,73.317
+El Salvador,SLV,2020,73.533
+El Salvador,SLV,2021,
+Barbados,BRB,1960,64.472
+Barbados,BRB,1961,65.198
+Barbados,BRB,1962,65.831
+Barbados,BRB,1963,66.381
+Barbados,BRB,1964,66.86
+Barbados,BRB,1965,67.275
+Barbados,BRB,1966,67.628
+Barbados,BRB,1967,67.928
+Barbados,BRB,1968,68.187
+Barbados,BRB,1969,68.421
+Barbados,BRB,1970,68.65
+Barbados,BRB,1971,68.89
+Barbados,BRB,1972,69.149
+Barbados,BRB,1973,69.436
+Barbados,BRB,1974,69.756
+Barbados,BRB,1975,70.113
+Barbados,BRB,1976,70.509
+Barbados,BRB,1977,70.931
+Barbados,BRB,1978,71.364
+Barbados,BRB,1979,71.8
+Barbados,BRB,1980,72.222
+Barbados,BRB,1981,72.618
+Barbados,BRB,1982,72.98
+Barbados,BRB,1983,73.303
+Barbados,BRB,1984,73.585
+Barbados,BRB,1985,73.825
+Barbados,BRB,1986,74.029
+Barbados,BRB,1987,74.206
+Barbados,BRB,1988,74.372
+Barbados,BRB,1989,74.534
+Barbados,BRB,1990,74.704
+Barbados,BRB,1991,74.892
+Barbados,BRB,1992,75.101
+Barbados,BRB,1993,75.332
+Barbados,BRB,1994,75.583
+Barbados,BRB,1995,75.852
+Barbados,BRB,1996,76.131
+Barbados,BRB,1997,76.41
+Barbados,BRB,1998,76.68
+Barbados,BRB,1999,76.933
+Barbados,BRB,2000,77.162
+Barbados,BRB,2001,77.362
+Barbados,BRB,2002,77.534
+Barbados,BRB,2003,77.682
+Barbados,BRB,2004,77.808
+Barbados,BRB,2005,77.915
+Barbados,BRB,2006,78.009
+Barbados,BRB,2007,78.097
+Barbados,BRB,2008,78.184
+Barbados,BRB,2009,78.272
+Barbados,BRB,2010,78.364
+Barbados,BRB,2011,78.456
+Barbados,BRB,2012,78.547
+Barbados,BRB,2013,78.633
+Barbados,BRB,2014,78.717
+Barbados,BRB,2015,78.801
+Barbados,BRB,2016,78.888
+Barbados,BRB,2017,78.981
+Barbados,BRB,2018,79.081
+Barbados,BRB,2019,79.19
+Barbados,BRB,2020,79.308
+Barbados,BRB,2021,
+Guyana,GUY,1960,60.26
+Guyana,GUY,1961,60.441
+Guyana,GUY,1962,60.623
+Guyana,GUY,1963,60.805
+Guyana,GUY,1964,60.984
+Guyana,GUY,1965,61.157
+Guyana,GUY,1966,61.317
+Guyana,GUY,1967,61.462
+Guyana,GUY,1968,61.588
+Guyana,GUY,1969,61.697
+Guyana,GUY,1970,61.789
+Guyana,GUY,1971,61.868
+Guyana,GUY,1972,61.938
+Guyana,GUY,1973,62.005
+Guyana,GUY,1974,62.072
+Guyana,GUY,1975,62.14
+Guyana,GUY,1976,62.211
+Guyana,GUY,1977,62.283
+Guyana,GUY,1978,62.355
+Guyana,GUY,1979,62.427
+Guyana,GUY,1980,62.498
+Guyana,GUY,1981,62.565
+Guyana,GUY,1982,62.626
+Guyana,GUY,1983,62.684
+Guyana,GUY,1984,62.741
+Guyana,GUY,1985,62.801
+Guyana,GUY,1986,62.869
+Guyana,GUY,1987,62.95
+Guyana,GUY,1988,63.046
+Guyana,GUY,1989,63.159
+Guyana,GUY,1990,63.287
+Guyana,GUY,1991,63.427
+Guyana,GUY,1992,63.576
+Guyana,GUY,1993,63.73
+Guyana,GUY,1994,63.891
+Guyana,GUY,1995,64.064
+Guyana,GUY,1996,64.255
+Guyana,GUY,1997,64.468
+Guyana,GUY,1998,64.705
+Guyana,GUY,1999,64.964
+Guyana,GUY,2000,65.242
+Guyana,GUY,2001,65.532
+Guyana,GUY,2002,65.828
+Guyana,GUY,2003,66.122
+Guyana,GUY,2004,66.412
+Guyana,GUY,2005,66.694
+Guyana,GUY,2006,66.972
+Guyana,GUY,2007,67.247
+Guyana,GUY,2008,67.521
+Guyana,GUY,2009,67.792
+Guyana,GUY,2010,68.059
+Guyana,GUY,2011,68.321
+Guyana,GUY,2012,68.575
+Guyana,GUY,2013,68.819
+Guyana,GUY,2014,69.049
+Guyana,GUY,2015,69.262
+Guyana,GUY,2016,69.454
+Guyana,GUY,2017,69.624
+Guyana,GUY,2018,69.774
+Guyana,GUY,2019,69.906
+Guyana,GUY,2020,70.023
+Guyana,GUY,2021,
+Argentina,ARG,1960,65.055
+Argentina,ARG,1961,65.176
+Argentina,ARG,1962,65.269
+Argentina,ARG,1963,65.348
+Argentina,ARG,1964,65.426
+Argentina,ARG,1965,65.518
+Argentina,ARG,1966,65.64
+Argentina,ARG,1967,65.796
+Argentina,ARG,1968,65.989
+Argentina,ARG,1969,66.219
+Argentina,ARG,1970,66.483
+Argentina,ARG,1971,66.774
+Argentina,ARG,1972,67.078
+Argentina,ARG,1973,67.383
+Argentina,ARG,1974,67.686
+Argentina,ARG,1975,67.985
+Argentina,ARG,1976,68.283
+Argentina,ARG,1977,68.585
+Argentina,ARG,1978,68.891
+Argentina,ARG,1979,69.197
+Argentina,ARG,1980,69.496
+Argentina,ARG,1981,69.777
+Argentina,ARG,1982,70.033
+Argentina,ARG,1983,70.262
+Argentina,ARG,1984,70.466
+Argentina,ARG,1985,70.65
+Argentina,ARG,1986,70.825
+Argentina,ARG,1987,71.001
+Argentina,ARG,1988,71.186
+Argentina,ARG,1989,71.384
+Argentina,ARG,1990,71.594
+Argentina,ARG,1991,71.813
+Argentina,ARG,1992,72.032
+Argentina,ARG,1993,72.246
+Argentina,ARG,1994,72.453
+Argentina,ARG,1995,72.651
+Argentina,ARG,1996,72.843
+Argentina,ARG,1997,73.029
+Argentina,ARG,1998,73.213
+Argentina,ARG,1999,73.396
+Argentina,ARG,2000,73.576
+Argentina,ARG,2001,73.755
+Argentina,ARG,2002,73.932
+Argentina,ARG,2003,74.107
+Argentina,ARG,2004,74.28
+Argentina,ARG,2005,74.451
+Argentina,ARG,2006,74.62
+Argentina,ARG,2007,74.787
+Argentina,ARG,2008,74.952
+Argentina,ARG,2009,75.116
+Argentina,ARG,2010,75.278
+Argentina,ARG,2011,75.439
+Argentina,ARG,2012,75.598
+Argentina,ARG,2013,75.756
+Argentina,ARG,2014,75.913
+Argentina,ARG,2015,76.068
+Argentina,ARG,2016,76.221
+Argentina,ARG,2017,76.372
+Argentina,ARG,2018,76.52
+Argentina,ARG,2019,76.667
+Argentina,ARG,2020,76.813
+Argentina,ARG,2021,
+Belize,BLZ,1960,59.981
+Belize,BLZ,1961,60.531
+Belize,BLZ,1962,61.092
+Belize,BLZ,1963,61.663
+Belize,BLZ,1964,62.241
+Belize,BLZ,1965,62.823
+Belize,BLZ,1966,63.402
+Belize,BLZ,1967,63.971
+Belize,BLZ,1968,64.525
+Belize,BLZ,1969,65.058
+Belize,BLZ,1970,65.566
+Belize,BLZ,1971,66.047
+Belize,BLZ,1972,66.504
+Belize,BLZ,1973,66.939
+Belize,BLZ,1974,67.354
+Belize,BLZ,1975,67.751
+Belize,BLZ,1976,68.135
+Belize,BLZ,1977,68.509
+Belize,BLZ,1978,68.874
+Belize,BLZ,1979,69.229
+Belize,BLZ,1980,69.577
+Belize,BLZ,1981,69.921
+Belize,BLZ,1982,70.257
+Belize,BLZ,1983,70.575
+Belize,BLZ,1984,70.865
+Belize,BLZ,1985,71.11
+Belize,BLZ,1986,71.294
+Belize,BLZ,1987,71.405
+Belize,BLZ,1988,71.437
+Belize,BLZ,1989,71.386
+Belize,BLZ,1990,71.242
+Belize,BLZ,1991,70.996
+Belize,BLZ,1992,70.662
+Belize,BLZ,1993,70.268
+Belize,BLZ,1994,69.845
+Belize,BLZ,1995,69.439
+Belize,BLZ,1996,69.1
+Belize,BLZ,1997,68.858
+Belize,BLZ,1998,68.734
+Belize,BLZ,1999,68.734
+Belize,BLZ,2000,68.847
+Belize,BLZ,2001,69.04
+Belize,BLZ,2002,69.272
+Belize,BLZ,2003,69.511
+Belize,BLZ,2004,69.749
+Belize,BLZ,2005,69.998
+Belize,BLZ,2006,70.286
+Belize,BLZ,2007,70.636
+Belize,BLZ,2008,71.059
+Belize,BLZ,2009,71.541
+Belize,BLZ,2010,72.057
+Belize,BLZ,2011,72.57
+Belize,BLZ,2012,73.044
+Belize,BLZ,2013,73.452
+Belize,BLZ,2014,73.782
+Belize,BLZ,2015,74.034
+Belize,BLZ,2016,74.219
+Belize,BLZ,2017,74.365
+Belize,BLZ,2018,74.496
+Belize,BLZ,2019,74.623
+Belize,BLZ,2020,74.754
+Belize,BLZ,2021,
+Paraguay,PRY,1960,63.881
+Paraguay,PRY,1961,64.105
+Paraguay,PRY,1962,64.314
+Paraguay,PRY,1963,64.5
+Paraguay,PRY,1964,64.659
+Paraguay,PRY,1965,64.793
+Paraguay,PRY,1966,64.908
+Paraguay,PRY,1967,65.015
+Paraguay,PRY,1968,65.124
+Paraguay,PRY,1969,65.241
+Paraguay,PRY,1970,65.368
+Paraguay,PRY,1971,65.506
+Paraguay,PRY,1972,65.653
+Paraguay,PRY,1973,65.806
+Paraguay,PRY,1974,65.964
+Paraguay,PRY,1975,66.13
+Paraguay,PRY,1976,66.302
+Paraguay,PRY,1977,66.481
+Paraguay,PRY,1978,66.664
+Paraguay,PRY,1979,66.847
+Paraguay,PRY,1980,67.026
+Paraguay,PRY,1981,67.192
+Paraguay,PRY,1982,67.343
+Paraguay,PRY,1983,67.479
+Paraguay,PRY,1984,67.603
+Paraguay,PRY,1985,67.723
+Paraguay,PRY,1986,67.85
+Paraguay,PRY,1987,67.993
+Paraguay,PRY,1988,68.157
+Paraguay,PRY,1989,68.343
+Paraguay,PRY,1990,68.545
+Paraguay,PRY,1991,68.753
+Paraguay,PRY,1992,68.958
+Paraguay,PRY,1993,69.152
+Paraguay,PRY,1994,69.335
+Paraguay,PRY,1995,69.511
+Paraguay,PRY,1996,69.69
+Paraguay,PRY,1997,69.88
+Paraguay,PRY,1998,70.087
+Paraguay,PRY,1999,70.31
+Paraguay,PRY,2000,70.546
+Paraguay,PRY,2001,70.786
+Paraguay,PRY,2002,71.023
+Paraguay,PRY,2003,71.249
+Paraguay,PRY,2004,71.464
+Paraguay,PRY,2005,71.667
+Paraguay,PRY,2006,71.862
+Paraguay,PRY,2007,72.055
+Paraguay,PRY,2008,72.251
+Paraguay,PRY,2009,72.45
+Paraguay,PRY,2010,72.653
+Paraguay,PRY,2011,72.86
+Paraguay,PRY,2012,73.068
+Paraguay,PRY,2013,73.274
+Paraguay,PRY,2014,73.473
+Paraguay,PRY,2015,73.662
+Paraguay,PRY,2016,73.836
+Paraguay,PRY,2017,73.992
+Paraguay,PRY,2018,74.131
+Paraguay,PRY,2019,74.254
+Paraguay,PRY,2020,74.363
+Paraguay,PRY,2021,
+Colombia,COL,1960,57.269
+Colombia,COL,1961,57.813
+Colombia,COL,1962,58.329
+Colombia,COL,1963,58.825
+Colombia,COL,1964,59.308
+Colombia,COL,1965,59.784
+Colombia,COL,1966,60.257
+Colombia,COL,1967,60.729
+Colombia,COL,1968,61.201
+Colombia,COL,1969,61.675
+Colombia,COL,1970,62.152
+Colombia,COL,1971,62.629
+Colombia,COL,1972,63.105
+Colombia,COL,1973,63.578
+Colombia,COL,1974,64.047
+Colombia,COL,1975,64.518
+Colombia,COL,1976,64.994
+Colombia,COL,1977,65.477
+Colombia,COL,1978,65.964
+Colombia,COL,1979,66.451
+Colombia,COL,1980,66.926
+Colombia,COL,1981,67.38
+Colombia,COL,1982,67.802
+Colombia,COL,1983,68.187
+Colombia,COL,1984,68.529
+Colombia,COL,1985,68.823
+Colombia,COL,1986,69.065
+Colombia,COL,1987,69.266
+Colombia,COL,1988,69.436
+Colombia,COL,1989,69.591
+Colombia,COL,1990,69.75
+Colombia,COL,1991,69.936
+Colombia,COL,1992,70.161
+Colombia,COL,1993,70.433
+Colombia,COL,1994,70.752
+Colombia,COL,1995,71.112
+Colombia,COL,1996,71.497
+Colombia,COL,1997,71.887
+Colombia,COL,1998,72.264
+Colombia,COL,1999,72.619
+Colombia,COL,2000,72.945
+Colombia,COL,2001,73.241
+Colombia,COL,2002,73.517
+Colombia,COL,2003,73.777
+Colombia,COL,2004,74.026
+Colombia,COL,2005,74.265
+Colombia,COL,2006,74.5
+Colombia,COL,2007,74.732
+Colombia,COL,2008,74.962
+Colombia,COL,2009,75.193
+Colombia,COL,2010,75.424
+Colombia,COL,2011,75.655
+Colombia,COL,2012,75.882
+Colombia,COL,2013,76.105
+Colombia,COL,2014,76.322
+Colombia,COL,2015,76.531
+Colombia,COL,2016,76.732
+Colombia,COL,2017,76.925
+Colombia,COL,2018,77.109
+Colombia,COL,2019,77.287
+Colombia,COL,2020,77.46
+Colombia,COL,2021,
+Antigua and Barbuda,ATG,1960,61.968
+Antigua and Barbuda,ATG,1961,62.523
+Antigua and Barbuda,ATG,1962,63.049
+Antigua and Barbuda,ATG,1963,63.54
+Antigua and Barbuda,ATG,1964,63.992
+Antigua and Barbuda,ATG,1965,64.401
+Antigua and Barbuda,ATG,1966,64.762
+Antigua and Barbuda,ATG,1967,65.081
+Antigua and Barbuda,ATG,1968,65.363
+Antigua and Barbuda,ATG,1969,65.616
+Antigua and Barbuda,ATG,1970,65.847
+Antigua and Barbuda,ATG,1971,66.066
+Antigua and Barbuda,ATG,1972,66.28
+Antigua and Barbuda,ATG,1973,66.498
+Antigua and Barbuda,ATG,1974,66.727
+Antigua and Barbuda,ATG,1975,66.975
+Antigua and Barbuda,ATG,1976,67.244
+Antigua and Barbuda,ATG,1977,67.533
+Antigua and Barbuda,ATG,1978,67.837
+Antigua and Barbuda,ATG,1979,68.154
+Antigua and Barbuda,ATG,1980,68.482
+Antigua and Barbuda,ATG,1981,68.818
+Antigua and Barbuda,ATG,1982,69.156
+Antigua and Barbuda,ATG,1983,69.491
+Antigua and Barbuda,ATG,1984,69.82
+Antigua and Barbuda,ATG,1985,70.137
+Antigua and Barbuda,ATG,1986,70.44
+Antigua and Barbuda,ATG,1987,70.728
+Antigua and Barbuda,ATG,1988,71.004
+Antigua and Barbuda,ATG,1989,71.267
+Antigua and Barbuda,ATG,1990,71.52
+Antigua and Barbuda,ATG,1991,71.765
+Antigua and Barbuda,ATG,1992,72.006
+Antigua and Barbuda,ATG,1993,72.247
+Antigua and Barbuda,ATG,1994,72.489
+Antigua and Barbuda,ATG,1995,72.732
+Antigua and Barbuda,ATG,1996,72.977
+Antigua and Barbuda,ATG,1997,73.222
+Antigua and Barbuda,ATG,1998,73.465
+Antigua and Barbuda,ATG,1999,73.705
+Antigua and Barbuda,ATG,2000,73.94
+Antigua and Barbuda,ATG,2001,74.171
+Antigua and Barbuda,ATG,2002,74.395
+Antigua and Barbuda,ATG,2003,74.613
+Antigua and Barbuda,ATG,2004,74.821
+Antigua and Barbuda,ATG,2005,75.019
+Antigua and Barbuda,ATG,2006,75.204
+Antigua and Barbuda,ATG,2007,75.376
+Antigua and Barbuda,ATG,2008,75.535
+Antigua and Barbuda,ATG,2009,75.683
+Antigua and Barbuda,ATG,2010,75.823
+Antigua and Barbuda,ATG,2011,75.956
+Antigua and Barbuda,ATG,2012,76.087
+Antigua and Barbuda,ATG,2013,76.218
+Antigua and Barbuda,ATG,2014,76.349
+Antigua and Barbuda,ATG,2015,76.483
+Antigua and Barbuda,ATG,2016,76.617
+Antigua and Barbuda,ATG,2017,76.752
+Antigua and Barbuda,ATG,2018,76.885
+Antigua and Barbuda,ATG,2019,77.016
+Antigua and Barbuda,ATG,2020,77.146
+Antigua and Barbuda,ATG,2021,
+St. Martin (French part),MAF,1960,
+St. Martin (French part),MAF,1961,
+St. Martin (French part),MAF,1962,
+St. Martin (French part),MAF,1963,
+St. Martin (French part),MAF,1964,
+St. Martin (French part),MAF,1965,
+St. Martin (French part),MAF,1966,
+St. Martin (French part),MAF,1967,
+St. Martin (French part),MAF,1968,
+St. Martin (French part),MAF,1969,
+St. Martin (French part),MAF,1970,
+St. Martin (French part),MAF,1971,
+St. Martin (French part),MAF,1972,
+St. Martin (French part),MAF,1973,
+St. Martin (French part),MAF,1974,
+St. Martin (French part),MAF,1975,
+St. Martin (French part),MAF,1976,
+St. Martin (French part),MAF,1977,
+St. Martin (French part),MAF,1978,
+St. Martin (French part),MAF,1979,
+St. Martin (French part),MAF,1980,
+St. Martin (French part),MAF,1981,
+St. Martin (French part),MAF,1982,73.219512195122
+St. Martin (French part),MAF,1983,72.7682926829268
+St. Martin (French part),MAF,1984,72.919512195122
+St. Martin (French part),MAF,1985,72.6682926829268
+St. Martin (French part),MAF,1986,73.519512195122
+St. Martin (French part),MAF,1987,73.6707317073171
+St. Martin (French part),MAF,1988,74.2707317073171
+St. Martin (French part),MAF,1989,74.3219512195122
+St. Martin (French part),MAF,1990,74.5219512195122
+St. Martin (French part),MAF,1991,75.9243902439025
+St. Martin (French part),MAF,1992,75.4243902439025
+St. Martin (French part),MAF,1993,75.5731707317073
+St. Martin (French part),MAF,1994,75.7731707317073
+St. Martin (French part),MAF,1995,75.9731707317073
+St. Martin (French part),MAF,1996,76.1243902439025
+St. Martin (French part),MAF,1997,76.2731707317073
+St. Martin (French part),MAF,1998,76.4731707317073
+St. Martin (French part),MAF,1999,76.6731707317073
+St. Martin (French part),MAF,2000,76.8731707317073
+St. Martin (French part),MAF,2001,76.9731707317073
+St. Martin (French part),MAF,2002,77.1731707317073
+St. Martin (French part),MAF,2003,77.3731707317073
+St. Martin (French part),MAF,2004,77.5219512195122
+St. Martin (French part),MAF,2005,77.6731707317073
+St. Martin (French part),MAF,2006,77.8731707317073
+St. Martin (French part),MAF,2007,78.0219512195122
+St. Martin (French part),MAF,2008,78.2219512195122
+St. Martin (French part),MAF,2009,78.3731707317073
+St. Martin (French part),MAF,2010,78.5219512195122
+St. Martin (French part),MAF,2011,78.7219512195122
+St. Martin (French part),MAF,2012,78.8731707317073
+St. Martin (French part),MAF,2013,79.0219512195122
+St. Martin (French part),MAF,2014,79.1731707317073
+St. Martin (French part),MAF,2015,79.3219512195122
+St. Martin (French part),MAF,2016,79.5219512195122
+St. Martin (French part),MAF,2017,79.6219512195122
+St. Martin (French part),MAF,2018,79.8219512195122
+St. Martin (French part),MAF,2019,79.9731707317073
+St. Martin (French part),MAF,2020,80.1219512195122
+St. Martin (French part),MAF,2021,
+Ecuador,ECU,1960,52.982
+Ecuador,ECU,1961,53.547
+Ecuador,ECU,1962,54.098
+Ecuador,ECU,1963,54.635
+Ecuador,ECU,1964,55.158
+Ecuador,ECU,1965,55.669
+Ecuador,ECU,1966,56.174
+Ecuador,ECU,1967,56.676
+Ecuador,ECU,1968,57.181
+Ecuador,ECU,1969,57.69
+Ecuador,ECU,1970,58.203
+Ecuador,ECU,1971,58.718
+Ecuador,ECU,1972,59.232
+Ecuador,ECU,1973,59.745
+Ecuador,ECU,1974,60.258
+Ecuador,ECU,1975,60.774
+Ecuador,ECU,1976,61.298
+Ecuador,ECU,1977,61.834
+Ecuador,ECU,1978,62.382
+Ecuador,ECU,1979,62.942
+Ecuador,ECU,1980,63.512
+Ecuador,ECU,1981,64.089
+Ecuador,ECU,1982,64.669
+Ecuador,ECU,1983,65.246
+Ecuador,ECU,1984,65.814
+Ecuador,ECU,1985,66.371
+Ecuador,ECU,1986,66.911
+Ecuador,ECU,1987,67.436
+Ecuador,ECU,1988,67.943
+Ecuador,ECU,1989,68.431
+Ecuador,ECU,1990,68.899
+Ecuador,ECU,1991,69.347
+Ecuador,ECU,1992,69.777
+Ecuador,ECU,1993,70.189
+Ecuador,ECU,1994,70.587
+Ecuador,ECU,1995,70.972
+Ecuador,ECU,1996,71.348
+Ecuador,ECU,1997,71.716
+Ecuador,ECU,1998,72.075
+Ecuador,ECU,1999,72.425
+Ecuador,ECU,2000,72.761
+Ecuador,ECU,2001,73.078
+Ecuador,ECU,2002,73.371
+Ecuador,ECU,2003,73.641
+Ecuador,ECU,2004,73.887
+Ecuador,ECU,2005,74.112
+Ecuador,ECU,2006,74.319
+Ecuador,ECU,2007,74.514
+Ecuador,ECU,2008,74.705
+Ecuador,ECU,2009,74.895
+Ecuador,ECU,2010,75.089
+Ecuador,ECU,2011,75.289
+Ecuador,ECU,2012,75.495
+Ecuador,ECU,2013,75.707
+Ecuador,ECU,2014,75.923
+Ecuador,ECU,2015,76.143
+Ecuador,ECU,2016,76.365
+Ecuador,ECU,2017,76.584
+Ecuador,ECU,2018,76.8
+Ecuador,ECU,2019,77.01
+Ecuador,ECU,2020,77.216
+Ecuador,ECU,2021,
+British Virgin Islands,VGB,1960,
+British Virgin Islands,VGB,1961,
+British Virgin Islands,VGB,1962,
+British Virgin Islands,VGB,1963,
+British Virgin Islands,VGB,1964,
+British Virgin Islands,VGB,1965,
+British Virgin Islands,VGB,1966,
+British Virgin Islands,VGB,1967,
+British Virgin Islands,VGB,1968,
+British Virgin Islands,VGB,1969,
+British Virgin Islands,VGB,1970,
+British Virgin Islands,VGB,1971,
+British Virgin Islands,VGB,1972,
+British Virgin Islands,VGB,1973,
+British Virgin Islands,VGB,1974,
+British Virgin Islands,VGB,1975,
+British Virgin Islands,VGB,1976,
+British Virgin Islands,VGB,1977,
+British Virgin Islands,VGB,1978,
+British Virgin Islands,VGB,1979,
+British Virgin Islands,VGB,1980,
+British Virgin Islands,VGB,1981,
+British Virgin Islands,VGB,1982,
+British Virgin Islands,VGB,1983,
+British Virgin Islands,VGB,1984,
+British Virgin Islands,VGB,1985,
+British Virgin Islands,VGB,1986,
+British Virgin Islands,VGB,1987,
+British Virgin Islands,VGB,1988,
+British Virgin Islands,VGB,1989,
+British Virgin Islands,VGB,1990,
+British Virgin Islands,VGB,1991,
+British Virgin Islands,VGB,1992,
+British Virgin Islands,VGB,1993,
+British Virgin Islands,VGB,1994,
+British Virgin Islands,VGB,1995,
+British Virgin Islands,VGB,1996,
+British Virgin Islands,VGB,1997,
+British Virgin Islands,VGB,1998,
+British Virgin Islands,VGB,1999,
+British Virgin Islands,VGB,2000,
+British Virgin Islands,VGB,2001,
+British Virgin Islands,VGB,2002,
+British Virgin Islands,VGB,2003,
+British Virgin Islands,VGB,2004,
+British Virgin Islands,VGB,2005,
+British Virgin Islands,VGB,2006,
+British Virgin Islands,VGB,2007,
+British Virgin Islands,VGB,2008,
+British Virgin Islands,VGB,2009,
+British Virgin Islands,VGB,2010,
+British Virgin Islands,VGB,2011,
+British Virgin Islands,VGB,2012,
+British Virgin Islands,VGB,2013,
+British Virgin Islands,VGB,2014,
+British Virgin Islands,VGB,2015,
+British Virgin Islands,VGB,2016,
+British Virgin Islands,VGB,2017,
+British Virgin Islands,VGB,2018,
+British Virgin Islands,VGB,2019,
+British Virgin Islands,VGB,2020,
+British Virgin Islands,VGB,2021,
+Chile,CHL,1960,57.219
+Chile,CHL,1961,57.616
+Chile,CHL,1962,58.031
+Chile,CHL,1963,58.467
+Chile,CHL,1964,58.927
+Chile,CHL,1965,59.415
+Chile,CHL,1966,59.931
+Chile,CHL,1967,60.474
+Chile,CHL,1968,61.044
+Chile,CHL,1969,61.637
+Chile,CHL,1970,62.254
+Chile,CHL,1971,62.895
+Chile,CHL,1972,63.555
+Chile,CHL,1973,64.231
+Chile,CHL,1974,64.917
+Chile,CHL,1975,65.609
+Chile,CHL,1976,66.307
+Chile,CHL,1977,67.005
+Chile,CHL,1978,67.698
+Chile,CHL,1979,68.378
+Chile,CHL,1980,69.033
+Chile,CHL,1981,69.655
+Chile,CHL,1982,70.239
+Chile,CHL,1983,70.782
+Chile,CHL,1984,71.282
+Chile,CHL,1985,71.737
+Chile,CHL,1986,72.148
+Chile,CHL,1987,72.524
+Chile,CHL,1988,72.872
+Chile,CHL,1989,73.198
+Chile,CHL,1990,73.509
+Chile,CHL,1991,73.808
+Chile,CHL,1992,74.1
+Chile,CHL,1993,74.386
+Chile,CHL,1994,74.671
+Chile,CHL,1995,74.957
+Chile,CHL,1996,75.244
+Chile,CHL,1997,75.53
+Chile,CHL,1998,75.813
+Chile,CHL,1999,76.092
+Chile,CHL,2000,76.366
+Chile,CHL,2001,76.634
+Chile,CHL,2002,76.894
+Chile,CHL,2003,77.146
+Chile,CHL,2004,77.391
+Chile,CHL,2005,77.63
+Chile,CHL,2006,77.865
+Chile,CHL,2007,78.099
+Chile,CHL,2008,78.33
+Chile,CHL,2009,78.558
+Chile,CHL,2010,78.779
+Chile,CHL,2011,78.986
+Chile,CHL,2012,79.176
+Chile,CHL,2013,79.349
+Chile,CHL,2014,79.504
+Chile,CHL,2015,79.646
+Chile,CHL,2016,79.779
+Chile,CHL,2017,79.909
+Chile,CHL,2018,80.042
+Chile,CHL,2019,80.181
+Chile,CHL,2020,80.329
+Chile,CHL,2021,
+Puerto Rico,PRI,1960,68.7196097560976
+Puerto Rico,PRI,1961,68.9431707317073
+Puerto Rico,PRI,1962,69.1454390243903
+Puerto Rico,PRI,1963,69.356
+Puerto Rico,PRI,1964,69.5932926829268
+Puerto Rico,PRI,1965,69.870756097561
+Puerto Rico,PRI,1966,70.1867073170732
+Puerto Rico,PRI,1967,70.523512195122
+Puerto Rico,PRI,1968,70.8641463414634
+Puerto Rico,PRI,1969,71.2026097560976
+Puerto Rico,PRI,1970,71.5355365853659
+Puerto Rico,PRI,1971,71.8590975609756
+Puerto Rico,PRI,1972,72.1694634146342
+Puerto Rico,PRI,1973,72.4647317073171
+Puerto Rico,PRI,1974,72.7379024390244
+Puerto Rico,PRI,1975,72.9824634146342
+Puerto Rico,PRI,1976,73.1908292682927
+Puerto Rico,PRI,1977,73.3613170731707
+Puerto Rico,PRI,1978,73.4987317073171
+Puerto Rico,PRI,1979,73.6064390243902
+Puerto Rico,PRI,1980,73.700243902439
+Puerto Rico,PRI,1981,73.7974634146342
+Puerto Rico,PRI,1982,73.9085853658537
+Puerto Rico,PRI,1983,74.0366341463415
+Puerto Rico,PRI,1984,74.1776341463415
+Puerto Rico,PRI,1985,74.3091951219512
+Puerto Rico,PRI,1986,74.4003902439025
+Puerto Rico,PRI,1987,74.4309756097561
+Puerto Rico,PRI,1988,74.3940975609756
+Puerto Rico,PRI,1989,74.2989512195122
+Puerto Rico,PRI,1990,74.1691707317073
+Puerto Rico,PRI,1991,74.0388048780488
+Puerto Rico,PRI,1992,73.9463658536585
+Puerto Rico,PRI,1993,73.9208780487805
+Puerto Rico,PRI,1994,73.9769024390244
+Puerto Rico,PRI,1995,74.1245609756098
+Puerto Rico,PRI,1996,74.3614634146342
+Puerto Rico,PRI,1997,74.6640487804878
+Puerto Rico,PRI,1998,75.0072926829268
+Puerto Rico,PRI,1999,75.375487804878
+Puerto Rico,PRI,2000,76.6892682926829
+Puerto Rico,PRI,2001,77.0668292682927
+Puerto Rico,PRI,2002,77.7604878048781
+Puerto Rico,PRI,2003,78.0712195121951
+Puerto Rico,PRI,2004,78.1758536585366
+Puerto Rico,PRI,2005,78.2960975609756
+Puerto Rico,PRI,2006,78.4163414634146
+Puerto Rico,PRI,2007,78.4258536585366
+Puerto Rico,PRI,2008,77.9629268292683
+Puerto Rico,PRI,2009,78.191
+Puerto Rico,PRI,2010,78.4190975609756
+Puerto Rico,PRI,2011,78.6406585365854
+Puerto Rico,PRI,2012,78.8475853658537
+Puerto Rico,PRI,2013,79.0343414634146
+Puerto Rico,PRI,2014,79.2024634146342
+Puerto Rico,PRI,2015,79.353487804878
+Puerto Rico,PRI,2016,79.4949756097561
+Puerto Rico,PRI,2017,79.6345365853659
+Puerto Rico,PRI,2018,79.7781951219512
+Puerto Rico,PRI,2019,79.928512195122
+Puerto Rico,PRI,2020,80.0874634146342
+Puerto Rico,PRI,2021,
+Peru,PER,1960,48.012
+Peru,PER,1961,48.628
+Peru,PER,1962,49.224
+Peru,PER,1963,49.792
+Peru,PER,1964,50.334
+Peru,PER,1965,50.872
+Peru,PER,1966,51.432
+Peru,PER,1967,52.038
+Peru,PER,1968,52.702
+Peru,PER,1969,53.42
+Peru,PER,1970,54.174
+Peru,PER,1971,54.935
+Peru,PER,1972,55.671
+Peru,PER,1973,56.36
+Peru,PER,1974,56.994
+Peru,PER,1975,57.575
+Peru,PER,1976,58.114
+Peru,PER,1977,58.636
+Peru,PER,1978,59.158
+Peru,PER,1979,59.691
+Peru,PER,1980,60.24
+Peru,PER,1981,60.804
+Peru,PER,1982,61.378
+Peru,PER,1983,61.958
+Peru,PER,1984,62.542
+Peru,PER,1985,63.132
+Peru,PER,1986,63.731
+Peru,PER,1987,64.338
+Peru,PER,1988,64.949
+Peru,PER,1989,65.56
+Peru,PER,1990,66.165
+Peru,PER,1991,66.757
+Peru,PER,1992,67.33
+Peru,PER,1993,67.88
+Peru,PER,1994,68.405
+Peru,PER,1995,68.903
+Peru,PER,1996,69.378
+Peru,PER,1997,69.834
+Peru,PER,1998,70.274
+Peru,PER,1999,70.7
+Peru,PER,2000,71.111
+Peru,PER,2001,71.505
+Peru,PER,2002,71.882
+Peru,PER,2003,72.24
+Peru,PER,2004,72.581
+Peru,PER,2005,72.908
+Peru,PER,2006,73.222
+Peru,PER,2007,73.528
+Peru,PER,2008,73.826
+Peru,PER,2009,74.12
+Peru,PER,2010,74.41
+Peru,PER,2011,74.697
+Peru,PER,2012,74.981
+Peru,PER,2013,75.258
+Peru,PER,2014,75.529
+Peru,PER,2015,75.792
+Peru,PER,2016,76.044
+Peru,PER,2017,76.286
+Peru,PER,2018,76.516
+Peru,PER,2019,76.736
+Peru,PER,2020,76.947
+Peru,PER,2021,
+Panama,PAN,1960,60.864
+Panama,PAN,1961,61.38
+Panama,PAN,1962,61.88
+Panama,PAN,1963,62.36
+Panama,PAN,1964,62.824
+Panama,PAN,1965,63.275
+Panama,PAN,1966,63.718
+Panama,PAN,1967,64.16
+Panama,PAN,1968,64.607
+Panama,PAN,1969,65.063
+Panama,PAN,1970,65.532
+Panama,PAN,1971,66.018
+Panama,PAN,1972,66.515
+Panama,PAN,1973,67.02
+Panama,PAN,1974,67.527
+Panama,PAN,1975,68.027
+Panama,PAN,1976,68.513
+Panama,PAN,1977,68.976
+Panama,PAN,1978,69.412
+Panama,PAN,1979,69.818
+Panama,PAN,1980,70.192
+Panama,PAN,1981,70.537
+Panama,PAN,1982,70.858
+Panama,PAN,1983,71.163
+Panama,PAN,1984,71.453
+Panama,PAN,1985,71.732
+Panama,PAN,1986,72
+Panama,PAN,1987,72.257
+Panama,PAN,1988,72.506
+Panama,PAN,1989,72.747
+Panama,PAN,1990,72.982
+Panama,PAN,1991,73.212
+Panama,PAN,1992,73.439
+Panama,PAN,1993,73.661
+Panama,PAN,1994,73.879
+Panama,PAN,1995,74.092
+Panama,PAN,1996,74.3
+Panama,PAN,1997,74.5
+Panama,PAN,1998,74.694
+Panama,PAN,1999,74.881
+Panama,PAN,2000,75.06
+Panama,PAN,2001,75.233
+Panama,PAN,2002,75.401
+Panama,PAN,2003,75.565
+Panama,PAN,2004,75.728
+Panama,PAN,2005,75.892
+Panama,PAN,2006,76.06
+Panama,PAN,2007,76.234
+Panama,PAN,2008,76.414
+Panama,PAN,2009,76.6
+Panama,PAN,2010,76.792
+Panama,PAN,2011,76.989
+Panama,PAN,2012,77.188
+Panama,PAN,2013,77.386
+Panama,PAN,2014,77.583
+Panama,PAN,2015,77.776
+Panama,PAN,2016,77.964
+Panama,PAN,2017,78.149
+Panama,PAN,2018,78.329
+Panama,PAN,2019,78.506
+Panama,PAN,2020,78.68
+Panama,PAN,2021,
+Bolivia,BOL,1960,41.82
+Bolivia,BOL,1961,42.15
+Bolivia,BOL,1962,42.49
+Bolivia,BOL,1963,42.84
+Bolivia,BOL,1964,43.199
+Bolivia,BOL,1965,43.568
+Bolivia,BOL,1966,43.947
+Bolivia,BOL,1967,44.337
+Bolivia,BOL,1968,44.737
+Bolivia,BOL,1969,45.147
+Bolivia,BOL,1970,45.568
+Bolivia,BOL,1971,45.999
+Bolivia,BOL,1972,46.441
+Bolivia,BOL,1973,46.893
+Bolivia,BOL,1974,47.355
+Bolivia,BOL,1975,47.828
+Bolivia,BOL,1976,48.312
+Bolivia,BOL,1977,48.806
+Bolivia,BOL,1978,49.31
+Bolivia,BOL,1979,49.824
+Bolivia,BOL,1980,50.349
+Bolivia,BOL,1981,50.883
+Bolivia,BOL,1982,51.427
+Bolivia,BOL,1983,51.98
+Bolivia,BOL,1984,52.543
+Bolivia,BOL,1985,53.115
+Bolivia,BOL,1986,53.695
+Bolivia,BOL,1987,54.284
+Bolivia,BOL,1988,54.881
+Bolivia,BOL,1989,55.486
+Bolivia,BOL,1990,56.099
+Bolivia,BOL,1991,56.721
+Bolivia,BOL,1992,57.351
+Bolivia,BOL,1993,57.989
+Bolivia,BOL,1994,58.631
+Bolivia,BOL,1995,59.276
+Bolivia,BOL,1996,59.922
+Bolivia,BOL,1997,60.566
+Bolivia,BOL,1998,61.204
+Bolivia,BOL,1999,61.835
+Bolivia,BOL,2000,62.452
+Bolivia,BOL,2001,63.054
+Bolivia,BOL,2002,63.64
+Bolivia,BOL,2003,64.21
+Bolivia,BOL,2004,64.766
+Bolivia,BOL,2005,65.312
+Bolivia,BOL,2006,65.853
+Bolivia,BOL,2007,66.395
+Bolivia,BOL,2008,66.937
+Bolivia,BOL,2009,67.476
+Bolivia,BOL,2010,68.007
+Bolivia,BOL,2011,68.521
+Bolivia,BOL,2012,69.01
+Bolivia,BOL,2013,69.468
+Bolivia,BOL,2014,69.891
+Bolivia,BOL,2015,70.277
+Bolivia,BOL,2016,70.626
+Bolivia,BOL,2017,70.945
+Bolivia,BOL,2018,71.239
+Bolivia,BOL,2019,71.513
+Bolivia,BOL,2020,71.771
+Bolivia,BOL,2021,
+Haiti,HTI,1960,41.762
+Haiti,HTI,1961,42.182
+Haiti,HTI,1962,42.591
+Haiti,HTI,1963,43
+Haiti,HTI,1964,43.414
+Haiti,HTI,1965,43.837
+Haiti,HTI,1966,44.267
+Haiti,HTI,1967,44.7
+Haiti,HTI,1968,45.134
+Haiti,HTI,1969,45.573
+Haiti,HTI,1970,46.027
+Haiti,HTI,1971,46.508
+Haiti,HTI,1972,47.019
+Haiti,HTI,1973,47.559
+Haiti,HTI,1974,48.119
+Haiti,HTI,1975,48.683
+Haiti,HTI,1976,49.232
+Haiti,HTI,1977,49.746
+Haiti,HTI,1978,50.215
+Haiti,HTI,1979,50.635
+Haiti,HTI,1980,51.009
+Haiti,HTI,1981,51.347
+Haiti,HTI,1982,51.668
+Haiti,HTI,1983,51.987
+Haiti,HTI,1984,52.309
+Haiti,HTI,1985,52.637
+Haiti,HTI,1986,52.97
+Haiti,HTI,1987,53.302
+Haiti,HTI,1988,53.628
+Haiti,HTI,1989,53.949
+Haiti,HTI,1990,54.265
+Haiti,HTI,1991,54.58
+Haiti,HTI,1992,54.894
+Haiti,HTI,1993,55.209
+Haiti,HTI,1994,55.523
+Haiti,HTI,1995,55.829
+Haiti,HTI,1996,56.121
+Haiti,HTI,1997,56.393
+Haiti,HTI,1998,56.648
+Haiti,HTI,1999,56.891
+Haiti,HTI,2000,57.131
+Haiti,HTI,2001,57.382
+Haiti,HTI,2002,57.655
+Haiti,HTI,2003,57.959
+Haiti,HTI,2004,58.292
+Haiti,HTI,2005,58.652
+Haiti,HTI,2006,59.028
+Haiti,HTI,2007,59.408
+Haiti,HTI,2008,59.782
+Haiti,HTI,2009,60.148
+Haiti,HTI,2010,60.511
+Haiti,HTI,2011,60.879
+Haiti,HTI,2012,61.26
+Haiti,HTI,2013,61.658
+Haiti,HTI,2014,62.069
+Haiti,HTI,2015,62.485
+Haiti,HTI,2016,62.896
+Haiti,HTI,2017,63.29
+Haiti,HTI,2018,63.66
+Haiti,HTI,2019,64.001
+Haiti,HTI,2020,64.315
+Haiti,HTI,2021,
+St. Lucia,LCA,1960,56.739
+St. Lucia,LCA,1961,57.589
+St. Lucia,LCA,1962,58.428
+St. Lucia,LCA,1963,59.246
+St. Lucia,LCA,1964,60.035
+St. Lucia,LCA,1965,60.781
+St. Lucia,LCA,1966,61.471
+St. Lucia,LCA,1967,62.099
+St. Lucia,LCA,1968,62.67
+St. Lucia,LCA,1969,63.188
+St. Lucia,LCA,1970,63.667
+St. Lucia,LCA,1971,64.124
+St. Lucia,LCA,1972,64.578
+St. Lucia,LCA,1973,65.04
+St. Lucia,LCA,1974,65.515
+St. Lucia,LCA,1975,65.997
+St. Lucia,LCA,1976,66.478
+St. Lucia,LCA,1977,66.94
+St. Lucia,LCA,1978,67.374
+St. Lucia,LCA,1979,67.775
+St. Lucia,LCA,1980,68.144
+St. Lucia,LCA,1981,68.484
+St. Lucia,LCA,1982,68.803
+St. Lucia,LCA,1983,69.11
+St. Lucia,LCA,1984,69.407
+St. Lucia,LCA,1985,69.698
+St. Lucia,LCA,1986,69.985
+St. Lucia,LCA,1987,70.266
+St. Lucia,LCA,1988,70.54
+St. Lucia,LCA,1989,70.81
+St. Lucia,LCA,1990,71.074
+St. Lucia,LCA,1991,71.335
+St. Lucia,LCA,1992,71.592
+St. Lucia,LCA,1993,71.843
+St. Lucia,LCA,1994,72.087
+St. Lucia,LCA,1995,72.323
+St. Lucia,LCA,1996,72.547
+St. Lucia,LCA,1997,72.759
+St. Lucia,LCA,1998,72.958
+St. Lucia,LCA,1999,73.144
+St. Lucia,LCA,2000,73.319
+St. Lucia,LCA,2001,73.486
+St. Lucia,LCA,2002,73.648
+St. Lucia,LCA,2003,73.808
+St. Lucia,LCA,2004,73.966
+St. Lucia,LCA,2005,74.122
+St. Lucia,LCA,2006,74.276
+St. Lucia,LCA,2007,74.426
+St. Lucia,LCA,2008,74.571
+St. Lucia,LCA,2009,74.712
+St. Lucia,LCA,2010,74.852
+St. Lucia,LCA,2011,74.993
+St. Lucia,LCA,2012,75.138
+St. Lucia,LCA,2013,75.286
+St. Lucia,LCA,2014,75.44
+St. Lucia,LCA,2015,75.596
+St. Lucia,LCA,2016,75.752
+St. Lucia,LCA,2017,75.907
+St. Lucia,LCA,2018,76.057
+St. Lucia,LCA,2019,76.203
+St. Lucia,LCA,2020,76.343
+St. Lucia,LCA,2021,
+Grenada,GRD,1960,62.231
+Grenada,GRD,1961,62.657
+Grenada,GRD,1962,63.064
+Grenada,GRD,1963,63.451
+Grenada,GRD,1964,63.817
+Grenada,GRD,1965,64.161
+Grenada,GRD,1966,64.484
+Grenada,GRD,1967,64.789
+Grenada,GRD,1968,65.077
+Grenada,GRD,1969,65.352
+Grenada,GRD,1970,65.619
+Grenada,GRD,1971,65.88
+Grenada,GRD,1972,66.139
+Grenada,GRD,1973,66.395
+Grenada,GRD,1974,66.649
+Grenada,GRD,1975,66.895
+Grenada,GRD,1976,67.13
+Grenada,GRD,1977,67.347
+Grenada,GRD,1978,67.545
+Grenada,GRD,1979,67.723
+Grenada,GRD,1980,67.879
+Grenada,GRD,1981,68.012
+Grenada,GRD,1982,68.128
+Grenada,GRD,1983,68.234
+Grenada,GRD,1984,68.341
+Grenada,GRD,1985,68.462
+Grenada,GRD,1986,68.612
+Grenada,GRD,1987,68.798
+Grenada,GRD,1988,69.024
+Grenada,GRD,1989,69.292
+Grenada,GRD,1990,69.598
+Grenada,GRD,1991,69.937
+Grenada,GRD,1992,70.295
+Grenada,GRD,1993,70.659
+Grenada,GRD,1994,71.015
+Grenada,GRD,1995,71.356
+Grenada,GRD,1996,71.673
+Grenada,GRD,1997,71.964
+Grenada,GRD,1998,72.226
+Grenada,GRD,1999,72.455
+Grenada,GRD,2000,72.648
+Grenada,GRD,2001,72.805
+Grenada,GRD,2002,72.929
+Grenada,GRD,2003,73.023
+Grenada,GRD,2004,73.088
+Grenada,GRD,2005,73.123
+Grenada,GRD,2006,73.125
+Grenada,GRD,2007,73.096
+Grenada,GRD,2008,73.038
+Grenada,GRD,2009,72.96
+Grenada,GRD,2010,72.867
+Grenada,GRD,2011,72.768
+Grenada,GRD,2012,72.669
+Grenada,GRD,2013,72.579
+Grenada,GRD,2014,72.503
+Grenada,GRD,2015,72.445
+Grenada,GRD,2016,72.408
+Grenada,GRD,2017,72.388
+Grenada,GRD,2018,72.384
+Grenada,GRD,2019,72.397
+Grenada,GRD,2020,72.426
+Grenada,GRD,2021,
+Nicaragua,NIC,1960,46.998
+Nicaragua,NIC,1961,47.636
+Nicaragua,NIC,1962,48.277
+Nicaragua,NIC,1963,48.92
+Nicaragua,NIC,1964,49.566
+Nicaragua,NIC,1965,50.216
+Nicaragua,NIC,1966,50.874
+Nicaragua,NIC,1967,51.538
+Nicaragua,NIC,1968,52.205
+Nicaragua,NIC,1969,52.868
+Nicaragua,NIC,1970,53.519
+Nicaragua,NIC,1971,54.147
+Nicaragua,NIC,1972,54.744
+Nicaragua,NIC,1973,55.307
+Nicaragua,NIC,1974,55.833
+Nicaragua,NIC,1975,56.319
+Nicaragua,NIC,1976,56.764
+Nicaragua,NIC,1977,57.177
+Nicaragua,NIC,1978,57.57
+Nicaragua,NIC,1979,57.955
+Nicaragua,NIC,1980,58.347
+Nicaragua,NIC,1981,58.757
+Nicaragua,NIC,1982,59.196
+Nicaragua,NIC,1983,59.671
+Nicaragua,NIC,1984,60.189
+Nicaragua,NIC,1985,60.761
+Nicaragua,NIC,1986,61.394
+Nicaragua,NIC,1987,62.079
+Nicaragua,NIC,1988,62.803
+Nicaragua,NIC,1989,63.549
+Nicaragua,NIC,1990,64.293
+Nicaragua,NIC,1991,65.011
+Nicaragua,NIC,1992,65.683
+Nicaragua,NIC,1993,66.297
+Nicaragua,NIC,1994,66.849
+Nicaragua,NIC,1995,67.344
+Nicaragua,NIC,1996,67.798
+Nicaragua,NIC,1997,68.234
+Nicaragua,NIC,1998,68.667
+Nicaragua,NIC,1999,69.1
+Nicaragua,NIC,2000,69.527
+Nicaragua,NIC,2001,69.934
+Nicaragua,NIC,2002,70.308
+Nicaragua,NIC,2003,70.64
+Nicaragua,NIC,2004,70.933
+Nicaragua,NIC,2005,71.195
+Nicaragua,NIC,2006,71.436
+Nicaragua,NIC,2007,71.673
+Nicaragua,NIC,2008,71.915
+Nicaragua,NIC,2009,72.167
+Nicaragua,NIC,2010,72.428
+Nicaragua,NIC,2011,72.692
+Nicaragua,NIC,2012,72.951
+Nicaragua,NIC,2013,73.197
+Nicaragua,NIC,2014,73.429
+Nicaragua,NIC,2015,73.649
+Nicaragua,NIC,2016,73.86
+Nicaragua,NIC,2017,74.068
+Nicaragua,NIC,2018,74.275
+Nicaragua,NIC,2019,74.485
+Nicaragua,NIC,2020,74.697
+Nicaragua,NIC,2021,
+Aruba,ABW,1960,65.662
+Aruba,ABW,1961,66.074
+Aruba,ABW,1962,66.444
+Aruba,ABW,1963,66.787
+Aruba,ABW,1964,67.113
+Aruba,ABW,1965,67.435
+Aruba,ABW,1966,67.762
+Aruba,ABW,1967,68.095
+Aruba,ABW,1968,68.436
+Aruba,ABW,1969,68.784
+Aruba,ABW,1970,69.14
+Aruba,ABW,1971,69.498
+Aruba,ABW,1972,69.851
+Aruba,ABW,1973,70.191
+Aruba,ABW,1974,70.519
+Aruba,ABW,1975,70.833
+Aruba,ABW,1976,71.14
+Aruba,ABW,1977,71.441
+Aruba,ABW,1978,71.736
+Aruba,ABW,1979,72.023
+Aruba,ABW,1980,72.293
+Aruba,ABW,1981,72.538
+Aruba,ABW,1982,72.751
+Aruba,ABW,1983,72.929
+Aruba,ABW,1984,73.071
+Aruba,ABW,1985,73.181
+Aruba,ABW,1986,73.262
+Aruba,ABW,1987,73.325
+Aruba,ABW,1988,73.378
+Aruba,ABW,1989,73.425
+Aruba,ABW,1990,73.468
+Aruba,ABW,1991,73.509
+Aruba,ABW,1992,73.544
+Aruba,ABW,1993,73.573
+Aruba,ABW,1994,73.598
+Aruba,ABW,1995,73.622
+Aruba,ABW,1996,73.646
+Aruba,ABW,1997,73.671
+Aruba,ABW,1998,73.7
+Aruba,ABW,1999,73.738
+Aruba,ABW,2000,73.787
+Aruba,ABW,2001,73.853
+Aruba,ABW,2002,73.937
+Aruba,ABW,2003,74.038
+Aruba,ABW,2004,74.156
+Aruba,ABW,2005,74.287
+Aruba,ABW,2006,74.429
+Aruba,ABW,2007,74.576
+Aruba,ABW,2008,74.725
+Aruba,ABW,2009,74.872
+Aruba,ABW,2010,75.017
+Aruba,ABW,2011,75.158
+Aruba,ABW,2012,75.299
+Aruba,ABW,2013,75.441
+Aruba,ABW,2014,75.583
+Aruba,ABW,2015,75.725
+Aruba,ABW,2016,75.868
+Aruba,ABW,2017,76.01
+Aruba,ABW,2018,76.152
+Aruba,ABW,2019,76.293
+Aruba,ABW,2020,76.434
+Aruba,ABW,2021,

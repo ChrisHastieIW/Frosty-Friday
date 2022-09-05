@@ -1,0 +1,2171 @@
+country_name,country_code,year,gov_expenditure_pct_gdp
+Cambodia,KHM,1960,18.8340791188241
+Cambodia,KHM,1961,19.1111100325926
+Cambodia,KHM,1962,20.3463187833811
+Cambodia,KHM,1963,19.6078409457901
+Cambodia,KHM,1964,19.3430649515158
+Cambodia,KHM,1965,16.1184200657895
+Cambodia,KHM,1966,16.5624990625
+Cambodia,KHM,1967,17.5074194436862
+Cambodia,KHM,1968,16.3538871651489
+Cambodia,KHM,1969,16.0671471179891
+Cambodia,KHM,1970,22.5563895547139
+Cambodia,KHM,1971,
+Cambodia,KHM,1972,
+Cambodia,KHM,1973,
+Cambodia,KHM,1974,
+Cambodia,KHM,1975,
+Cambodia,KHM,1976,
+Cambodia,KHM,1977,
+Cambodia,KHM,1978,
+Cambodia,KHM,1979,
+Cambodia,KHM,1980,
+Cambodia,KHM,1981,
+Cambodia,KHM,1982,
+Cambodia,KHM,1983,
+Cambodia,KHM,1984,
+Cambodia,KHM,1985,
+Cambodia,KHM,1986,
+Cambodia,KHM,1987,
+Cambodia,KHM,1988,
+Cambodia,KHM,1989,
+Cambodia,KHM,1990,
+Cambodia,KHM,1991,
+Cambodia,KHM,1992,
+Cambodia,KHM,1993,4.49110978903734
+Cambodia,KHM,1994,6.93368350124191
+Cambodia,KHM,1995,5.84133412660283
+Cambodia,KHM,1996,5.74984314325622
+Cambodia,KHM,1997,5.45069565751859
+Cambodia,KHM,1998,4.80449413558544
+Cambodia,KHM,1999,4.94315478866701
+Cambodia,KHM,2000,5.23279791562553
+Cambodia,KHM,2001,5.29592178958148
+Cambodia,KHM,2002,5.4420478936497
+Cambodia,KHM,2003,5.26038881738421
+Cambodia,KHM,2004,4.48365411973235
+Cambodia,KHM,2005,4.07010374510196
+Cambodia,KHM,2006,3.46033550684348
+Cambodia,KHM,2007,5.7308625616106
+Cambodia,KHM,2008,5.63453219199603
+Cambodia,KHM,2009,6.16250546417991
+Cambodia,KHM,2010,6.34468216449297
+Cambodia,KHM,2011,6.01941818648341
+Cambodia,KHM,2012,5.78209654755979
+Cambodia,KHM,2013,5.61273835215988
+Cambodia,KHM,2014,5.49393906172929
+Cambodia,KHM,2015,5.39797983695551
+Cambodia,KHM,2016,5.20998045739191
+Cambodia,KHM,2017,5.12349832106344
+Cambodia,KHM,2018,4.9262731711361
+Cambodia,KHM,2019,4.8067982358684
+Cambodia,KHM,2020,5.38531563310305
+Cambodia,KHM,2021,7.64695109890708
+Samoa,WSM,1960,
+Samoa,WSM,1961,
+Samoa,WSM,1962,
+Samoa,WSM,1963,
+Samoa,WSM,1964,
+Samoa,WSM,1965,
+Samoa,WSM,1966,
+Samoa,WSM,1967,
+Samoa,WSM,1968,
+Samoa,WSM,1969,
+Samoa,WSM,1970,
+Samoa,WSM,1971,
+Samoa,WSM,1972,
+Samoa,WSM,1973,
+Samoa,WSM,1974,
+Samoa,WSM,1975,
+Samoa,WSM,1976,
+Samoa,WSM,1977,
+Samoa,WSM,1978,
+Samoa,WSM,1979,
+Samoa,WSM,1980,
+Samoa,WSM,1981,
+Samoa,WSM,1982,
+Samoa,WSM,1983,
+Samoa,WSM,1984,
+Samoa,WSM,1985,
+Samoa,WSM,1986,
+Samoa,WSM,1987,
+Samoa,WSM,1988,
+Samoa,WSM,1989,
+Samoa,WSM,1990,
+Samoa,WSM,1991,
+Samoa,WSM,1992,
+Samoa,WSM,1993,
+Samoa,WSM,1994,
+Samoa,WSM,1995,
+Samoa,WSM,1996,
+Samoa,WSM,1997,
+Samoa,WSM,1998,
+Samoa,WSM,1999,
+Samoa,WSM,2000,
+Samoa,WSM,2001,
+Samoa,WSM,2002,
+Samoa,WSM,2003,
+Samoa,WSM,2004,
+Samoa,WSM,2005,
+Samoa,WSM,2006,
+Samoa,WSM,2007,
+Samoa,WSM,2008,
+Samoa,WSM,2009,
+Samoa,WSM,2010,
+Samoa,WSM,2011,
+Samoa,WSM,2012,
+Samoa,WSM,2013,
+Samoa,WSM,2014,
+Samoa,WSM,2015,
+Samoa,WSM,2016,
+Samoa,WSM,2017,
+Samoa,WSM,2018,
+Samoa,WSM,2019,
+Samoa,WSM,2020,
+Samoa,WSM,2021,
+"Micronesia, Fed. Sts.",FSM,1960,
+"Micronesia, Fed. Sts.",FSM,1961,
+"Micronesia, Fed. Sts.",FSM,1962,
+"Micronesia, Fed. Sts.",FSM,1963,
+"Micronesia, Fed. Sts.",FSM,1964,
+"Micronesia, Fed. Sts.",FSM,1965,
+"Micronesia, Fed. Sts.",FSM,1966,
+"Micronesia, Fed. Sts.",FSM,1967,
+"Micronesia, Fed. Sts.",FSM,1968,
+"Micronesia, Fed. Sts.",FSM,1969,
+"Micronesia, Fed. Sts.",FSM,1970,
+"Micronesia, Fed. Sts.",FSM,1971,
+"Micronesia, Fed. Sts.",FSM,1972,
+"Micronesia, Fed. Sts.",FSM,1973,
+"Micronesia, Fed. Sts.",FSM,1974,
+"Micronesia, Fed. Sts.",FSM,1975,
+"Micronesia, Fed. Sts.",FSM,1976,
+"Micronesia, Fed. Sts.",FSM,1977,
+"Micronesia, Fed. Sts.",FSM,1978,
+"Micronesia, Fed. Sts.",FSM,1979,
+"Micronesia, Fed. Sts.",FSM,1980,
+"Micronesia, Fed. Sts.",FSM,1981,
+"Micronesia, Fed. Sts.",FSM,1982,
+"Micronesia, Fed. Sts.",FSM,1983,58.3098591549296
+"Micronesia, Fed. Sts.",FSM,1984,
+"Micronesia, Fed. Sts.",FSM,1985,
+"Micronesia, Fed. Sts.",FSM,1986,
+"Micronesia, Fed. Sts.",FSM,1987,
+"Micronesia, Fed. Sts.",FSM,1988,
+"Micronesia, Fed. Sts.",FSM,1989,
+"Micronesia, Fed. Sts.",FSM,1990,
+"Micronesia, Fed. Sts.",FSM,1991,
+"Micronesia, Fed. Sts.",FSM,1992,
+"Micronesia, Fed. Sts.",FSM,1993,
+"Micronesia, Fed. Sts.",FSM,1994,
+"Micronesia, Fed. Sts.",FSM,1995,
+"Micronesia, Fed. Sts.",FSM,1996,
+"Micronesia, Fed. Sts.",FSM,1997,
+"Micronesia, Fed. Sts.",FSM,1998,
+"Micronesia, Fed. Sts.",FSM,1999,
+"Micronesia, Fed. Sts.",FSM,2000,
+"Micronesia, Fed. Sts.",FSM,2001,
+"Micronesia, Fed. Sts.",FSM,2002,
+"Micronesia, Fed. Sts.",FSM,2003,
+"Micronesia, Fed. Sts.",FSM,2004,
+"Micronesia, Fed. Sts.",FSM,2005,
+"Micronesia, Fed. Sts.",FSM,2006,
+"Micronesia, Fed. Sts.",FSM,2007,
+"Micronesia, Fed. Sts.",FSM,2008,
+"Micronesia, Fed. Sts.",FSM,2009,
+"Micronesia, Fed. Sts.",FSM,2010,
+"Micronesia, Fed. Sts.",FSM,2011,
+"Micronesia, Fed. Sts.",FSM,2012,
+"Micronesia, Fed. Sts.",FSM,2013,
+"Micronesia, Fed. Sts.",FSM,2014,
+"Micronesia, Fed. Sts.",FSM,2015,
+"Micronesia, Fed. Sts.",FSM,2016,
+"Micronesia, Fed. Sts.",FSM,2017,
+"Micronesia, Fed. Sts.",FSM,2018,
+"Micronesia, Fed. Sts.",FSM,2019,
+"Micronesia, Fed. Sts.",FSM,2020,
+"Micronesia, Fed. Sts.",FSM,2021,
+Solomon Islands,SLB,1960,
+Solomon Islands,SLB,1961,
+Solomon Islands,SLB,1962,
+Solomon Islands,SLB,1963,
+Solomon Islands,SLB,1964,
+Solomon Islands,SLB,1965,
+Solomon Islands,SLB,1966,
+Solomon Islands,SLB,1967,
+Solomon Islands,SLB,1968,
+Solomon Islands,SLB,1969,
+Solomon Islands,SLB,1970,
+Solomon Islands,SLB,1971,
+Solomon Islands,SLB,1972,
+Solomon Islands,SLB,1973,
+Solomon Islands,SLB,1974,
+Solomon Islands,SLB,1975,
+Solomon Islands,SLB,1976,
+Solomon Islands,SLB,1977,
+Solomon Islands,SLB,1978,
+Solomon Islands,SLB,1979,
+Solomon Islands,SLB,1980,
+Solomon Islands,SLB,1981,
+Solomon Islands,SLB,1982,
+Solomon Islands,SLB,1983,
+Solomon Islands,SLB,1984,
+Solomon Islands,SLB,1985,
+Solomon Islands,SLB,1986,
+Solomon Islands,SLB,1987,
+Solomon Islands,SLB,1988,
+Solomon Islands,SLB,1989,
+Solomon Islands,SLB,1990,
+Solomon Islands,SLB,1991,
+Solomon Islands,SLB,1992,
+Solomon Islands,SLB,1993,
+Solomon Islands,SLB,1994,
+Solomon Islands,SLB,1995,
+Solomon Islands,SLB,1996,
+Solomon Islands,SLB,1997,
+Solomon Islands,SLB,1998,
+Solomon Islands,SLB,1999,
+Solomon Islands,SLB,2000,
+Solomon Islands,SLB,2001,
+Solomon Islands,SLB,2002,
+Solomon Islands,SLB,2003,
+Solomon Islands,SLB,2004,
+Solomon Islands,SLB,2005,
+Solomon Islands,SLB,2006,
+Solomon Islands,SLB,2007,
+Solomon Islands,SLB,2008,
+Solomon Islands,SLB,2009,
+Solomon Islands,SLB,2010,
+Solomon Islands,SLB,2011,
+Solomon Islands,SLB,2012,
+Solomon Islands,SLB,2013,
+Solomon Islands,SLB,2014,
+Solomon Islands,SLB,2015,
+Solomon Islands,SLB,2016,
+Solomon Islands,SLB,2017,
+Solomon Islands,SLB,2018,
+Solomon Islands,SLB,2019,
+Solomon Islands,SLB,2020,
+Solomon Islands,SLB,2021,
+"Macao SAR, China",MAC,1960,
+"Macao SAR, China",MAC,1961,
+"Macao SAR, China",MAC,1962,
+"Macao SAR, China",MAC,1963,
+"Macao SAR, China",MAC,1964,
+"Macao SAR, China",MAC,1965,
+"Macao SAR, China",MAC,1966,
+"Macao SAR, China",MAC,1967,
+"Macao SAR, China",MAC,1968,
+"Macao SAR, China",MAC,1969,
+"Macao SAR, China",MAC,1970,
+"Macao SAR, China",MAC,1971,
+"Macao SAR, China",MAC,1972,
+"Macao SAR, China",MAC,1973,
+"Macao SAR, China",MAC,1974,
+"Macao SAR, China",MAC,1975,
+"Macao SAR, China",MAC,1976,
+"Macao SAR, China",MAC,1977,
+"Macao SAR, China",MAC,1978,
+"Macao SAR, China",MAC,1979,
+"Macao SAR, China",MAC,1980,
+"Macao SAR, China",MAC,1981,
+"Macao SAR, China",MAC,1982,5.80627020947561
+"Macao SAR, China",MAC,1983,5.6639470261322
+"Macao SAR, China",MAC,1984,6.17307508825494
+"Macao SAR, China",MAC,1985,7.21431849472235
+"Macao SAR, China",MAC,1986,7.49368738291114
+"Macao SAR, China",MAC,1987,7.48676742554684
+"Macao SAR, China",MAC,1988,8.1725805575178
+"Macao SAR, China",MAC,1989,9.38031927128859
+"Macao SAR, China",MAC,1990,10.1804915514593
+"Macao SAR, China",MAC,1991,10.8102727453713
+"Macao SAR, China",MAC,1992,8.90017611475535
+"Macao SAR, China",MAC,1993,8.90542965375158
+"Macao SAR, China",MAC,1994,9.27168136308446
+"Macao SAR, China",MAC,1995,9.55790673648962
+"Macao SAR, China",MAC,1996,10.4523034945954
+"Macao SAR, China",MAC,1997,11.355911733752
+"Macao SAR, China",MAC,1998,12.7659574468085
+"Macao SAR, China",MAC,1999,14.808515517505
+"Macao SAR, China",MAC,2000,12.4519487207784
+"Macao SAR, China",MAC,2001,12.4129046305705
+"Macao SAR, China",MAC,2002,12.1664978047957
+"Macao SAR, China",MAC,2003,11.7057462923489
+"Macao SAR, China",MAC,2004,9.61912346864679
+"Macao SAR, China",MAC,2005,9.77980803777652
+"Macao SAR, China",MAC,2006,8.71662157393248
+"Macao SAR, China",MAC,2007,8.7345881050877
+"Macao SAR, China",MAC,2008,8.7204027538114
+"Macao SAR, China",MAC,2009,9.63779929567251
+"Macao SAR, China",MAC,2010,8.1478957685279
+"Macao SAR, China",MAC,2011,7.09116633608405
+"Macao SAR, China",MAC,2012,6.8653645531471
+"Macao SAR, China",MAC,2013,6.50072011638441
+"Macao SAR, China",MAC,2014,7.09803063058132
+"Macao SAR, China",MAC,2015,9.66895370689559
+"Macao SAR, China",MAC,2016,10.3989521124259
+"Macao SAR, China",MAC,2017,9.71941932471921
+"Macao SAR, China",MAC,2018,9.42182426845746
+"Macao SAR, China",MAC,2019,10.1829281978767
+"Macao SAR, China",MAC,2020,25.5814294799667
+"Macao SAR, China",MAC,2021,22.0650276100014
+French Polynesia,PYF,1960,
+French Polynesia,PYF,1961,
+French Polynesia,PYF,1962,
+French Polynesia,PYF,1963,
+French Polynesia,PYF,1964,
+French Polynesia,PYF,1965,
+French Polynesia,PYF,1966,
+French Polynesia,PYF,1967,
+French Polynesia,PYF,1968,
+French Polynesia,PYF,1969,
+French Polynesia,PYF,1970,
+French Polynesia,PYF,1971,
+French Polynesia,PYF,1972,
+French Polynesia,PYF,1973,
+French Polynesia,PYF,1974,
+French Polynesia,PYF,1975,
+French Polynesia,PYF,1976,
+French Polynesia,PYF,1977,
+French Polynesia,PYF,1978,
+French Polynesia,PYF,1979,
+French Polynesia,PYF,1980,
+French Polynesia,PYF,1981,
+French Polynesia,PYF,1982,
+French Polynesia,PYF,1983,
+French Polynesia,PYF,1984,
+French Polynesia,PYF,1985,
+French Polynesia,PYF,1986,
+French Polynesia,PYF,1987,
+French Polynesia,PYF,1988,
+French Polynesia,PYF,1989,
+French Polynesia,PYF,1990,
+French Polynesia,PYF,1991,19.1264969431724
+French Polynesia,PYF,1992,18.1099927852381
+French Polynesia,PYF,1993,18.441828722642
+French Polynesia,PYF,1994,19.1346042292439
+French Polynesia,PYF,1995,19.9617061305525
+French Polynesia,PYF,1996,20.3341810491533
+French Polynesia,PYF,1997,20.3648077338409
+French Polynesia,PYF,1998,22.0103932194414
+French Polynesia,PYF,1999,22.4237644764458
+French Polynesia,PYF,2000,20.2803358390737
+French Polynesia,PYF,2001,
+French Polynesia,PYF,2002,
+French Polynesia,PYF,2003,
+French Polynesia,PYF,2004,
+French Polynesia,PYF,2005,
+French Polynesia,PYF,2006,
+French Polynesia,PYF,2007,
+French Polynesia,PYF,2008,
+French Polynesia,PYF,2009,
+French Polynesia,PYF,2010,
+French Polynesia,PYF,2011,
+French Polynesia,PYF,2012,
+French Polynesia,PYF,2013,
+French Polynesia,PYF,2014,
+French Polynesia,PYF,2015,
+French Polynesia,PYF,2016,
+French Polynesia,PYF,2017,31.2555278767273
+French Polynesia,PYF,2018,
+French Polynesia,PYF,2019,31.3557945758223
+French Polynesia,PYF,2020,
+French Polynesia,PYF,2021,
+Brunei Darussalam,BRN,1960,
+Brunei Darussalam,BRN,1961,
+Brunei Darussalam,BRN,1962,
+Brunei Darussalam,BRN,1963,
+Brunei Darussalam,BRN,1964,
+Brunei Darussalam,BRN,1965,
+Brunei Darussalam,BRN,1966,
+Brunei Darussalam,BRN,1967,
+Brunei Darussalam,BRN,1968,
+Brunei Darussalam,BRN,1969,
+Brunei Darussalam,BRN,1970,
+Brunei Darussalam,BRN,1971,
+Brunei Darussalam,BRN,1972,
+Brunei Darussalam,BRN,1973,
+Brunei Darussalam,BRN,1974,17.2769665927681
+Brunei Darussalam,BRN,1975,17.2899220329194
+Brunei Darussalam,BRN,1976,9.27163618782173
+Brunei Darussalam,BRN,1977,7.49976341440333
+Brunei Darussalam,BRN,1978,4.25801775684001
+Brunei Darussalam,BRN,1979,3.85429138442866
+Brunei Darussalam,BRN,1980,8.30048514251061
+Brunei Darussalam,BRN,1981,4.3796411729633
+Brunei Darussalam,BRN,1982,5.52298504191551
+Brunei Darussalam,BRN,1983,9.45358756262386
+Brunei Darussalam,BRN,1984,
+Brunei Darussalam,BRN,1985,
+Brunei Darussalam,BRN,1986,
+Brunei Darussalam,BRN,1987,
+Brunei Darussalam,BRN,1988,
+Brunei Darussalam,BRN,1989,24.3020327388054
+Brunei Darussalam,BRN,1990,22.0184923993105
+Brunei Darussalam,BRN,1991,22.5801407349492
+Brunei Darussalam,BRN,1992,23.3308877476156
+Brunei Darussalam,BRN,1993,25.8365993367501
+Brunei Darussalam,BRN,1994,27.0222649367291
+Brunei Darussalam,BRN,1995,26.7511177347243
+Brunei Darussalam,BRN,1996,25.2183557465687
+Brunei Darussalam,BRN,1997,25.1652196449397
+Brunei Darussalam,BRN,1998,29.8672566371681
+Brunei Darussalam,BRN,1999,28.6135693215339
+Brunei Darussalam,BRN,2000,25.8143719339021
+Brunei Darussalam,BRN,2001,29.3985595498529
+Brunei Darussalam,BRN,2002,27.1697936773804
+Brunei Darussalam,BRN,2003,24.0677854177388
+Brunei Darussalam,BRN,2004,22.0528860999868
+Brunei Darussalam,BRN,2005,18.408700104511
+Brunei Darussalam,BRN,2006,18.0617586059322
+Brunei Darussalam,BRN,2007,22.6204729528401
+Brunei Darussalam,BRN,2008,17.140980198942
+Brunei Darussalam,BRN,2009,23.2876185839744
+Brunei Darussalam,BRN,2010,22.1508828250401
+Brunei Darussalam,BRN,2011,18.7272025061151
+Brunei Darussalam,BRN,2012,18.4393897092207
+Brunei Darussalam,BRN,2013,20.1643182119352
+Brunei Darussalam,BRN,2014,21.4184161450544
+Brunei Darussalam,BRN,2015,25.0616762290471
+Brunei Darussalam,BRN,2016,26.2227178054356
+Brunei Darussalam,BRN,2017,26.4772123933436
+Brunei Darussalam,BRN,2018,24.1412808043276
+Brunei Darussalam,BRN,2019,25.0403962194955
+Brunei Darussalam,BRN,2020,25.4309859630128
+Brunei Darussalam,BRN,2021,22.4479651302579
+Vanuatu,VUT,1960,
+Vanuatu,VUT,1961,
+Vanuatu,VUT,1962,
+Vanuatu,VUT,1963,
+Vanuatu,VUT,1964,
+Vanuatu,VUT,1965,
+Vanuatu,VUT,1966,
+Vanuatu,VUT,1967,
+Vanuatu,VUT,1968,
+Vanuatu,VUT,1969,
+Vanuatu,VUT,1970,
+Vanuatu,VUT,1971,
+Vanuatu,VUT,1972,
+Vanuatu,VUT,1973,
+Vanuatu,VUT,1974,
+Vanuatu,VUT,1975,
+Vanuatu,VUT,1976,
+Vanuatu,VUT,1977,
+Vanuatu,VUT,1978,
+Vanuatu,VUT,1979,
+Vanuatu,VUT,1980,25.2767037216046
+Vanuatu,VUT,1981,20.4403072150505
+Vanuatu,VUT,1982,21.1238208061002
+Vanuatu,VUT,1983,31.3759108444063
+Vanuatu,VUT,1984,28.5764106856386
+Vanuatu,VUT,1985,32.2652170803233
+Vanuatu,VUT,1986,34.9501661129568
+Vanuatu,VUT,1987,33.5574412532637
+Vanuatu,VUT,1988,32.0875665215288
+Vanuatu,VUT,1989,28.4635183527305
+Vanuatu,VUT,1990,27.6038241691537
+Vanuatu,VUT,1991,24.8209917722926
+Vanuatu,VUT,1992,25.0115989708549
+Vanuatu,VUT,1993,25.8574007220217
+Vanuatu,VUT,1994,25.0955741802676
+Vanuatu,VUT,1995,24.7415304260723
+Vanuatu,VUT,1996,26.9520547945205
+Vanuatu,VUT,1997,19.4931342150225
+Vanuatu,VUT,1998,20.1841719735701
+Vanuatu,VUT,1999,21.5708380308155
+Vanuatu,VUT,2000,20.7980556074891
+Vanuatu,VUT,2001,20.5122732123799
+Vanuatu,VUT,2002,15.470686400569
+Vanuatu,VUT,2003,15.0631099544567
+Vanuatu,VUT,2004,13.7906526480896
+Vanuatu,VUT,2005,13.2451098544544
+Vanuatu,VUT,2006,14.0764815995721
+Vanuatu,VUT,2007,16.4921169042308
+Vanuatu,VUT,2008,15.5054040058133
+Vanuatu,VUT,2009,16.4345447934616
+Vanuatu,VUT,2010,18.2718936549942
+Vanuatu,VUT,2011,16.908787460997
+Vanuatu,VUT,2012,16.1696353820838
+Vanuatu,VUT,2013,15.7395525302684
+Vanuatu,VUT,2014,13.9162331599306
+Vanuatu,VUT,2015,16.4643408614434
+Vanuatu,VUT,2016,14.8960534548502
+Vanuatu,VUT,2017,17.4361622527374
+Vanuatu,VUT,2018,16.9183900289763
+Vanuatu,VUT,2019,20.5742205677059
+Vanuatu,VUT,2020,
+Vanuatu,VUT,2021,
+New Zealand,NZL,1960,
+New Zealand,NZL,1961,
+New Zealand,NZL,1962,
+New Zealand,NZL,1963,
+New Zealand,NZL,1964,
+New Zealand,NZL,1965,
+New Zealand,NZL,1966,
+New Zealand,NZL,1967,
+New Zealand,NZL,1968,
+New Zealand,NZL,1969,
+New Zealand,NZL,1970,
+New Zealand,NZL,1971,14.7775346462436
+New Zealand,NZL,1972,14.7484756097561
+New Zealand,NZL,1973,14.4984240843387
+New Zealand,NZL,1974,16.3204747774481
+New Zealand,NZL,1975,17.4306287319986
+New Zealand,NZL,1976,16.2847321684331
+New Zealand,NZL,1977,17.4646806878476
+New Zealand,NZL,1978,18.7366046249295
+New Zealand,NZL,1979,18.457672980286
+New Zealand,NZL,1980,19.5507763846218
+New Zealand,NZL,1981,19.189852700491
+New Zealand,NZL,1982,19.1331605280608
+New Zealand,NZL,1983,18.2784070940009
+New Zealand,NZL,1984,17.6690199832476
+New Zealand,NZL,1985,17.8635826649257
+New Zealand,NZL,1986,17.7247079529964
+New Zealand,NZL,1987,17.5446127429938
+New Zealand,NZL,1988,17.5927114076736
+New Zealand,NZL,1989,17.8017032285884
+New Zealand,NZL,1990,18.4468059952448
+New Zealand,NZL,1991,18.6949596535338
+New Zealand,NZL,1992,18.8549179804685
+New Zealand,NZL,1993,17.7321903635826
+New Zealand,NZL,1994,16.7935982339956
+New Zealand,NZL,1995,16.8014048796708
+New Zealand,NZL,1996,16.6328720784166
+New Zealand,NZL,1997,16.8344225540238
+New Zealand,NZL,1998,17.5472263306686
+New Zealand,NZL,1999,17.2764927712865
+New Zealand,NZL,2000,17.0904296597936
+New Zealand,NZL,2001,16.8974143824974
+New Zealand,NZL,2002,16.7597517402594
+New Zealand,NZL,2003,16.8073798286529
+New Zealand,NZL,2004,17.0698568184318
+New Zealand,NZL,2005,17.9474275333411
+New Zealand,NZL,2006,18.3612009023046
+New Zealand,NZL,2007,18.428481890793
+New Zealand,NZL,2008,19.7871239559465
+New Zealand,NZL,2009,19.7795241550742
+New Zealand,NZL,2010,19.7012914203657
+New Zealand,NZL,2011,19.5817392324844
+New Zealand,NZL,2012,19.381669877557
+New Zealand,NZL,2013,18.7419724819904
+New Zealand,NZL,2014,18.7732311369349
+New Zealand,NZL,2015,18.4965144513198
+New Zealand,NZL,2016,18.1464292165399
+New Zealand,NZL,2017,17.9130961059683
+New Zealand,NZL,2018,18.2226836028166
+New Zealand,NZL,2019,18.8979124416993
+New Zealand,NZL,2020,20.634167108209
+New Zealand,NZL,2021,
+Papua New Guinea,PNG,1960,
+Papua New Guinea,PNG,1961,28.1793229643184
+Papua New Guinea,PNG,1962,28.9451114922813
+Papua New Guinea,PNG,1963,31.1282467532468
+Papua New Guinea,PNG,1964,32.7586206896552
+Papua New Guinea,PNG,1965,34.1685649202733
+Papua New Guinea,PNG,1966,35.7777141220281
+Papua New Guinea,PNG,1967,34.8884292879236
+Papua New Guinea,PNG,1968,33.5410818233883
+Papua New Guinea,PNG,1969,31.9382494669847
+Papua New Guinea,PNG,1970,30.0832702839573
+Papua New Guinea,PNG,1971,30.7923076995921
+Papua New Guinea,PNG,1972,30.3444555896481
+Papua New Guinea,PNG,1973,27.2329725593091
+Papua New Guinea,PNG,1974,29.2575760539959
+Papua New Guinea,PNG,1975,33.5520602142237
+Papua New Guinea,PNG,1976,30.2603062122732
+Papua New Guinea,PNG,1977,26.0069156719291
+Papua New Guinea,PNG,1978,25.5847635599971
+Papua New Guinea,PNG,1979,22.7489818235341
+Papua New Guinea,PNG,1980,24.0735319946139
+Papua New Guinea,PNG,1981,27.0283131096836
+Papua New Guinea,PNG,1982,26.7608106563
+Papua New Guinea,PNG,1983,23.2952252042007
+Papua New Guinea,PNG,1984,23.2506420521148
+Papua New Guinea,PNG,1985,23.4808744077854
+Papua New Guinea,PNG,1986,22.9794425222563
+Papua New Guinea,PNG,1987,22.4118005259363
+Papua New Guinea,PNG,1988,20.9110122709063
+Papua New Guinea,PNG,1989,24.4574252224448
+Papua New Guinea,PNG,1990,24.8325824068656
+Papua New Guinea,PNG,1991,23.6493232749057
+Papua New Guinea,PNG,1992,23.7864077669903
+Papua New Guinea,PNG,1993,24.6409566271496
+Papua New Guinea,PNG,1994,18.6075674014068
+Papua New Guinea,PNG,1995,17.0807222302936
+Papua New Guinea,PNG,1996,19.907825216713
+Papua New Guinea,PNG,1997,19.271252613142
+Papua New Guinea,PNG,1998,18.0598633963812
+Papua New Guinea,PNG,1999,16.9493577399696
+Papua New Guinea,PNG,2000,16.568093017523
+Papua New Guinea,PNG,2001,16.2369554553062
+Papua New Guinea,PNG,2002,15.3372836858136
+Papua New Guinea,PNG,2003,15.2559776201607
+Papua New Guinea,PNG,2004,15.3143173701776
+Papua New Guinea,PNG,2005,
+Papua New Guinea,PNG,2006,
+Papua New Guinea,PNG,2007,
+Papua New Guinea,PNG,2008,
+Papua New Guinea,PNG,2009,
+Papua New Guinea,PNG,2010,
+Papua New Guinea,PNG,2011,
+Papua New Guinea,PNG,2012,
+Papua New Guinea,PNG,2013,
+Papua New Guinea,PNG,2014,
+Papua New Guinea,PNG,2015,
+Papua New Guinea,PNG,2016,
+Papua New Guinea,PNG,2017,
+Papua New Guinea,PNG,2018,
+Papua New Guinea,PNG,2019,
+Papua New Guinea,PNG,2020,
+Papua New Guinea,PNG,2021,
+Tuvalu,TUV,1960,
+Tuvalu,TUV,1961,
+Tuvalu,TUV,1962,
+Tuvalu,TUV,1963,
+Tuvalu,TUV,1964,
+Tuvalu,TUV,1965,
+Tuvalu,TUV,1966,
+Tuvalu,TUV,1967,
+Tuvalu,TUV,1968,
+Tuvalu,TUV,1969,
+Tuvalu,TUV,1970,
+Tuvalu,TUV,1971,
+Tuvalu,TUV,1972,
+Tuvalu,TUV,1973,
+Tuvalu,TUV,1974,
+Tuvalu,TUV,1975,
+Tuvalu,TUV,1976,
+Tuvalu,TUV,1977,
+Tuvalu,TUV,1978,
+Tuvalu,TUV,1979,
+Tuvalu,TUV,1980,
+Tuvalu,TUV,1981,
+Tuvalu,TUV,1982,
+Tuvalu,TUV,1983,
+Tuvalu,TUV,1984,
+Tuvalu,TUV,1985,
+Tuvalu,TUV,1986,
+Tuvalu,TUV,1987,
+Tuvalu,TUV,1988,
+Tuvalu,TUV,1989,
+Tuvalu,TUV,1990,
+Tuvalu,TUV,1991,
+Tuvalu,TUV,1992,
+Tuvalu,TUV,1993,
+Tuvalu,TUV,1994,
+Tuvalu,TUV,1995,
+Tuvalu,TUV,1996,
+Tuvalu,TUV,1997,
+Tuvalu,TUV,1998,
+Tuvalu,TUV,1999,
+Tuvalu,TUV,2000,
+Tuvalu,TUV,2001,
+Tuvalu,TUV,2002,
+Tuvalu,TUV,2003,
+Tuvalu,TUV,2004,
+Tuvalu,TUV,2005,
+Tuvalu,TUV,2006,
+Tuvalu,TUV,2007,
+Tuvalu,TUV,2008,
+Tuvalu,TUV,2009,
+Tuvalu,TUV,2010,
+Tuvalu,TUV,2011,
+Tuvalu,TUV,2012,
+Tuvalu,TUV,2013,
+Tuvalu,TUV,2014,
+Tuvalu,TUV,2015,
+Tuvalu,TUV,2016,
+Tuvalu,TUV,2017,
+Tuvalu,TUV,2018,
+Tuvalu,TUV,2019,
+Tuvalu,TUV,2020,
+Tuvalu,TUV,2021,
+Thailand,THA,1960,9.13512169945249
+Thailand,THA,1961,8.80547003185833
+Thailand,THA,1962,9.08958023322682
+Thailand,THA,1963,9.38890691156436
+Thailand,THA,1964,9.24420721607216
+Thailand,THA,1965,9.12915855641871
+Thailand,THA,1966,8.4584000395381
+Thailand,THA,1967,8.8335608600539
+Thailand,THA,1968,10.0691784738886
+Thailand,THA,1969,10.0945692247277
+Thailand,THA,1970,11.2469471209191
+Thailand,THA,1971,11.5228161293259
+Thailand,THA,1972,10.9182834461715
+Thailand,THA,1973,9.74110775392011
+Thailand,THA,1974,9.34276483885793
+Thailand,THA,1975,10.316518795322
+Thailand,THA,1976,10.9694081826277
+Thailand,THA,1977,10.6376701890489
+Thailand,THA,1978,11.1804585581126
+Thailand,THA,1979,11.9516911120827
+Thailand,THA,1980,12.2921076760429
+Thailand,THA,1981,12.7581025820836
+Thailand,THA,1982,13.0906673998454
+Thailand,THA,1983,12.8749636513441
+Thailand,THA,1984,13.1670830492867
+Thailand,THA,1985,13.5279694129657
+Thailand,THA,1986,12.7549303450319
+Thailand,THA,1987,11.3256811788169
+Thailand,THA,1988,10.0467751984605
+Thailand,THA,1989,9.52066541619023
+Thailand,THA,1990,9.40461513137137
+Thailand,THA,1991,9.22060819677098
+Thailand,THA,1992,9.89796925226476
+Thailand,THA,1993,11.0012606383598
+Thailand,THA,1994,11.0522649217016
+Thailand,THA,1995,11.2506028289929
+Thailand,THA,1996,11.584261126839
+Thailand,THA,1997,12.0838331235099
+Thailand,THA,1998,13.0644916690294
+Thailand,THA,1999,13.5690524039913
+Thailand,THA,2000,13.575965221645
+Thailand,THA,2001,13.4744970113195
+Thailand,THA,2002,13.1723845314163
+Thailand,THA,2003,12.9255475002545
+Thailand,THA,2004,13.1136902414944
+Thailand,THA,2005,13.6536233728387
+Thailand,THA,2006,13.5022624455935
+Thailand,THA,2007,13.9259484673327
+Thailand,THA,2008,14.3419509919152
+Thailand,THA,2009,15.9800519057133
+Thailand,THA,2010,15.8008150334771
+Thailand,THA,2011,16.1417809611223
+Thailand,THA,2012,16.3529827045331
+Thailand,THA,2013,16.3634854486488
+Thailand,THA,2014,16.9163611055347
+Thailand,THA,2015,17.1211512659094
+Thailand,THA,2016,16.8651827576018
+Thailand,THA,2017,16.2984037874409
+Thailand,THA,2018,16.1739664282364
+Thailand,THA,2019,16.1739375154914
+Thailand,THA,2020,17.840688407945
+Thailand,THA,2021,18.17408914039
+Marshall Islands,MHL,1960,
+Marshall Islands,MHL,1961,
+Marshall Islands,MHL,1962,
+Marshall Islands,MHL,1963,
+Marshall Islands,MHL,1964,
+Marshall Islands,MHL,1965,
+Marshall Islands,MHL,1966,
+Marshall Islands,MHL,1967,
+Marshall Islands,MHL,1968,
+Marshall Islands,MHL,1969,
+Marshall Islands,MHL,1970,
+Marshall Islands,MHL,1971,
+Marshall Islands,MHL,1972,
+Marshall Islands,MHL,1973,
+Marshall Islands,MHL,1974,
+Marshall Islands,MHL,1975,
+Marshall Islands,MHL,1976,
+Marshall Islands,MHL,1977,
+Marshall Islands,MHL,1978,
+Marshall Islands,MHL,1979,
+Marshall Islands,MHL,1980,
+Marshall Islands,MHL,1981,
+Marshall Islands,MHL,1982,
+Marshall Islands,MHL,1983,
+Marshall Islands,MHL,1984,
+Marshall Islands,MHL,1985,
+Marshall Islands,MHL,1986,
+Marshall Islands,MHL,1987,
+Marshall Islands,MHL,1988,
+Marshall Islands,MHL,1989,
+Marshall Islands,MHL,1990,
+Marshall Islands,MHL,1991,
+Marshall Islands,MHL,1992,
+Marshall Islands,MHL,1993,
+Marshall Islands,MHL,1994,
+Marshall Islands,MHL,1995,
+Marshall Islands,MHL,1996,
+Marshall Islands,MHL,1997,
+Marshall Islands,MHL,1998,
+Marshall Islands,MHL,1999,
+Marshall Islands,MHL,2000,
+Marshall Islands,MHL,2001,
+Marshall Islands,MHL,2002,
+Marshall Islands,MHL,2003,
+Marshall Islands,MHL,2004,59.5699040019571
+Marshall Islands,MHL,2005,60.5919763912434
+Marshall Islands,MHL,2006,60.4588321586706
+Marshall Islands,MHL,2007,61.451383819121
+Marshall Islands,MHL,2008,61.0398758648022
+Marshall Islands,MHL,2009,61.283264427494
+Marshall Islands,MHL,2010,55.8222796871211
+Marshall Islands,MHL,2011,53.1586604215729
+Marshall Islands,MHL,2012,53.7840778158275
+Marshall Islands,MHL,2013,53.3386099575634
+Marshall Islands,MHL,2014,52.0465261322435
+Marshall Islands,MHL,2015,54.6008662002902
+Marshall Islands,MHL,2016,54.8327658702333
+Marshall Islands,MHL,2017,53.9957252229202
+Marshall Islands,MHL,2018,56.1036676476123
+Marshall Islands,MHL,2019,57.3015699346285
+Marshall Islands,MHL,2020,49.8490565420285
+Marshall Islands,MHL,2021,
+Nauru,NRU,1960,
+Nauru,NRU,1961,
+Nauru,NRU,1962,
+Nauru,NRU,1963,
+Nauru,NRU,1964,
+Nauru,NRU,1965,
+Nauru,NRU,1966,
+Nauru,NRU,1967,
+Nauru,NRU,1968,
+Nauru,NRU,1969,
+Nauru,NRU,1970,
+Nauru,NRU,1971,
+Nauru,NRU,1972,
+Nauru,NRU,1973,
+Nauru,NRU,1974,
+Nauru,NRU,1975,
+Nauru,NRU,1976,
+Nauru,NRU,1977,
+Nauru,NRU,1978,
+Nauru,NRU,1979,
+Nauru,NRU,1980,
+Nauru,NRU,1981,
+Nauru,NRU,1982,
+Nauru,NRU,1983,
+Nauru,NRU,1984,
+Nauru,NRU,1985,
+Nauru,NRU,1986,
+Nauru,NRU,1987,
+Nauru,NRU,1988,
+Nauru,NRU,1989,
+Nauru,NRU,1990,
+Nauru,NRU,1991,
+Nauru,NRU,1992,
+Nauru,NRU,1993,
+Nauru,NRU,1994,
+Nauru,NRU,1995,
+Nauru,NRU,1996,
+Nauru,NRU,1997,
+Nauru,NRU,1998,
+Nauru,NRU,1999,
+Nauru,NRU,2000,
+Nauru,NRU,2001,
+Nauru,NRU,2002,
+Nauru,NRU,2003,
+Nauru,NRU,2004,
+Nauru,NRU,2005,
+Nauru,NRU,2006,
+Nauru,NRU,2007,
+Nauru,NRU,2008,
+Nauru,NRU,2009,
+Nauru,NRU,2010,
+Nauru,NRU,2011,
+Nauru,NRU,2012,
+Nauru,NRU,2013,
+Nauru,NRU,2014,
+Nauru,NRU,2015,
+Nauru,NRU,2016,
+Nauru,NRU,2017,
+Nauru,NRU,2018,
+Nauru,NRU,2019,
+Nauru,NRU,2020,
+Nauru,NRU,2021,
+"Korea, Rep.",KOR,1960,14.2359721444009
+"Korea, Rep.",KOR,1961,13.2752162816136
+"Korea, Rep.",KOR,1962,13.5652982014978
+"Korea, Rep.",KOR,1963,10.5353492498168
+"Korea, Rep.",KOR,1964,8.20760328790828
+"Korea, Rep.",KOR,1965,8.950071566894
+"Korea, Rep.",KOR,1966,9.67760090800792
+"Korea, Rep.",KOR,1967,9.87195688250788
+"Korea, Rep.",KOR,1968,10.1529919073779
+"Korea, Rep.",KOR,1969,9.91792683918903
+"Korea, Rep.",KOR,1970,9.89415719087463
+"Korea, Rep.",KOR,1971,10.1803374054683
+"Korea, Rep.",KOR,1972,10.4693394568503
+"Korea, Rep.",KOR,1973,8.88317985273099
+"Korea, Rep.",KOR,1974,9.60531309297913
+"Korea, Rep.",KOR,1975,11.0901399901362
+"Korea, Rep.",KOR,1976,10.8050964568017
+"Korea, Rep.",KOR,1977,10.6872813452206
+"Korea, Rep.",KOR,1978,9.91194418493709
+"Korea, Rep.",KOR,1979,9.82985775701108
+"Korea, Rep.",KOR,1980,11.9055710369514
+"Korea, Rep.",KOR,1981,12.0717216497751
+"Korea, Rep.",KOR,1982,11.7830347760209
+"Korea, Rep.",KOR,1983,11.1177862547205
+"Korea, Rep.",KOR,1984,10.5539671693941
+"Korea, Rep.",KOR,1985,10.6165118002217
+"Korea, Rep.",KOR,1986,10.2642306026656
+"Korea, Rep.",KOR,1987,9.98489701539387
+"Korea, Rep.",KOR,1988,9.91508595859987
+"Korea, Rep.",KOR,1989,10.7556733400964
+"Korea, Rep.",KOR,1990,10.9735824671588
+"Korea, Rep.",KOR,1991,10.7527968159168
+"Korea, Rep.",KOR,1992,11.0605719951805
+"Korea, Rep.",KOR,1993,10.748956235665
+"Korea, Rep.",KOR,1994,10.275484075691
+"Korea, Rep.",KOR,1995,10.0393648532869
+"Korea, Rep.",KOR,1996,10.3898352839936
+"Korea, Rep.",KOR,1997,10.2102797444584
+"Korea, Rep.",KOR,1998,11.4030073231347
+"Korea, Rep.",KOR,1999,11.0764337994735
+"Korea, Rep.",KOR,2000,10.9000077343983
+"Korea, Rep.",KOR,2001,11.7550489638714
+"Korea, Rep.",KOR,2002,11.741640206779
+"Korea, Rep.",KOR,2003,12.1520483898897
+"Korea, Rep.",KOR,2004,12.387323224273
+"Korea, Rep.",KOR,2005,12.8622573470846
+"Korea, Rep.",KOR,2006,13.3706443357533
+"Korea, Rep.",KOR,2007,13.4428696211902
+"Korea, Rep.",KOR,2008,14.0485688776759
+"Korea, Rep.",KOR,2009,14.6606327784091
+"Korea, Rep.",KOR,2010,14.2048320776355
+"Korea, Rep.",KOR,2011,14.3726584614481
+"Korea, Rep.",KOR,2012,14.6858638852522
+"Korea, Rep.",KOR,2013,14.9765418097358
+"Korea, Rep.",KOR,2014,15.2252223373693
+"Korea, Rep.",KOR,2015,15.0835297322035
+"Korea, Rep.",KOR,2016,15.2400223440118
+"Korea, Rep.",KOR,2017,15.4189724650817
+"Korea, Rep.",KOR,2018,16.0517273115489
+"Korea, Rep.",KOR,2019,17.0778656523485
+"Korea, Rep.",KOR,2020,18.0597504883733
+"Korea, Rep.",KOR,2021,18.2110428269432
+Singapore,SGP,1960,7.52757949383517
+Singapore,SGP,1961,8.89477506728756
+Singapore,SGP,1962,9.39390345154786
+Singapore,SGP,1963,9.85760056959772
+Singapore,SGP,1964,10.3244191144235
+Singapore,SGP,1965,10.363319479823
+Singapore,SGP,1966,10.5172208318436
+Singapore,SGP,1967,10.1664951581836
+Singapore,SGP,1968,10.3313170195216
+Singapore,SGP,1969,11.0700017712003
+Singapore,SGP,1970,11.834742231218
+Singapore,SGP,1971,12.4778135326628
+Singapore,SGP,1972,11.9834262794647
+Singapore,SGP,1973,10.8180384008619
+Singapore,SGP,1974,10.210888913135
+Singapore,SGP,1975,10.4758644299897
+Singapore,SGP,1976,10.3796472799499
+Singapore,SGP,1977,10.5838612626275
+Singapore,SGP,1978,10.7965142277531
+Singapore,SGP,1979,9.72792462111895
+Singapore,SGP,1980,9.64916349692303
+Singapore,SGP,1981,9.38850817079599
+Singapore,SGP,1982,10.7209280425647
+Singapore,SGP,1983,10.7123338062957
+Singapore,SGP,1984,10.6114487280256
+Singapore,SGP,1985,13.394089489707
+Singapore,SGP,1986,12.6719438921861
+Singapore,SGP,1987,11.513188948287
+Singapore,SGP,1988,9.8565848746919
+Singapore,SGP,1989,9.73307127070471
+Singapore,SGP,1990,9.51493992960933
+Singapore,SGP,1991,9.24858803098438
+Singapore,SGP,1992,8.82616856766706
+Singapore,SGP,1993,9.01248020130082
+Singapore,SGP,1994,8.17055423373734
+Singapore,SGP,1995,8.25118729778176
+Singapore,SGP,1996,8.95385970545865
+Singapore,SGP,1997,8.75986450017623
+Singapore,SGP,1998,9.49364662390425
+Singapore,SGP,1999,9.3867797131673
+Singapore,SGP,2000,10.5041646441155
+Singapore,SGP,2001,11.6099265565097
+Singapore,SGP,2002,11.8403288872956
+Singapore,SGP,2003,11.4140839970397
+Singapore,SGP,2004,10.318670184588
+Singapore,SGP,2005,9.89714323321879
+Singapore,SGP,2006,9.90693550272105
+Singapore,SGP,2007,9.13612734398836
+Singapore,SGP,2008,10.1132139112862
+Singapore,SGP,2009,9.92997384864082
+Singapore,SGP,2010,9.691568385966
+Singapore,SGP,2011,9.23684263701949
+Singapore,SGP,2012,8.85786688468844
+Singapore,SGP,2013,9.74421772737465
+Singapore,SGP,2014,9.6310320219758
+Singapore,SGP,2015,10.1909083158792
+Singapore,SGP,2016,10.2641968637832
+Singapore,SGP,2017,10.1932685496598
+Singapore,SGP,2018,9.97348843676173
+Singapore,SGP,2019,10.276640950498
+Singapore,SGP,2020,12.3260093097299
+Singapore,SGP,2021,11.5496166789694
+"Korea, Dem. People's Rep.",PRK,1960,
+"Korea, Dem. People's Rep.",PRK,1961,
+"Korea, Dem. People's Rep.",PRK,1962,
+"Korea, Dem. People's Rep.",PRK,1963,
+"Korea, Dem. People's Rep.",PRK,1964,
+"Korea, Dem. People's Rep.",PRK,1965,
+"Korea, Dem. People's Rep.",PRK,1966,
+"Korea, Dem. People's Rep.",PRK,1967,
+"Korea, Dem. People's Rep.",PRK,1968,
+"Korea, Dem. People's Rep.",PRK,1969,
+"Korea, Dem. People's Rep.",PRK,1970,
+"Korea, Dem. People's Rep.",PRK,1971,
+"Korea, Dem. People's Rep.",PRK,1972,
+"Korea, Dem. People's Rep.",PRK,1973,
+"Korea, Dem. People's Rep.",PRK,1974,
+"Korea, Dem. People's Rep.",PRK,1975,
+"Korea, Dem. People's Rep.",PRK,1976,
+"Korea, Dem. People's Rep.",PRK,1977,
+"Korea, Dem. People's Rep.",PRK,1978,
+"Korea, Dem. People's Rep.",PRK,1979,
+"Korea, Dem. People's Rep.",PRK,1980,
+"Korea, Dem. People's Rep.",PRK,1981,
+"Korea, Dem. People's Rep.",PRK,1982,
+"Korea, Dem. People's Rep.",PRK,1983,
+"Korea, Dem. People's Rep.",PRK,1984,
+"Korea, Dem. People's Rep.",PRK,1985,
+"Korea, Dem. People's Rep.",PRK,1986,
+"Korea, Dem. People's Rep.",PRK,1987,
+"Korea, Dem. People's Rep.",PRK,1988,
+"Korea, Dem. People's Rep.",PRK,1989,
+"Korea, Dem. People's Rep.",PRK,1990,
+"Korea, Dem. People's Rep.",PRK,1991,
+"Korea, Dem. People's Rep.",PRK,1992,
+"Korea, Dem. People's Rep.",PRK,1993,
+"Korea, Dem. People's Rep.",PRK,1994,
+"Korea, Dem. People's Rep.",PRK,1995,
+"Korea, Dem. People's Rep.",PRK,1996,
+"Korea, Dem. People's Rep.",PRK,1997,
+"Korea, Dem. People's Rep.",PRK,1998,
+"Korea, Dem. People's Rep.",PRK,1999,
+"Korea, Dem. People's Rep.",PRK,2000,
+"Korea, Dem. People's Rep.",PRK,2001,
+"Korea, Dem. People's Rep.",PRK,2002,
+"Korea, Dem. People's Rep.",PRK,2003,
+"Korea, Dem. People's Rep.",PRK,2004,
+"Korea, Dem. People's Rep.",PRK,2005,
+"Korea, Dem. People's Rep.",PRK,2006,
+"Korea, Dem. People's Rep.",PRK,2007,
+"Korea, Dem. People's Rep.",PRK,2008,
+"Korea, Dem. People's Rep.",PRK,2009,
+"Korea, Dem. People's Rep.",PRK,2010,
+"Korea, Dem. People's Rep.",PRK,2011,
+"Korea, Dem. People's Rep.",PRK,2012,
+"Korea, Dem. People's Rep.",PRK,2013,
+"Korea, Dem. People's Rep.",PRK,2014,
+"Korea, Dem. People's Rep.",PRK,2015,
+"Korea, Dem. People's Rep.",PRK,2016,
+"Korea, Dem. People's Rep.",PRK,2017,
+"Korea, Dem. People's Rep.",PRK,2018,
+"Korea, Dem. People's Rep.",PRK,2019,
+"Korea, Dem. People's Rep.",PRK,2020,
+"Korea, Dem. People's Rep.",PRK,2021,
+Tonga,TON,1960,
+Tonga,TON,1961,
+Tonga,TON,1962,
+Tonga,TON,1963,
+Tonga,TON,1964,
+Tonga,TON,1965,
+Tonga,TON,1966,
+Tonga,TON,1967,
+Tonga,TON,1968,
+Tonga,TON,1969,
+Tonga,TON,1970,
+Tonga,TON,1971,
+Tonga,TON,1972,
+Tonga,TON,1973,
+Tonga,TON,1974,
+Tonga,TON,1975,12.9929646946065
+Tonga,TON,1976,19.1677380506778
+Tonga,TON,1977,15.294167324414
+Tonga,TON,1978,14.714118537895
+Tonga,TON,1979,14.9205062176075
+Tonga,TON,1980,14.8290680520813
+Tonga,TON,1981,14.0243339549139
+Tonga,TON,1982,16.9022600624254
+Tonga,TON,1983,14.3000932518243
+Tonga,TON,1984,15.8241247899906
+Tonga,TON,1985,15.9643247517384
+Tonga,TON,1986,15.7869458248792
+Tonga,TON,1987,16.6568070166414
+Tonga,TON,1988,16.2905280361478
+Tonga,TON,1989,17.4117383345164
+Tonga,TON,1990,19.1307184212672
+Tonga,TON,1991,20.4338086014981
+Tonga,TON,1992,18.943144030069
+Tonga,TON,1993,17.6746491365368
+Tonga,TON,1994,15.8088606141977
+Tonga,TON,1995,16.3376090109435
+Tonga,TON,1996,17.3859682016859
+Tonga,TON,1997,18.8236931222268
+Tonga,TON,1998,18.1961485384738
+Tonga,TON,1999,18.5583751193319
+Tonga,TON,2000,17.980516366907
+Tonga,TON,2001,19.289436617533
+Tonga,TON,2002,16.8999943020415
+Tonga,TON,2003,16.848109555772
+Tonga,TON,2004,16.0804226704277
+Tonga,TON,2005,15.6089667731681
+Tonga,TON,2006,21.1662386335008
+Tonga,TON,2007,18.234144969029
+Tonga,TON,2008,18.643070559054
+Tonga,TON,2009,20.1955717773134
+Tonga,TON,2010,18.1756526342581
+Tonga,TON,2011,18.3319786218496
+Tonga,TON,2012,19.438231977331
+Tonga,TON,2013,20.0542308913604
+Tonga,TON,2014,20.1833208645742
+Tonga,TON,2015,21.3164555292442
+Tonga,TON,2016,20.4249584946181
+Tonga,TON,2017,20.0636042340327
+Tonga,TON,2018,19.2079288546778
+Tonga,TON,2019,20.3146180855614
+Tonga,TON,2020,23.8339189305148
+Tonga,TON,2021,
+American Samoa,ASM,1960,
+American Samoa,ASM,1961,
+American Samoa,ASM,1962,
+American Samoa,ASM,1963,
+American Samoa,ASM,1964,
+American Samoa,ASM,1965,
+American Samoa,ASM,1966,
+American Samoa,ASM,1967,
+American Samoa,ASM,1968,
+American Samoa,ASM,1969,
+American Samoa,ASM,1970,
+American Samoa,ASM,1971,
+American Samoa,ASM,1972,
+American Samoa,ASM,1973,
+American Samoa,ASM,1974,
+American Samoa,ASM,1975,
+American Samoa,ASM,1976,
+American Samoa,ASM,1977,
+American Samoa,ASM,1978,
+American Samoa,ASM,1979,
+American Samoa,ASM,1980,
+American Samoa,ASM,1981,
+American Samoa,ASM,1982,
+American Samoa,ASM,1983,
+American Samoa,ASM,1984,
+American Samoa,ASM,1985,
+American Samoa,ASM,1986,
+American Samoa,ASM,1987,
+American Samoa,ASM,1988,
+American Samoa,ASM,1989,
+American Samoa,ASM,1990,
+American Samoa,ASM,1991,
+American Samoa,ASM,1992,
+American Samoa,ASM,1993,
+American Samoa,ASM,1994,
+American Samoa,ASM,1995,
+American Samoa,ASM,1996,
+American Samoa,ASM,1997,
+American Samoa,ASM,1998,
+American Samoa,ASM,1999,
+American Samoa,ASM,2000,
+American Samoa,ASM,2001,
+American Samoa,ASM,2002,42.1875
+American Samoa,ASM,2003,42.175572519084
+American Samoa,ASM,2004,44.5972495088409
+American Samoa,ASM,2005,44.8
+American Samoa,ASM,2006,45.4361054766734
+American Samoa,ASM,2007,42.4710424710425
+American Samoa,ASM,2008,43.0357142857143
+American Samoa,ASM,2009,40.7407407407407
+American Samoa,ASM,2010,52.8795811518325
+American Samoa,ASM,2011,59.1228070175439
+American Samoa,ASM,2012,51.40625
+American Samoa,ASM,2013,49.0595611285266
+American Samoa,ASM,2014,53.343701399689
+American Samoa,ASM,2015,55.1263001485884
+American Samoa,ASM,2016,47.6900149031297
+American Samoa,ASM,2017,51.1437908496732
+American Samoa,ASM,2018,52.2691705790297
+American Samoa,ASM,2019,48.1481481481481
+American Samoa,ASM,2020,49.3653032440056
+American Samoa,ASM,2021,
+Kiribati,KIR,1960,
+Kiribati,KIR,1961,
+Kiribati,KIR,1962,
+Kiribati,KIR,1963,
+Kiribati,KIR,1964,
+Kiribati,KIR,1965,
+Kiribati,KIR,1966,
+Kiribati,KIR,1967,
+Kiribati,KIR,1968,
+Kiribati,KIR,1969,
+Kiribati,KIR,1970,
+Kiribati,KIR,1971,
+Kiribati,KIR,1972,27.8016696180116
+Kiribati,KIR,1973,26.9009268424368
+Kiribati,KIR,1974,15.798848999726
+Kiribati,KIR,1975,18.0003327233405
+Kiribati,KIR,1976,25.3002378121284
+Kiribati,KIR,1977,27.0011161033683
+Kiribati,KIR,1978,19.3012658227848
+Kiribati,KIR,1979,30.793642467478
+Kiribati,KIR,1980,42.7088235294118
+Kiribati,KIR,1981,41.0416666666667
+Kiribati,KIR,1982,39.4875
+Kiribati,KIR,1983,37.95
+Kiribati,KIR,1984,32.7170212765957
+Kiribati,KIR,1985,36.154347826087
+Kiribati,KIR,1986,34.6145833333333
+Kiribati,KIR,1987,36.0666666666667
+Kiribati,KIR,1988,32.9727272727273
+Kiribati,KIR,1989,38.2307692307692
+Kiribati,KIR,1990,37.7078431372549
+Kiribati,KIR,1991,37.9934426229508
+Kiribati,KIR,1992,38.5215384615385
+Kiribati,KIR,1993,
+Kiribati,KIR,1994,
+Kiribati,KIR,1995,
+Kiribati,KIR,1996,
+Kiribati,KIR,1997,
+Kiribati,KIR,1998,
+Kiribati,KIR,1999,
+Kiribati,KIR,2000,
+Kiribati,KIR,2001,
+Kiribati,KIR,2002,
+Kiribati,KIR,2003,
+Kiribati,KIR,2004,
+Kiribati,KIR,2005,
+Kiribati,KIR,2006,
+Kiribati,KIR,2007,
+Kiribati,KIR,2008,65.5767732573699
+Kiribati,KIR,2009,65.2163157993931
+Kiribati,KIR,2010,61.6474977493525
+Kiribati,KIR,2011,62.3114889002978
+Kiribati,KIR,2012,64.0886459661829
+Kiribati,KIR,2013,61.4811889129267
+Kiribati,KIR,2014,70.8912847371513
+Kiribati,KIR,2015,62.8893380644638
+Kiribati,KIR,2016,68.6699026924418
+Kiribati,KIR,2017,67.1802014229107
+Kiribati,KIR,2018,74.0674319873589
+Kiribati,KIR,2019,
+Kiribati,KIR,2020,
+Kiribati,KIR,2021,
+Vietnam,VNM,1960,
+Vietnam,VNM,1961,
+Vietnam,VNM,1962,
+Vietnam,VNM,1963,
+Vietnam,VNM,1964,
+Vietnam,VNM,1965,
+Vietnam,VNM,1966,
+Vietnam,VNM,1967,
+Vietnam,VNM,1968,
+Vietnam,VNM,1969,
+Vietnam,VNM,1970,
+Vietnam,VNM,1971,
+Vietnam,VNM,1972,
+Vietnam,VNM,1973,
+Vietnam,VNM,1974,
+Vietnam,VNM,1975,
+Vietnam,VNM,1976,
+Vietnam,VNM,1977,
+Vietnam,VNM,1978,
+Vietnam,VNM,1979,
+Vietnam,VNM,1980,
+Vietnam,VNM,1981,
+Vietnam,VNM,1982,
+Vietnam,VNM,1983,
+Vietnam,VNM,1984,
+Vietnam,VNM,1985,
+Vietnam,VNM,1986,
+Vietnam,VNM,1987,
+Vietnam,VNM,1988,
+Vietnam,VNM,1989,
+Vietnam,VNM,1990,
+Vietnam,VNM,1991,
+Vietnam,VNM,1992,
+Vietnam,VNM,1993,
+Vietnam,VNM,1994,
+Vietnam,VNM,1995,
+Vietnam,VNM,1996,
+Vietnam,VNM,1997,
+Vietnam,VNM,1998,
+Vietnam,VNM,1999,
+Vietnam,VNM,2000,
+Vietnam,VNM,2001,
+Vietnam,VNM,2002,
+Vietnam,VNM,2003,
+Vietnam,VNM,2004,
+Vietnam,VNM,2005,
+Vietnam,VNM,2006,
+Vietnam,VNM,2007,
+Vietnam,VNM,2008,
+Vietnam,VNM,2009,
+Vietnam,VNM,2010,
+Vietnam,VNM,2011,
+Vietnam,VNM,2012,
+Vietnam,VNM,2013,
+Vietnam,VNM,2014,
+Vietnam,VNM,2015,
+Vietnam,VNM,2016,
+Vietnam,VNM,2017,
+Vietnam,VNM,2018,
+Vietnam,VNM,2019,
+Vietnam,VNM,2020,
+Vietnam,VNM,2021,
+Australia,AUS,1960,11.189358372457
+Australia,AUS,1961,11.425320056899
+Australia,AUS,1962,12.0748777334308
+Australia,AUS,1963,11.7870327042063
+Australia,AUS,1964,11.4718614718615
+Australia,AUS,1965,11.9982754904074
+Australia,AUS,1966,12.9177773221243
+Australia,AUS,1967,12.889935256033
+Australia,AUS,1968,13.7267654811214
+Australia,AUS,1969,13.169704185365
+Australia,AUS,1970,13.286372256841
+Australia,AUS,1971,14.0295698258996
+Australia,AUS,1972,14.5390070921986
+Australia,AUS,1973,14.7398205936064
+Australia,AUS,1974,14.5774671216086
+Australia,AUS,1975,16.9409486931268
+Australia,AUS,1976,18.0349496863643
+Australia,AUS,1977,17.6108732698782
+Australia,AUS,1978,17.9905608312558
+Australia,AUS,1979,17.5159316098292
+Australia,AUS,1980,17.3674751585545
+Australia,AUS,1981,17.9673249786759
+Australia,AUS,1982,17.8965080123013
+Australia,AUS,1983,18.8166623566479
+Australia,AUS,1984,18.4781490040512
+Australia,AUS,1985,19.0553662908748
+Australia,AUS,1986,19.1420483748475
+Australia,AUS,1987,19.0911250707493
+Australia,AUS,1988,18.1966965532333
+Australia,AUS,1989,17.5232584986894
+Australia,AUS,1990,17.3658881426901
+Australia,AUS,1991,18.333080463258
+Australia,AUS,1992,19.1840216245847
+Australia,AUS,1993,19.0699161222643
+Australia,AUS,1994,18.5063585202457
+Australia,AUS,1995,18.1552706408965
+Australia,AUS,1996,18.0967622333704
+Australia,AUS,1997,17.7723606174844
+Australia,AUS,1998,17.7451676341022
+Australia,AUS,1999,18.1390959280041
+Australia,AUS,2000,17.9159828447596
+Australia,AUS,2001,17.8967560183186
+Australia,AUS,2002,17.6877599827417
+Australia,AUS,2003,17.7301217430312
+Australia,AUS,2004,17.607004905055
+Australia,AUS,2005,17.6748804063211
+Australia,AUS,2006,17.5922142230448
+Australia,AUS,2007,17.4645553897597
+Australia,AUS,2008,17.3805360192843
+Australia,AUS,2009,17.7200849208389
+Australia,AUS,2010,18.1076525607549
+Australia,AUS,2011,17.9254784194632
+Australia,AUS,2012,18.1487714394681
+Australia,AUS,2013,18.0738896185633
+Australia,AUS,2014,17.9749435896089
+Australia,AUS,2015,18.3487380229385
+Australia,AUS,2016,19.0888943045488
+Australia,AUS,2017,19.0395233596731
+Australia,AUS,2018,19.10636556904
+Australia,AUS,2019,19.472898344901
+Australia,AUS,2020,20.8618856601103
+Australia,AUS,2021,21.4277628071466
+Malaysia,MYS,1960,12.3934538015684
+Malaysia,MYS,1961,13.6379251116455
+Malaysia,MYS,1962,13.9546270605517
+Malaysia,MYS,1963,15.4867256637168
+Malaysia,MYS,1964,16.8315622328081
+Malaysia,MYS,1965,16.9613259668508
+Malaysia,MYS,1966,18.0816793099865
+Malaysia,MYS,1967,17.4554394591272
+Malaysia,MYS,1968,17.106424717999
+Malaysia,MYS,1969,16.2774113032626
+Malaysia,MYS,1970,18.2771155634458
+Malaysia,MYS,1971,16.7502894635276
+Malaysia,MYS,1972,19.2545710267229
+Malaysia,MYS,1973,15.6705656144849
+Malaysia,MYS,1974,15.3819231778808
+Malaysia,MYS,1975,17.5711982804944
+Malaysia,MYS,1976,15.3142246750935
+Malaysia,MYS,1977,16.6604823747681
+Malaysia,MYS,1978,16.0745394076968
+Malaysia,MYS,1979,13.9475271411339
+Malaysia,MYS,1980,16.5284760261124
+Malaysia,MYS,1981,18.0948744207037
+Malaysia,MYS,1982,18.3213789357657
+Malaysia,MYS,1983,15.6365339844415
+Malaysia,MYS,1984,14.7592708988058
+Malaysia,MYS,1985,15.2884987737189
+Malaysia,MYS,1986,16.9385702712518
+Malaysia,MYS,1987,14.8732811247456
+Malaysia,MYS,1988,14.2340586770597
+Malaysia,MYS,1989,14.0621287999012
+Malaysia,MYS,1990,13.7939721702035
+Malaysia,MYS,1991,13.6940883928836
+Malaysia,MYS,1992,13.0101803798728
+Malaysia,MYS,1993,12.631102128994
+Malaysia,MYS,1994,12.2648507886484
+Malaysia,MYS,1995,12.37318685863
+Malaysia,MYS,1996,11.1054183153879
+Malaysia,MYS,1997,10.7670469667666
+Malaysia,MYS,1998,9.76899693902409
+Malaysia,MYS,1999,10.9866872365044
+Malaysia,MYS,2000,10.1652352266127
+Malaysia,MYS,2001,12.0392876490092
+Malaysia,MYS,2002,12.95780675499
+Malaysia,MYS,2003,12.9680086157285
+Malaysia,MYS,2004,12.579949709734
+Malaysia,MYS,2005,11.4736063637601
+Malaysia,MYS,2006,11.1676921633288
+Malaysia,MYS,2007,11.5668680674542
+Malaysia,MYS,2008,11.5047879794636
+Malaysia,MYS,2009,13.0484795688336
+Malaysia,MYS,2010,12.581169028796
+Malaysia,MYS,2011,13.2706614765507
+Malaysia,MYS,2012,13.842133658412
+Malaysia,MYS,2013,13.7154015161779
+Malaysia,MYS,2014,13.3287480692634
+Malaysia,MYS,2015,13.0865607985559
+Malaysia,MYS,2016,12.5648977951943
+Malaysia,MYS,2017,12.1925918694431
+Malaysia,MYS,2018,11.9694462955517
+Malaysia,MYS,2019,11.6782285019678
+Malaysia,MYS,2020,12.9918690288009
+Malaysia,MYS,2021,12.7913198455701
+Guam,GUM,1960,
+Guam,GUM,1961,
+Guam,GUM,1962,
+Guam,GUM,1963,
+Guam,GUM,1964,
+Guam,GUM,1965,
+Guam,GUM,1966,
+Guam,GUM,1967,
+Guam,GUM,1968,
+Guam,GUM,1969,
+Guam,GUM,1970,
+Guam,GUM,1971,
+Guam,GUM,1972,
+Guam,GUM,1973,
+Guam,GUM,1974,
+Guam,GUM,1975,
+Guam,GUM,1976,
+Guam,GUM,1977,
+Guam,GUM,1978,
+Guam,GUM,1979,
+Guam,GUM,1980,
+Guam,GUM,1981,
+Guam,GUM,1982,
+Guam,GUM,1983,
+Guam,GUM,1984,
+Guam,GUM,1985,
+Guam,GUM,1986,
+Guam,GUM,1987,
+Guam,GUM,1988,
+Guam,GUM,1989,
+Guam,GUM,1990,
+Guam,GUM,1991,
+Guam,GUM,1992,
+Guam,GUM,1993,
+Guam,GUM,1994,
+Guam,GUM,1995,
+Guam,GUM,1996,
+Guam,GUM,1997,
+Guam,GUM,1998,
+Guam,GUM,1999,
+Guam,GUM,2000,
+Guam,GUM,2001,
+Guam,GUM,2002,
+Guam,GUM,2003,
+Guam,GUM,2004,
+Guam,GUM,2005,
+Guam,GUM,2006,
+Guam,GUM,2007,
+Guam,GUM,2008,
+Guam,GUM,2009,
+Guam,GUM,2010,
+Guam,GUM,2011,
+Guam,GUM,2012,
+Guam,GUM,2013,
+Guam,GUM,2014,
+Guam,GUM,2015,
+Guam,GUM,2016,
+Guam,GUM,2017,
+Guam,GUM,2018,
+Guam,GUM,2019,
+Guam,GUM,2020,
+Guam,GUM,2021,
+Philippines,PHL,1960,
+Philippines,PHL,1961,
+Philippines,PHL,1962,
+Philippines,PHL,1963,
+Philippines,PHL,1964,
+Philippines,PHL,1965,
+Philippines,PHL,1966,
+Philippines,PHL,1967,
+Philippines,PHL,1968,
+Philippines,PHL,1969,
+Philippines,PHL,1970,
+Philippines,PHL,1971,
+Philippines,PHL,1972,
+Philippines,PHL,1973,
+Philippines,PHL,1974,
+Philippines,PHL,1975,
+Philippines,PHL,1976,
+Philippines,PHL,1977,
+Philippines,PHL,1978,
+Philippines,PHL,1979,
+Philippines,PHL,1980,
+Philippines,PHL,1981,8.2923603294311
+Philippines,PHL,1982,8.60031771478435
+Philippines,PHL,1983,7.77808685571038
+Philippines,PHL,1984,6.75011049130643
+Philippines,PHL,1985,7.40089681834642
+Philippines,PHL,1986,7.73933550940254
+Philippines,PHL,1987,8.11068894280394
+Philippines,PHL,1988,8.72097458635883
+Philippines,PHL,1989,9.12893530981555
+Philippines,PHL,1990,9.61421726859019
+Philippines,PHL,1991,9.53484403825041
+Philippines,PHL,1992,9.24895154768848
+Philippines,PHL,1993,9.62673761442032
+Philippines,PHL,1994,10.3019249066416
+Philippines,PHL,1995,10.8885513638183
+Philippines,PHL,1996,11.4087896833398
+Philippines,PHL,1997,12.6125628381218
+Philippines,PHL,1998,12.871447826447
+Philippines,PHL,1999,11.8415085310492
+Philippines,PHL,2000,11.0626851324126
+Philippines,PHL,2001,10.7417462290286
+Philippines,PHL,2002,10.2700352921327
+Philippines,PHL,2003,9.9312133049276
+Philippines,PHL,2004,9.14092435931005
+Philippines,PHL,2005,8.86518555137411
+Philippines,PHL,2006,9.0668958337076
+Philippines,PHL,2007,9.2315823420547
+Philippines,PHL,2008,8.81443285008608
+Philippines,PHL,2009,9.82659857784527
+Philippines,PHL,2010,9.72039517748043
+Philippines,PHL,2011,9.71363218007827
+Philippines,PHL,2012,10.7921471088194
+Philippines,PHL,2013,10.816955018461
+Philippines,PHL,2014,10.5611726821726
+Philippines,PHL,2015,10.9116416620787
+Philippines,PHL,2016,11.2579676044704
+Philippines,PHL,2017,11.3233663056554
+Philippines,PHL,2018,12.0427836518839
+Philippines,PHL,2019,12.4677544303537
+Philippines,PHL,2020,15.2614545874851
+Philippines,PHL,2021,15.5642030194205
+Japan,JPN,1960,
+Japan,JPN,1961,
+Japan,JPN,1962,
+Japan,JPN,1963,
+Japan,JPN,1964,
+Japan,JPN,1965,
+Japan,JPN,1966,
+Japan,JPN,1967,
+Japan,JPN,1968,
+Japan,JPN,1969,
+Japan,JPN,1970,11.1135241434195
+Japan,JPN,1971,11.8892210803322
+Japan,JPN,1972,12.1883526958193
+Japan,JPN,1973,12.4004639476191
+Japan,JPN,1974,13.6239015540992
+Japan,JPN,1975,14.9997287077216
+Japan,JPN,1976,14.726435233465
+Japan,JPN,1977,14.685035792221
+Japan,JPN,1978,14.4389675191595
+Japan,JPN,1979,14.4909946540637
+Japan,JPN,1980,14.6619341746859
+Japan,JPN,1981,14.6813589370559
+Japan,JPN,1982,14.7966961802238
+Japan,JPN,1983,14.8495499043528
+Japan,JPN,1984,14.6056798553259
+Japan,JPN,1985,14.2773445694455
+Japan,JPN,1986,14.195672377612
+Japan,JPN,1987,14.1204146649921
+Japan,JPN,1988,13.7069932176849
+Japan,JPN,1989,13.5748170567068
+Japan,JPN,1990,13.5450283669728
+Japan,JPN,1991,13.5975407449258
+Japan,JPN,1992,13.9953920345949
+Japan,JPN,1993,14.6150848692991
+Japan,JPN,1994,14.7483119048313
+Japan,JPN,1995,15.079728572976
+Japan,JPN,1996,15.1459373245418
+Japan,JPN,1997,15.3019416593352
+Japan,JPN,1998,15.6654067661838
+Japan,JPN,1999,16.216773574862
+Japan,JPN,2000,16.549191407008
+Japan,JPN,2001,17.2289905143177
+Japan,JPN,2002,17.7749067788644
+Japan,JPN,2003,17.8364695899716
+Japan,JPN,2004,17.7233548337375
+Japan,JPN,2005,17.7438933244397
+Japan,JPN,2006,17.595075361072
+Japan,JPN,2007,17.6343087480996
+Japan,JPN,2008,18.025030322619
+Japan,JPN,2009,19.3337393097808
+Japan,JPN,2010,19.2025962424431
+Japan,JPN,2011,19.885399284228
+Japan,JPN,2012,19.9573325085164
+Japan,JPN,2013,19.854370134417
+Japan,JPN,2014,19.9261773555302
+Japan,JPN,2015,19.617744139153
+Japan,JPN,2016,19.6572481017318
+Japan,JPN,2017,19.4117955495929
+Japan,JPN,2018,19.5755911714278
+Japan,JPN,2019,19.9265628536314
+Japan,JPN,2020,21.0320662024389
+Japan,JPN,2021,
+Mongolia,MNG,1960,
+Mongolia,MNG,1961,
+Mongolia,MNG,1962,
+Mongolia,MNG,1963,
+Mongolia,MNG,1964,
+Mongolia,MNG,1965,
+Mongolia,MNG,1966,
+Mongolia,MNG,1967,
+Mongolia,MNG,1968,
+Mongolia,MNG,1969,
+Mongolia,MNG,1970,
+Mongolia,MNG,1971,
+Mongolia,MNG,1972,
+Mongolia,MNG,1973,
+Mongolia,MNG,1974,
+Mongolia,MNG,1975,
+Mongolia,MNG,1976,
+Mongolia,MNG,1977,
+Mongolia,MNG,1978,
+Mongolia,MNG,1979,
+Mongolia,MNG,1980,
+Mongolia,MNG,1981,24.8733917951832
+Mongolia,MNG,1982,22.6139932140782
+Mongolia,MNG,1983,21.4107259249882
+Mongolia,MNG,1984,22.3348869361567
+Mongolia,MNG,1985,23.2162693304027
+Mongolia,MNG,1986,26.1551525259156
+Mongolia,MNG,1987,26.3048273623351
+Mongolia,MNG,1988,25.741192901601
+Mongolia,MNG,1989,23.2179957611013
+Mongolia,MNG,1990,24.3534634601164
+Mongolia,MNG,1991,21.0321160287869
+Mongolia,MNG,1992,15.8486690497637
+Mongolia,MNG,1993,19.3923503982043
+Mongolia,MNG,1994,25.1672826540875
+Mongolia,MNG,1995,11.1029338181765
+Mongolia,MNG,1996,12.5966163704627
+Mongolia,MNG,1997,12.2148995996228
+Mongolia,MNG,1998,15.6001116335624
+Mongolia,MNG,1999,14.6340598930806
+Mongolia,MNG,2000,15.3072305276316
+Mongolia,MNG,2001,16.7913060350209
+Mongolia,MNG,2002,16.1226344161819
+Mongolia,MNG,2003,14.2425297746318
+Mongolia,MNG,2004,14.467720874519
+Mongolia,MNG,2005,12.138897877692
+Mongolia,MNG,2006,11.6832883313395
+Mongolia,MNG,2007,13.0711686834879
+Mongolia,MNG,2008,14.6422131141497
+Mongolia,MNG,2009,14.1140534152111
+Mongolia,MNG,2010,12.688125697708
+Mongolia,MNG,2011,12.2552375580087
+Mongolia,MNG,2012,13.5268117676641
+Mongolia,MNG,2013,13.4571255187819
+Mongolia,MNG,2014,13.0170100978316
+Mongolia,MNG,2015,14.87177395106
+Mongolia,MNG,2016,15.9552953445034
+Mongolia,MNG,2017,13.9288663464953
+Mongolia,MNG,2018,12.6929848142403
+Mongolia,MNG,2019,13.1079648639384
+Mongolia,MNG,2020,15.8102434129075
+Mongolia,MNG,2021,14.5797500453846
+Indonesia,IDN,1960,11.5581752947207
+Indonesia,IDN,1961,11.7847266539034
+Indonesia,IDN,1962,6.23923301625346
+Indonesia,IDN,1963,7.11480927449514
+Indonesia,IDN,1964,7.12413261372398
+Indonesia,IDN,1965,5.60860396457191
+Indonesia,IDN,1966,8.80025324469769
+Indonesia,IDN,1967,7.37202170323189
+Indonesia,IDN,1968,7.45934086898459
+Indonesia,IDN,1969,7.32155997056659
+Indonesia,IDN,1970,8.77245508982036
+Indonesia,IDN,1971,9.28649237472767
+Indonesia,IDN,1972,9.07099035933392
+Indonesia,IDN,1973,10.6020671069387
+Indonesia,IDN,1974,7.85394097870751
+Indonesia,IDN,1975,9.9165513150089
+Indonesia,IDN,1976,10.2833830099504
+Indonesia,IDN,1977,10.9270042660186
+Indonesia,IDN,1978,11.6895278290688
+Indonesia,IDN,1979,11.6576217627258
+Indonesia,IDN,1980,10.3160475028441
+Indonesia,IDN,1981,10.7129768449109
+Indonesia,IDN,1982,11.4563175175994
+Indonesia,IDN,1983,10.9600584008163
+Indonesia,IDN,1984,10.4777680265764
+Indonesia,IDN,1985,12.03547689631
+Indonesia,IDN,1986,11.2424777587402
+Indonesia,IDN,1987,9.42460516164077
+Indonesia,IDN,1988,8.97633295990002
+Indonesia,IDN,1989,9.38937594169801
+Indonesia,IDN,1990,9.53444118831967
+Indonesia,IDN,1991,9.13808824964761
+Indonesia,IDN,1992,9.51626587965038
+Indonesia,IDN,1993,9.02331220180498
+Indonesia,IDN,1994,8.11418145113923
+Indonesia,IDN,1995,7.82906404883809
+Indonesia,IDN,1996,7.56695858557029
+Indonesia,IDN,1997,6.84280506576593
+Indonesia,IDN,1998,5.69350779254274
+Indonesia,IDN,1999,6.60445694203931
+Indonesia,IDN,2000,6.53199497269296
+Indonesia,IDN,2001,6.8890593699167
+Indonesia,IDN,2002,7.25745833839691
+Indonesia,IDN,2003,8.12948626357009
+Indonesia,IDN,2004,8.32186800551366
+Indonesia,IDN,2005,8.10950772075692
+Indonesia,IDN,2006,8.62716880197776
+Indonesia,IDN,2007,8.34646967931201
+Indonesia,IDN,2008,8.42378092010217
+Indonesia,IDN,2009,9.58917814654342
+Indonesia,IDN,2010,9.00591499311107
+Indonesia,IDN,2011,9.05867718048359
+Indonesia,IDN,2012,9.24878837149533
+Indonesia,IDN,2013,9.51771996272418
+Indonesia,IDN,2014,9.4250257185865
+Indonesia,IDN,2015,9.74941376966575
+Indonesia,IDN,2016,9.52781009028137
+Indonesia,IDN,2017,9.12057115207813
+Indonesia,IDN,2018,9.02123180420785
+Indonesia,IDN,2019,8.80847129067065
+Indonesia,IDN,2020,9.54829643877914
+Indonesia,IDN,2021,9.14339654592787
+Fiji,FJI,1960,
+Fiji,FJI,1961,
+Fiji,FJI,1962,
+Fiji,FJI,1963,
+Fiji,FJI,1964,
+Fiji,FJI,1965,
+Fiji,FJI,1966,
+Fiji,FJI,1967,
+Fiji,FJI,1968,
+Fiji,FJI,1969,
+Fiji,FJI,1970,
+Fiji,FJI,1971,
+Fiji,FJI,1972,
+Fiji,FJI,1973,
+Fiji,FJI,1974,
+Fiji,FJI,1975,
+Fiji,FJI,1976,
+Fiji,FJI,1977,
+Fiji,FJI,1978,
+Fiji,FJI,1979,
+Fiji,FJI,1980,15.9307699572258
+Fiji,FJI,1981,16.3894886363636
+Fiji,FJI,1982,18.3004311119095
+Fiji,FJI,1983,20.2756942500705
+Fiji,FJI,1984,19.1996393005567
+Fiji,FJI,1985,19.173807353388
+Fiji,FJI,1986,17.2785113224328
+Fiji,FJI,1987,17.4105924105924
+Fiji,FJI,1988,16.5910808767952
+Fiji,FJI,1989,17.3227861702728
+Fiji,FJI,1990,17.495505050505
+Fiji,FJI,1991,17.5004407443683
+Fiji,FJI,1992,18.0074678707885
+Fiji,FJI,1993,18.4949058473736
+Fiji,FJI,1994,16.3542329130972
+Fiji,FJI,1995,16.111083041611
+Fiji,FJI,1996,15.8710498125335
+Fiji,FJI,1997,16.8180010604454
+Fiji,FJI,1998,17.4333992997412
+Fiji,FJI,1999,15.9329855011667
+Fiji,FJI,2000,17.296979536993
+Fiji,FJI,2001,17.5013290802764
+Fiji,FJI,2002,16.9560011972463
+Fiji,FJI,2003,16.7660276987985
+Fiji,FJI,2004,15.7443907012422
+Fiji,FJI,2005,15.9376587301587
+Fiji,FJI,2006,18.5725069005013
+Fiji,FJI,2007,17.1785628940644
+Fiji,FJI,2008,15.6259271088892
+Fiji,FJI,2009,16.9148978730373
+Fiji,FJI,2010,14.9772142235141
+Fiji,FJI,2011,17.3220259537126
+Fiji,FJI,2012,18.7285126575544
+Fiji,FJI,2013,18.9384731816098
+Fiji,FJI,2014,19.9360896771784
+Fiji,FJI,2015,20.1151172167146
+Fiji,FJI,2016,18.9231999368509
+Fiji,FJI,2017,18.3413093284565
+Fiji,FJI,2018,19.7667182499005
+Fiji,FJI,2019,19.7976602985596
+Fiji,FJI,2020,20.1409361548814
+Fiji,FJI,2021,20.2065396419876
+Northern Mariana Islands,MNP,1960,
+Northern Mariana Islands,MNP,1961,
+Northern Mariana Islands,MNP,1962,
+Northern Mariana Islands,MNP,1963,
+Northern Mariana Islands,MNP,1964,
+Northern Mariana Islands,MNP,1965,
+Northern Mariana Islands,MNP,1966,
+Northern Mariana Islands,MNP,1967,
+Northern Mariana Islands,MNP,1968,
+Northern Mariana Islands,MNP,1969,
+Northern Mariana Islands,MNP,1970,
+Northern Mariana Islands,MNP,1971,
+Northern Mariana Islands,MNP,1972,
+Northern Mariana Islands,MNP,1973,
+Northern Mariana Islands,MNP,1974,
+Northern Mariana Islands,MNP,1975,
+Northern Mariana Islands,MNP,1976,
+Northern Mariana Islands,MNP,1977,
+Northern Mariana Islands,MNP,1978,
+Northern Mariana Islands,MNP,1979,
+Northern Mariana Islands,MNP,1980,
+Northern Mariana Islands,MNP,1981,
+Northern Mariana Islands,MNP,1982,
+Northern Mariana Islands,MNP,1983,
+Northern Mariana Islands,MNP,1984,
+Northern Mariana Islands,MNP,1985,
+Northern Mariana Islands,MNP,1986,
+Northern Mariana Islands,MNP,1987,
+Northern Mariana Islands,MNP,1988,
+Northern Mariana Islands,MNP,1989,
+Northern Mariana Islands,MNP,1990,
+Northern Mariana Islands,MNP,1991,
+Northern Mariana Islands,MNP,1992,
+Northern Mariana Islands,MNP,1993,
+Northern Mariana Islands,MNP,1994,
+Northern Mariana Islands,MNP,1995,
+Northern Mariana Islands,MNP,1996,
+Northern Mariana Islands,MNP,1997,
+Northern Mariana Islands,MNP,1998,
+Northern Mariana Islands,MNP,1999,
+Northern Mariana Islands,MNP,2000,
+Northern Mariana Islands,MNP,2001,
+Northern Mariana Islands,MNP,2002,
+Northern Mariana Islands,MNP,2003,
+Northern Mariana Islands,MNP,2004,
+Northern Mariana Islands,MNP,2005,
+Northern Mariana Islands,MNP,2006,
+Northern Mariana Islands,MNP,2007,
+Northern Mariana Islands,MNP,2008,
+Northern Mariana Islands,MNP,2009,
+Northern Mariana Islands,MNP,2010,
+Northern Mariana Islands,MNP,2011,
+Northern Mariana Islands,MNP,2012,
+Northern Mariana Islands,MNP,2013,
+Northern Mariana Islands,MNP,2014,
+Northern Mariana Islands,MNP,2015,
+Northern Mariana Islands,MNP,2016,
+Northern Mariana Islands,MNP,2017,
+Northern Mariana Islands,MNP,2018,
+Northern Mariana Islands,MNP,2019,
+Northern Mariana Islands,MNP,2020,
+Northern Mariana Islands,MNP,2021,
+Timor-Leste,TLS,1960,
+Timor-Leste,TLS,1961,
+Timor-Leste,TLS,1962,
+Timor-Leste,TLS,1963,
+Timor-Leste,TLS,1964,
+Timor-Leste,TLS,1965,
+Timor-Leste,TLS,1966,
+Timor-Leste,TLS,1967,
+Timor-Leste,TLS,1968,
+Timor-Leste,TLS,1969,
+Timor-Leste,TLS,1970,
+Timor-Leste,TLS,1971,
+Timor-Leste,TLS,1972,
+Timor-Leste,TLS,1973,
+Timor-Leste,TLS,1974,
+Timor-Leste,TLS,1975,
+Timor-Leste,TLS,1976,
+Timor-Leste,TLS,1977,
+Timor-Leste,TLS,1978,
+Timor-Leste,TLS,1979,
+Timor-Leste,TLS,1980,
+Timor-Leste,TLS,1981,
+Timor-Leste,TLS,1982,
+Timor-Leste,TLS,1983,
+Timor-Leste,TLS,1984,
+Timor-Leste,TLS,1985,
+Timor-Leste,TLS,1986,
+Timor-Leste,TLS,1987,
+Timor-Leste,TLS,1988,
+Timor-Leste,TLS,1989,
+Timor-Leste,TLS,1990,
+Timor-Leste,TLS,1991,
+Timor-Leste,TLS,1992,
+Timor-Leste,TLS,1993,
+Timor-Leste,TLS,1994,
+Timor-Leste,TLS,1995,
+Timor-Leste,TLS,1996,
+Timor-Leste,TLS,1997,
+Timor-Leste,TLS,1998,
+Timor-Leste,TLS,1999,
+Timor-Leste,TLS,2000,133.261788252895
+Timor-Leste,TLS,2001,136.350311607551
+Timor-Leste,TLS,2002,147.718893042421
+Timor-Leste,TLS,2003,102.263339117946
+Timor-Leste,TLS,2004,77.8646924004332
+Timor-Leste,TLS,2005,52.6386400036687
+Timor-Leste,TLS,2006,82.413705795726
+Timor-Leste,TLS,2007,105.192048421928
+Timor-Leste,TLS,2008,111.602736622941
+Timor-Leste,TLS,2009,115.932398418231
+Timor-Leste,TLS,2010,103.173068483439
+Timor-Leste,TLS,2011,89.7167673226936
+Timor-Leste,TLS,2012,84.205518922741
+Timor-Leste,TLS,2013,62.3460967513462
+Timor-Leste,TLS,2014,65.6765312627845
+Timor-Leste,TLS,2015,58.7908926111832
+Timor-Leste,TLS,2016,55.2659927172754
+Timor-Leste,TLS,2017,54.0711348786777
+Timor-Leste,TLS,2018,55.5554531345316
+Timor-Leste,TLS,2019,46.7206938590774
+Timor-Leste,TLS,2020,50.3586087119632
+Timor-Leste,TLS,2021,
+Palau,PLW,1960,
+Palau,PLW,1961,
+Palau,PLW,1962,
+Palau,PLW,1963,
+Palau,PLW,1964,
+Palau,PLW,1965,
+Palau,PLW,1966,
+Palau,PLW,1967,
+Palau,PLW,1968,
+Palau,PLW,1969,
+Palau,PLW,1970,
+Palau,PLW,1971,
+Palau,PLW,1972,
+Palau,PLW,1973,
+Palau,PLW,1974,
+Palau,PLW,1975,
+Palau,PLW,1976,
+Palau,PLW,1977,
+Palau,PLW,1978,
+Palau,PLW,1979,
+Palau,PLW,1980,
+Palau,PLW,1981,
+Palau,PLW,1982,
+Palau,PLW,1983,
+Palau,PLW,1984,
+Palau,PLW,1985,
+Palau,PLW,1986,
+Palau,PLW,1987,
+Palau,PLW,1988,
+Palau,PLW,1989,
+Palau,PLW,1990,
+Palau,PLW,1991,
+Palau,PLW,1992,
+Palau,PLW,1993,
+Palau,PLW,1994,
+Palau,PLW,1995,
+Palau,PLW,1996,
+Palau,PLW,1997,
+Palau,PLW,1998,
+Palau,PLW,1999,
+Palau,PLW,2000,
+Palau,PLW,2001,
+Palau,PLW,2002,
+Palau,PLW,2003,
+Palau,PLW,2004,
+Palau,PLW,2005,
+Palau,PLW,2006,
+Palau,PLW,2007,
+Palau,PLW,2008,
+Palau,PLW,2009,
+Palau,PLW,2010,
+Palau,PLW,2011,
+Palau,PLW,2012,
+Palau,PLW,2013,
+Palau,PLW,2014,
+Palau,PLW,2015,
+Palau,PLW,2016,
+Palau,PLW,2017,
+Palau,PLW,2018,
+Palau,PLW,2019,
+Palau,PLW,2020,
+Palau,PLW,2021,
+New Caledonia,NCL,1960,
+New Caledonia,NCL,1961,
+New Caledonia,NCL,1962,
+New Caledonia,NCL,1963,
+New Caledonia,NCL,1964,
+New Caledonia,NCL,1965,
+New Caledonia,NCL,1966,
+New Caledonia,NCL,1967,
+New Caledonia,NCL,1968,
+New Caledonia,NCL,1969,
+New Caledonia,NCL,1970,
+New Caledonia,NCL,1971,
+New Caledonia,NCL,1972,
+New Caledonia,NCL,1973,
+New Caledonia,NCL,1974,
+New Caledonia,NCL,1975,
+New Caledonia,NCL,1976,
+New Caledonia,NCL,1977,
+New Caledonia,NCL,1978,
+New Caledonia,NCL,1979,
+New Caledonia,NCL,1980,
+New Caledonia,NCL,1981,30.6971907748021
+New Caledonia,NCL,1982,32.9346023854922
+New Caledonia,NCL,1983,34.8630446081554
+New Caledonia,NCL,1984,36.3667989342452
+New Caledonia,NCL,1985,37.8088058276119
+New Caledonia,NCL,1986,40.6528257709354
+New Caledonia,NCL,1987,
+New Caledonia,NCL,1988,
+New Caledonia,NCL,1989,
+New Caledonia,NCL,1990,9.4000000394047
+New Caledonia,NCL,1991,
+New Caledonia,NCL,1992,
+New Caledonia,NCL,1993,
+New Caledonia,NCL,1994,
+New Caledonia,NCL,1995,
+New Caledonia,NCL,1996,
+New Caledonia,NCL,1997,
+New Caledonia,NCL,1998,28.804609993497
+New Caledonia,NCL,1999,27.95141465436
+New Caledonia,NCL,2000,26.8040365021828
+New Caledonia,NCL,2001,28.2921786096715
+New Caledonia,NCL,2002,28.3996951788177
+New Caledonia,NCL,2003,27.1922404614125
+New Caledonia,NCL,2004,25.6264835885424
+New Caledonia,NCL,2005,25.558958282458
+New Caledonia,NCL,2006,24.925194506364
+New Caledonia,NCL,2007,22.9267560998227
+New Caledonia,NCL,2008,25.0014482508118
+New Caledonia,NCL,2009,26.1406041237252
+New Caledonia,NCL,2010,23.8225060000261
+New Caledonia,NCL,2011,23.2948136462236
+New Caledonia,NCL,2012,23.6005064950409
+New Caledonia,NCL,2013,24.1589774850236
+New Caledonia,NCL,2014,23.4297617988349
+New Caledonia,NCL,2015,23.8343005377614
+New Caledonia,NCL,2016,24.4656420375773
+New Caledonia,NCL,2017,23.5149523808541
+New Caledonia,NCL,2018,
+New Caledonia,NCL,2019,
+New Caledonia,NCL,2020,
+New Caledonia,NCL,2021,
+Lao PDR,LAO,1960,
+Lao PDR,LAO,1961,
+Lao PDR,LAO,1962,
+Lao PDR,LAO,1963,
+Lao PDR,LAO,1964,
+Lao PDR,LAO,1965,
+Lao PDR,LAO,1966,
+Lao PDR,LAO,1967,
+Lao PDR,LAO,1968,
+Lao PDR,LAO,1969,
+Lao PDR,LAO,1970,
+Lao PDR,LAO,1971,
+Lao PDR,LAO,1972,
+Lao PDR,LAO,1973,
+Lao PDR,LAO,1974,
+Lao PDR,LAO,1975,
+Lao PDR,LAO,1976,
+Lao PDR,LAO,1977,
+Lao PDR,LAO,1978,
+Lao PDR,LAO,1979,
+Lao PDR,LAO,1980,
+Lao PDR,LAO,1981,
+Lao PDR,LAO,1982,
+Lao PDR,LAO,1983,
+Lao PDR,LAO,1984,6.50406523101329
+Lao PDR,LAO,1985,8.73239427309396
+Lao PDR,LAO,1986,8.64928911588071
+Lao PDR,LAO,1987,8.29831941164333
+Lao PDR,LAO,1988,10.8603065358281
+Lao PDR,LAO,1989,
+Lao PDR,LAO,1990,
+Lao PDR,LAO,1991,
+Lao PDR,LAO,1992,
+Lao PDR,LAO,1993,
+Lao PDR,LAO,1994,
+Lao PDR,LAO,1995,
+Lao PDR,LAO,1996,
+Lao PDR,LAO,1997,
+Lao PDR,LAO,1998,
+Lao PDR,LAO,1999,
+Lao PDR,LAO,2000,6.46156894793158
+Lao PDR,LAO,2001,6.48704579220217
+Lao PDR,LAO,2002,8.90327824267851
+Lao PDR,LAO,2003,7.65853344837623
+Lao PDR,LAO,2004,7.74505555779487
+Lao PDR,LAO,2005,8.16548558881278
+Lao PDR,LAO,2006,7.57232578892573
+Lao PDR,LAO,2007,7.91603668437516
+Lao PDR,LAO,2008,7.7726808115298
+Lao PDR,LAO,2009,13.3794241963031
+Lao PDR,LAO,2010,11.8982241208554
+Lao PDR,LAO,2011,11.564752617949
+Lao PDR,LAO,2012,13.4167137802179
+Lao PDR,LAO,2013,17.0739467616744
+Lao PDR,LAO,2014,15.180548658902
+Lao PDR,LAO,2015,15.1066545135264
+Lao PDR,LAO,2016,13.9709429126153
+Lao PDR,LAO,2017,
+Lao PDR,LAO,2018,
+Lao PDR,LAO,2019,
+Lao PDR,LAO,2020,
+Lao PDR,LAO,2021,
+"Hong Kong SAR, China",HKG,1960,7.81918330940151
+"Hong Kong SAR, China",HKG,1961,6.31790744466801
+"Hong Kong SAR, China",HKG,1962,5.73270404052032
+"Hong Kong SAR, China",HKG,1963,5.44739618298648
+"Hong Kong SAR, China",HKG,1964,5.42563930013459
+"Hong Kong SAR, China",HKG,1965,5.17451444133878
+"Hong Kong SAR, China",HKG,1966,5.69948186528497
+"Hong Kong SAR, China",HKG,1967,6.02261712439418
+"Hong Kong SAR, China",HKG,1968,6.19972176858404
+"Hong Kong SAR, China",HKG,1969,5.77249575551783
+"Hong Kong SAR, China",HKG,1970,5.65653942698866
+"Hong Kong SAR, China",HKG,1971,5.25467561185863
+"Hong Kong SAR, China",HKG,1972,5.29599850991836
+"Hong Kong SAR, China",HKG,1973,5.19031141868512
+"Hong Kong SAR, China",HKG,1974,5.82557154953429
+"Hong Kong SAR, China",HKG,1975,5.99528121155902
+"Hong Kong SAR, China",HKG,1976,5.44524669073406
+"Hong Kong SAR, China",HKG,1977,5.579662682168
+"Hong Kong SAR, China",HKG,1978,5.69933086195239
+"Hong Kong SAR, China",HKG,1979,5.50709462157581
+"Hong Kong SAR, China",HKG,1980,5.62042626671958
+"Hong Kong SAR, China",HKG,1981,6.82344536750049
+"Hong Kong SAR, China",HKG,1982,7.23961123440729
+"Hong Kong SAR, China",HKG,1983,7.39089013765585
+"Hong Kong SAR, China",HKG,1984,6.78074139668387
+"Hong Kong SAR, China",HKG,1985,7.00540758212046
+"Hong Kong SAR, China",HKG,1986,6.97886280321348
+"Hong Kong SAR, China",HKG,1987,6.28011247055247
+"Hong Kong SAR, China",HKG,1988,6.11488255134356
+"Hong Kong SAR, China",HKG,1989,6.32923188173506
+"Hong Kong SAR, China",HKG,1990,6.83664410535731
+"Hong Kong SAR, China",HKG,1991,7.12850577805165
+"Hong Kong SAR, China",HKG,1992,7.62417454437327
+"Hong Kong SAR, China",HKG,1993,7.47628919130836
+"Hong Kong SAR, China",HKG,1994,7.54184887720201
+"Hong Kong SAR, China",HKG,1995,8.02694534256295
+"Hong Kong SAR, China",HKG,1996,8.14433081491879
+"Hong Kong SAR, China",HKG,1997,8.04386916158746
+"Hong Kong SAR, China",HKG,1998,9.02471878502287
+"Hong Kong SAR, China",HKG,1999,9.61198992803741
+"Hong Kong SAR, China",HKG,2000,9.36776869699537
+"Hong Kong SAR, China",HKG,2001,10.2037479695597
+"Hong Kong SAR, China",HKG,2002,10.6355229658201
+"Hong Kong SAR, China",HKG,2003,10.9931095618655
+"Hong Kong SAR, China",HKG,2004,10.3537798350582
+"Hong Kong SAR, China",HKG,2005,9.24606532707798
+"Hong Kong SAR, China",HKG,2006,8.7695421761119
+"Hong Kong SAR, China",HKG,2007,8.41838527317181
+"Hong Kong SAR, China",HKG,2008,8.66870435909614
+"Hong Kong SAR, China",HKG,2009,9.19165041931722
+"Hong Kong SAR, China",HKG,2010,8.85932359491356
+"Hong Kong SAR, China",HKG,2011,8.71145505394354
+"Hong Kong SAR, China",HKG,2012,9.09693828210179
+"Hong Kong SAR, China",HKG,2013,9.28642078655758
+"Hong Kong SAR, China",HKG,2014,9.47856310052411
+"Hong Kong SAR, China",HKG,2015,9.64286905615691
+"Hong Kong SAR, China",HKG,2016,9.95636389333004
+"Hong Kong SAR, China",HKG,2017,9.83027217138145
+"Hong Kong SAR, China",HKG,2018,9.92512949539558
+"Hong Kong SAR, China",HKG,2019,10.8771204597231
+"Hong Kong SAR, China",HKG,2020,12.6971637721778
+"Hong Kong SAR, China",HKG,2021,12.5389814161209
