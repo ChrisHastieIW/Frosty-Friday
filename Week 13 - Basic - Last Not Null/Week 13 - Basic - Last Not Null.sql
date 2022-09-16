@@ -1,6 +1,6 @@
 
 -- Frosty Friday Challenge
--- Week 13 - Basic - Filldown
+-- Week 13 - Basic - Last Not Null
 -- https://frostyfriday.org/2022/09/09/week-13-basic-snowflake-intermediate-non-snowflake/
 
 -------------------------------
