@@ -48,15 +48,17 @@ select * from TESTING_DATA;
 create or replace view JSON_VIEW
 as
 select
-  TO_JSON(OBJECT_CONSTRUCT(
-      'country_of_residence', country_of_residence
-    , 'superhero_name', superhero_name
-    , 'superpowers', ARRAY_CONSTRUCT_COMPACT(
-          superpower
-        , second_superpower
-        , third_superpower
-      )
-  )) as superhero_json
+  TO_JSON(
+    OBJECT_CONSTRUCT(
+        'country_of_residence', country_of_residence
+      , 'superhero_name', superhero_name
+      , 'superpowers', ARRAY_CONSTRUCT_COMPACT(
+            superpower
+          , second_superpower
+          , third_superpower
+        )
+    )
+  ) as superhero_json
 from TESTING_DATA
 ;
 
