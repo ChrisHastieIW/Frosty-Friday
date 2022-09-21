@@ -6,7 +6,7 @@
 ## Import required modules
 import streamlit
 import pandas
-from shared.snowpark.snowpark_session_builder import build_snowpark_session_via_streamlit_secrets
+from shared.interworks_snowpark.snowpark_session_builder import build_snowpark_session_via_streamlit_secrets
 
 ## Define a function to retrieve the data objects from Snowflake.
 ## According to https://docs.streamlit.io/library/get-started/main-concepts
