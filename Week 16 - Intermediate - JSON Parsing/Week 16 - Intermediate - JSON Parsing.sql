@@ -1,6 +1,6 @@
 
 -- Frosty Friday Challenge
--- Week 4 - Hard - JSON Parsing
+-- Week 16 - Intermediate - JSON Parsing
 -- https://frostyfriday.org/2022/09/30/week-16-intermediate/
 
 -------------------------------
