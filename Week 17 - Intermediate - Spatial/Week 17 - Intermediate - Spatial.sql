@@ -197,3 +197,8 @@ select *
 from GROUP_BOUNDARIES_WKT
 limit 100
 ;
+
+-- Retrieve single multipolygon from view to populate WKT plotting tool
+select st_aswkt(st_collect(BOUNDING_POLYGON)) as BOUNDING_POLYGONS_WKT
+from GROUP_BOUNDARIES_WKT
+;
