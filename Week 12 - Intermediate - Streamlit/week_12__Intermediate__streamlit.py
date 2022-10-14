@@ -7,7 +7,7 @@
 import streamlit
 import pandas
 from io import BytesIO 
-from shared.interworks_snowpark.snowpark_session_builder import build_snowpark_session_via_streamlit_secrets
+from shared.interworks_snowpark.interworks_snowpark_python.snowpark_session_builder import build_snowpark_session_via_streamlit_secrets
 
 ## Build a snowpark session using Streamlit secrets
 snowpark_session = build_snowpark_session_via_streamlit_secrets()

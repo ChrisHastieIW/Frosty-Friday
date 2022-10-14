@@ -1,0 +1,10 @@
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+  - defaults
+dependencies:
+  - cryptography
+  - snowflake-snowpark-python[pandas]
+  - streamlit
+  - scikit-learn
+  - pip:
+    - snowflake-ingest

@@ -10,6 +10,7 @@ so assumptions have been made that the key is in pkcs8 PEM format
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives import serialization
 
+## Define function to encode the passphrase for a private key
 def encode_private_key_passphrase(
     private_key_passphrase: str = None
   ):
@@ -22,12 +23,13 @@ def encode_private_key_passphrase(
 
   return private_key_passphrase_encoded
 
-def parse_private_key_from_bytes(
+## Define function to load a private key
+def load_private_key_from_bytes(
       private_key_encoded: bytes
     , private_key_passphrase_encoded: bytes = None
   ):
   
-  ### Retrieve private key from path, leveraging passphrase if needed
+  ### Load private key, leveraging passphrase if needed
   private_key_loaded = serialization.load_pem_private_key(
       private_key_encoded
     , password = private_key_passphrase_encoded
@@ -41,7 +43,7 @@ def serialize_loaded_private_key(
     private_key_loaded: bytes
   ):
 
-  ### Encrypt private key
+  ### Serialize loaded private key
   private_key_serialized = private_key_loaded.private_bytes(
       encoding = serialization.Encoding.DER
     , format = serialization.PrivateFormat.PKCS8
@@ -50,12 +52,12 @@ def serialize_loaded_private_key(
 
   return private_key_serialized
 
-## Define function to serialize an loaded private key
+## Define function to decode a loaded private key
 def decode_loaded_private_key(
     private_key_loaded: bytes
   ):
 
-  ### Encrypt private key
+  ### Decode loaded private key
   private_key_decoded = private_key_loaded.private_bytes(
       encoding = serialization.Encoding.PEM
     , format = serialization.PrivateFormat.PKCS8
@@ -80,7 +82,7 @@ def serialize_encoded_private_key(
   private_key_passphrase_encoded = encode_private_key_passphrase(private_key_passphrase)
   
   ### Retrieve private key from path, leveraging passphrase if needed
-  private_key_loaded = parse_private_key_from_bytes(private_key_encoded, private_key_passphrase_encoded)
+  private_key_loaded = load_private_key_from_bytes(private_key_encoded, private_key_passphrase_encoded)
 
   ### Encrypt private key
   if private_key_output_format == 'snowpipe' :

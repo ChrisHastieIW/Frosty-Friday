@@ -1,5 +1,4 @@
-
+cryptography
 snowflake-snowpark-python[pandas]
+snowflake-ingest
 streamlit
-pandas
-scikit-learn
