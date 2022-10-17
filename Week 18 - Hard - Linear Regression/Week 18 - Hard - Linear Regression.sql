@@ -91,8 +91,8 @@ class generate_linear_regression_predictions :
 
     # Determine forecast range
     periods_to_forecast = self._periods_to_forecast
-    # Leverage list comprehension to generate desired yearss
-    list_of_years_to_predict = [df_input["YEAR"].iloc[-1] + x for x in range(periods_to_forecast)]
+    # Leverage list comprehension to generate desired years
+    list_of_years_to_predict = [df_input["YEAR"].iloc[-1] + x + 1 for x in range(periods_to_forecast)]
     
     prediction_input = [[x] for x in list_of_years_to_predict]
     
@@ -155,8 +155,8 @@ with input as (
   WHERE "Table Name" = 'Price Indexes For Personal Consumption Expenditures By Major Type Of Product'
     AND "Indicator Name" = 'Personal consumption expenditures (PCE)'
     AND "Frequency" = 'A'
-    --AND "Date" >= '1972-01-01'
-    --AND "Date" < '2021-01-01' 
+    AND "Date" >= '1972-01-01'
+    AND "Date" < '2021-01-01' 
   ORDER BY "Date" ASC
 )
 select
@@ -180,10 +180,12 @@ where "YEAR" >= 2015 -- Only interested in final records
 /*
 My output deliberately includes 2021 again for comparison.
 
-The challenge expects a 2021 value of 116.23 for this prediction, which I am not seeing. 
-I have tried filtering to 1972 onwards like in the suggested quickstart 
-https://quickstarts.snowflake.com/guide/data_apps_summit_lab/
-but then I get a value of 116.18.
+The challenge expects a 2021 value of 116.23 for this prediction, whilst I see a value of 116.22.
 
-I have attempted several different filters for the input data and none reach the desired 116.23 so I think I must be missing a specific input.
+Comparing the results and values with the original Snowflake Quick Starts code
+https://github.com/Snowflake-Labs/sfquickstarts/blob/master/site/sfguides/src/data_apps_summit_lab/assets/project_files/my_snowpark_pce.ipynb
+it appears the original data itself has changed in very small volumes.
+For example, the actual value for 2019 is now 109.933 when it used to be 109.922
+
+I believe this means my solution is correct and the input data itself has simply changed since the challenge was encoded.
 */
