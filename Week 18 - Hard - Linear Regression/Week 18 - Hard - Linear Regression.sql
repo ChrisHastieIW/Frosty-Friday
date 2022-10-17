@@ -178,8 +178,6 @@ where "YEAR" >= 2015 -- Only interested in final records
 -- Not seeing challenge values
 
 /*
-My output deliberately includes 2021 again for comparison.
-
 The challenge expects a 2021 value of 116.23 for this prediction, whilst I see a value of 116.22.
 
 Comparing the results and values with the original Snowflake Quick Starts code
