@@ -1,7 +1,9 @@
 
 -- Frosty Friday Challenge
--- Week 19 - Basic - Dates
+-- Week 19 - Basic - Dates - SQL
 -- https://frostyfriday.org/2022/10/21/week-19-basic/
+
+-- This version of the solution leverages a SQL UDF
 
 -------------------------------
 -- Environment Configuration
@@ -51,6 +53,7 @@ SELECT
      WHEN 6 THEN 'Saturday'
     END as "DAY_NAME"
   , TO_VARCHAR("DATE", 'DY') as "DAY_NAME_SHORT"
+  , "DAY_OF_WEEK" BETWEEN 1 and 5 AS "WORKING_DAY_FLAG"
 FROM "GAPLESS_ROW_NUMBERS"
 WHERE "YEAR" < 2100 -- WHERE clause then restricts back to desired timeframe since 366 days per year when generating row numbers is too many
 ;
@@ -98,38 +101,18 @@ SELECT * FROM TESTING_DATA;
 ------------------------------------------------------------------
 -- Create the UDF
 
-CREATE OR REPLACE FUNCTION CALCULATE_BUSINESS_DAYS (
+CREATE OR REPLACE FUNCTION CALCULATE_BUSINESS_DAYS_SQL (
       INPUT_START_DATE DATE
     , INPUT_END_DATE DATE
     , INPUT_INCLUDE_END_DATE BOOLEAN
   )
   returns INT NOT NULL
-  language python
-  runtime_version = '3.8'
-  packages = ('numpy')
-  handler = 'calculate_business_days'
 as
 $$
-
-# Import modules
-import numpy
-from datetime import date
-from datetime import timedelta
-
-# Define handler function
-def calculate_business_days(
-      input_start_date: date
-    , input_end_date: date
-    , input_include_end_date: bool
-  ) :
-
-  ## Determine calculation's end date
-  calc_end_date = input_end_date
-  if input_include_end_date :
-    calc_end_date = input_end_date + timedelta(days=1)
-    
-  ## Return number of business days
-  return numpy.busday_count(input_start_date, calc_end_date)
+  SELECT COUNT(*)
+  FROM "DIM_DATE"
+  WHERE "WORKING_DAY_FLAG"
+    AND "DATE" BETWEEN INPUT_START_DATE AND (INPUT_END_DATE - (1 - INPUT_INCLUDE_END_DATE::INT))
 $$
 ;
 
@@ -137,13 +120,13 @@ $$
 -- Testing
 
 select
-    CALCULATE_BUSINESS_DAYS('2020-11-2', '2020-11-6', true)
-  , CALCULATE_BUSINESS_DAYS('2020-11-2', '2020-11-6', false)
+    CALCULATE_BUSINESS_DAYS_SQL('2020-11-2', '2020-11-6', true)
+  , CALCULATE_BUSINESS_DAYS_SQL('2020-11-2', '2020-11-6', false)
 ;
 
 select
     *
-  , CALCULATE_BUSINESS_DAYS(START_DATE, END_DATE, true)
-  , CALCULATE_BUSINESS_DAYS(START_DATE, END_DATE, false)
+  , CALCULATE_BUSINESS_DAYS_SQL(START_DATE, END_DATE, true)
+  , CALCULATE_BUSINESS_DAYS_SQL(START_DATE, END_DATE, false)
 FROM TESTING_DATA
 ;
