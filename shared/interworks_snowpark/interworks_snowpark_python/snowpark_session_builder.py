@@ -5,6 +5,16 @@
 from snowflake.snowpark import Session
 
 ## Define function to build a Snowpark session
+def build_snowpark_session_from_connection_parameters(
+    snowflake_connection_parameters: dict
+  ) :
+
+  ### Create session to connect to Snowflake
+  snowpark_session = Session.builder.configs(snowflake_connection_parameters).create()
+
+  return snowpark_session
+
+## Define function to build a Snowpark session
 ## leveraging a locally-stored JSON file
 ## containing Snowflake connection parameters
 def build_snowpark_session_via_parameters_json(
@@ -18,7 +28,7 @@ def build_snowpark_session_via_parameters_json(
   snowflake_connection_parameters = import_snowflake_connection_parameters_from_local_json(snowflake_connection_parameters_json_filepath, private_key_output_format = 'snowpark')
 
   ### Create session to connect to Snowflake
-  snowpark_session = Session.builder.configs(snowflake_connection_parameters).create()
+  snowpark_session = build_snowpark_session_from_connection_parameters(snowflake_connection_parameters)
 
   return snowpark_session
 
@@ -34,7 +44,7 @@ def build_snowpark_session_via_streamlit_secrets():
   snowflake_connection_parameters = import_snowflake_connection_parameters_from_streamlit_secrets(private_key_output_format = 'snowpark')
 
   ### Create session to connect to Snowflake
-  snowpark_session = Session.builder.configs(snowflake_connection_parameters).create()
+  snowpark_session = build_snowpark_session_from_connection_parameters(snowflake_connection_parameters)
 
   return snowpark_session
 
@@ -50,7 +60,7 @@ def build_snowpark_session_via_environment_variables():
   snowflake_connection_parameters = import_snowflake_connection_parameters_from_environment_variables(private_key_output_format = 'snowpark')
 
   ### Create session to connect to Snowflake
-  snowpark_session = Session.builder.configs(snowflake_connection_parameters).create()
+  snowpark_session = build_snowpark_session_from_connection_parameters(snowflake_connection_parameters)
 
   return snowpark_session
 
@@ -84,6 +94,6 @@ def build_snowpark_session_via_parameters_object(
   snowflake_connection_parameters = retrieve_snowflake_connection_parameters(imported_connection_parameters, private_key_output_format = 'snowpark')
 
   ### Create session to connect to Snowflake
-  snowpark_session = Session.builder.configs(snowflake_connection_parameters).create()
+  snowpark_session = build_snowpark_session_from_connection_parameters(snowflake_connection_parameters)
 
   return snowpark_session
