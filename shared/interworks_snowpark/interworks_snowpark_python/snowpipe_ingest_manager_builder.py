@@ -69,6 +69,44 @@ def build_snowpipe_ingest_manager_via_environment_variables(
 
   return snowpipe_ingest_manager
 
+## Define function to build a snowpipe ingest manager
+## leveraging an inbound dictionary argument
+## containing Snowflake connection parameters
+def build_snowpipe_ingest_manager_via_parameters_object(
+      imported_connection_parameters: dict
+    , target_pipe_name : str = None
+  ):
+
+  '''
+  imported_connection_parameters is expected in the following format:
+  {
+    "account": "<account>[.<region>][.<cloud provider>]",
+    "user": "<username>",
+    "default_role" : "<default role>", // Enter "None" if not required
+    "default_warehouse" : "<default warehouse>", // Enter "None" if not required
+    "default_database" : "<default database>", // Enter "None" if not required
+    "default_schema" : "<default schema>", // Enter "None" if not required
+    "private_key_path" : "path\\to\\private\\key", // Enter "None" if not required, in which case private key plain text or password will be used
+    "private_key_plain_text" : "-----BEGIN PRIVATE KEY-----\nprivate\nkey\nas\nplain\ntext\n-----END PRIVATE KEY-----", // Not best practice but may be required in some cases. Ignored if private key path is provided
+    "private_key_passphrase" : "<passphrase>", // Enter "None" if not required
+    "password" : "<password>" // Enter "None" if not required, ignored if private key path or private key plain text is provided
+  }
+  '''
+
+  from .leverage_snowflake_connection_parameters_dictionary import retrieve_snowflake_connection_parameters
+
+  snowflake_connection_parameters = retrieve_snowflake_connection_parameters(imported_connection_parameters, private_key_output_format = 'snowpipe')
+
+  snowpipe_ingest_manager = SimpleIngestManager(
+      account=snowflake_connection_parameters["account"]
+    , host=f'{snowflake_connection_parameters["account"]}.snowflakecomputing.com'
+    , user=snowflake_connection_parameters["user"]
+    , pipe=target_pipe_name
+    , private_key=snowflake_connection_parameters["private_key"]
+  )
+
+  return snowpipe_ingest_manager
+
 ## Define function to trigger a snowpipe ingestion
 def trigger_snowpipe_ingestion(
       snowpipe_ingest_manager: SimpleIngestManager
