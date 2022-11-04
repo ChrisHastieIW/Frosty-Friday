@@ -1,6 +1,6 @@
 
 -- Frosty Friday Challenge
--- Week 21 - Easy - Pivoting
+-- Week 21 - Basic - Pivoting
 -- https://frostyfriday.org/2022/11/04/week-21-basic/
 
 -------------------------------
