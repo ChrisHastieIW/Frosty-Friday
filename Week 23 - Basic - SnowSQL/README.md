@@ -29,3 +29,9 @@ Here is a screenshot of part of the output:
 After ingesting the files in SnowSQL, we can see the ingested files with a `LIST` command:
 
 ![List results](./images/list_results.png)
+
+## Final Select Results
+
+After ingesting the data, the final results table sample is as follows:
+
+![Final results](./images/final_results.png)
