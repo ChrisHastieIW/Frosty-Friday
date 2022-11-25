@@ -75,7 +75,7 @@ def streamlit_app() :
   ### Built date filter
   date_filter = payments_df["Payment Date"].between(selected_min_payment_week, selected_max_payment_week, inclusive="both") 
   
-  ### Build the sliders for min and max payment date
+  ### Build the dropdown box for card types
   selected_card_type = streamlit.sidebar.selectbox(
       label = 'Select a card type'
     , options = card_types
