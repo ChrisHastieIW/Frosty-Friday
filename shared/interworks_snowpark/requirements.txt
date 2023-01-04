@@ -1,4 +1,0 @@
-cryptography
-snowflake-snowpark-python[pandas]
-snowflake-ingest
-streamlit
