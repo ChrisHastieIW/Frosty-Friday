@@ -1,0 +1,3 @@
+[submodule "shared/interworks_snowpark"]
+	path = shared/interworks_snowpark
+	url = git@github.com:interworks/InterWorks-Snowpark-for-Python.git
