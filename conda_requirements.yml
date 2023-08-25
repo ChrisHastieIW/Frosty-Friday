@@ -8,5 +8,6 @@ dependencies:
   - pandas
   - streamlit
   - scikit-learn
+  - ipykernel
   - pip:
     - snowflake-ingest
