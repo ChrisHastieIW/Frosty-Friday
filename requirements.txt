@@ -1,5 +1,8 @@
 
 snowflake-snowpark-python[pandas]
-streamlit
+snowflake-ml-python
+cryptography
 pandas
+streamlit
 scikit-learn
+snowflake-ingest

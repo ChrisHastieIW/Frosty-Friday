@@ -2,8 +2,10 @@ channels:
   - https://repo.anaconda.com/pkgs/snowflake
   - defaults
 dependencies:
-  - cryptography
   - snowflake-snowpark-python[pandas]
+  - snowflake-ml-python
+  - cryptography
+  - pandas
   - streamlit
   - scikit-learn
   - pip:
