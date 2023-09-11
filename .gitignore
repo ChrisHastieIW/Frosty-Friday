@@ -4,3 +4,4 @@ __pycache__*
 .streamlit*
 Week 23 - Basic - SnowSQL/Files to ingest/*
 .venv
+local_scratch*
