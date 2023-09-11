@@ -4,8 +4,8 @@
 # https://frostyfriday.org/2022/11/25/week-24-intermediate/
 
 ## Import required modules
-import streamlit
-import pandas
+import streamlit as st
+import pandas as pd
 from shared.interworks_snowpark.interworks_snowpark_python.snowpark_session_builder import build_snowpark_session_via_streamlit_secrets
 import snowflake.snowpark
 
@@ -18,7 +18,7 @@ def execute_show_command(object_type: str) :
   ### Return nothing if object type is "None",
   ### otherwise execute SHOW command
   if object_type == "None" :
-    df_show_results = pandas.DataFrame()
+    df_show_results = pd.DataFrame()
 
   elif object_type == "Grants" :
     #### Execute the SHOW command for the object into
@@ -27,7 +27,7 @@ def execute_show_command(object_type: str) :
     sf_df_show_results = snowpark_session.sql(f'''
         SHOW {object_type.upper()} ON ACCOUNT 
       ''')
-    df_show_results = pandas.DataFrame(data=sf_df_show_results.collect())
+    df_show_results = pd.DataFrame(data=sf_df_show_results.collect())
 
   else:
     #### Execute the SHOW command for the object into
@@ -36,7 +36,7 @@ def execute_show_command(object_type: str) :
     sf_df_show_results = snowpark_session.sql(f'''
         SHOW {object_type.upper()} IN ACCOUNT 
       ''')
-    df_show_results = pandas.DataFrame(data=sf_df_show_results.collect())
+    df_show_results = pd.DataFrame(data=sf_df_show_results.collect())
 
   ### Only return results if resultset is not empty
   if len(df_show_results) > 0 :
@@ -48,24 +48,24 @@ def execute_show_command(object_type: str) :
 def build_sidebar() :
   
   ### Insert header image
-  streamlit.sidebar.image('https://interworks.com/logo/logos/pngs/white/IWstacked.png')
+  st.sidebar.image('https://interworks.com/logo/logos/pngs/white/IWstacked.png')
 
   ### Define list of object types for dropdown
   object_types = ["None", "Shares", "Roles", "Grants", "Users", "Warehouses", "Databases", "Schemas", "Tables", "Views"]
 
   ### Build the dropdown box for object types
-  selected_object_type = streamlit.sidebar.selectbox(
+  selected_object_type = st.sidebar.selectbox(
       label = 'Select which account info you would like to see'
     , options = object_types
   )
 
   ### Pad sidebar (cheat as I can't figure out how to make footer text)
   for x in range(len(object_types)*2):
-    streamlit.sidebar.write('')
+    st.sidebar.write('')
 
   ### Insert footer text
-  streamlit.sidebar.write(f"App created using Snowpark version {snowflake.snowpark.__version__}")
-  streamlit.sidebar.write(f"App created using streamlit version {streamlit.__version__}")
+  st.sidebar.write(f"App created using Snowpark version {snowflake.snowpark.__version__}")
+  st.sidebar.write(f"App created using streamlit version {st.__version__}")
 
   return selected_object_type
 
@@ -76,14 +76,14 @@ def streamlit_app() :
   selected_object_type = build_sidebar()
   
   ### Write the title and text
-  streamlit.title('# Snowflake Account Info App')
-  streamlit.write('Use this app to quickly see high-level info about your Snowflake account')
+  st.title('# Snowflake Account Info App')
+  st.write('Use this app to quickly see high-level info about your Snowflake account')
 
   ### Execute the relevant SHOW command in Snowflake
   df_show_results = execute_show_command(selected_object_type)
 
   ### Write the SHOW results into streamlit
-  streamlit.write(df_show_results)
+  st.write(df_show_results)
 
 ## Call the function for the streamlit app
 streamlit_app()

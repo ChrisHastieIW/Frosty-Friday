@@ -47,7 +47,7 @@ as
 $$
 
 # Import modules
-import pandas
+import pandas as pd
 from sklearn.linear_model import LinearRegression
 from datetime import date
 
@@ -79,10 +79,10 @@ class generate_linear_regression_predictions :
   def end_partition(self) :
 
     # Convert inputs to DataFrame
-    df_input = pandas.DataFrame(data=self._data, columns=["YEAR", "TYPE", "MEASURE"])
+    df_input = pd.DataFrame(data=self._data, columns=["YEAR", "TYPE", "MEASURE"])
 
     # Determine inputs for linear regression model
-    # x = pandas.DatetimeIndex(df_input["DATE"]).year.to_numpy().reshape(-1, 1)
+    # x = pd.DatetimeIndex(df_input["DATE"]).year.to_numpy().reshape(-1, 1)
     x = df_input["YEAR"].to_numpy().reshape(-1, 1)
     y = df_input["MEASURE"].to_numpy()
 
@@ -98,27 +98,27 @@ class generate_linear_regression_predictions :
     
     # Generate predictions and create a df
     predicted_values = model.predict(prediction_input)
-    predicted_values_formatted = pandas.to_numeric(predicted_values).round(2).astype(float)
-    df_predictions = pandas.DataFrame(
+    predicted_values_formatted = pd.to_numeric(predicted_values).round(2).astype(float)
+    df_predictions = pd.DataFrame(
         data=predicted_values_formatted
       , columns=["MEASURE"]
     )
 
     # Create df for prediction year
-    df_prediction_years = pandas.DataFrame(
+    df_prediction_years = pd.DataFrame(
         data=list_of_years_to_predict
       , columns=["YEAR"]
     )
 
     # Create df for prediction type
     prediction_type_list = ["PREDICTION" for x in list_of_years_to_predict]
-    df_prediction_type = pandas.DataFrame(
+    df_prediction_type = pd.DataFrame(
         data=prediction_type_list
       , columns=["TYPE"]
     )
 
     # Combine predicted dfs into single df
-    df_predictions_combined = pandas.concat([df_prediction_years, df_prediction_type, df_predictions], axis = 1) \
+    df_predictions_combined = pd.concat([df_prediction_years, df_prediction_type, df_predictions], axis = 1) \
       [["YEAR", "TYPE", "MEASURE"]]
 
     # Adjust test index to align with
@@ -126,7 +126,7 @@ class generate_linear_regression_predictions :
     df_predictions.index += len(df_input)
 
     # Combine predicted values with original
-    df_output = pandas.concat([df_input, df_predictions_combined], axis = 0) \
+    df_output = pd.concat([df_input, df_predictions_combined], axis = 0) \
       [["YEAR", "TYPE", "MEASURE"]]
 
     # Output the result

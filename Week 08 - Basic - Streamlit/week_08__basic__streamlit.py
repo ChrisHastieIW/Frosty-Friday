@@ -4,14 +4,14 @@
 # https://frostyfriday.org/2022/08/05/week-8-basic/
 
 ## Import required modules
-import streamlit
-import pandas
+import streamlit as st
+import pandas as pd
 from shared.interworks_snowpark.interworks_snowpark_python.snowpark_session_builder import build_snowpark_session_via_streamlit_secrets
 
 ## Define a function to retrieve the data objects from Snowflake.
-## According to https://docs.streamlit.io/library/get-started/main-concepts
-## under "Caching", the decorator @streamlit.cache will cache the results of the function
-@streamlit.cache 
+## According to https://docs.st.io/library/get-started/main-concepts
+## under "Caching", the decorator @st.cache will cache the results of the function
+@st.cache 
 def retrieve_data_objects() :
   ## Build a snowpark session using Streamlit secrets
   snowpark_session = build_snowpark_session_via_streamlit_secrets()
@@ -32,8 +32,8 @@ def retrieve_data_objects() :
   ## Frustratingly, it appears that we must convert the date field
   ## into a date object. I have attempted using .infer_objects()
   ## and this also thinks the date field is a string
-  payments_df_pd["Payment Date"] = pandas.to_datetime(payments_df_pd["Payment Date"], yearfirst=True).dt.date
-  payments_df_pd["Payment Week"] = pandas.to_datetime(payments_df_pd["Payment Week"], yearfirst=True).dt.date
+  payments_df_pd["Payment Date"] = pd.to_datetime(payments_df_pd["Payment Date"], yearfirst=True).dt.date
+  payments_df_pd["Payment Week"] = pd.to_datetime(payments_df_pd["Payment Week"], yearfirst=True).dt.date
 
   ### Note: If we wanted all fields we could have captured the whole table:
   ### payments_df_sf = snowpark_session.table('CH_FROSTY_FRIDAY.WEEK_8.PAYMENTS')
@@ -56,16 +56,16 @@ payments_df, min_payment_week, max_payment_week, card_types = retrieve_data_obje
 def streamlit_app() :
 
   ### Write a title (apparently this supports Markdown!)
-  streamlit.write('# Payments in 2021')
+  st.write('# Payments in 2021')
 
   ### Build the sliders for min and max payment date
-  selected_min_payment_week = streamlit.sidebar.slider(
+  selected_min_payment_week = st.sidebar.slider(
       label = 'Select minimum payment week'
     , min_value = min_payment_week
     , max_value = max_payment_week
     , value = min_payment_week
   )
-  selected_max_payment_week = streamlit.sidebar.slider(
+  selected_max_payment_week = st.sidebar.slider(
       label = 'Select maximum payment week'
     , min_value = min_payment_week
     , max_value = max_payment_week
@@ -76,7 +76,7 @@ def streamlit_app() :
   date_filter = payments_df["Payment Date"].between(selected_min_payment_week, selected_max_payment_week, inclusive="both") 
   
   ### Build the dropdown box for card types
-  selected_card_type = streamlit.sidebar.selectbox(
+  selected_card_type = st.sidebar.selectbox(
       label = 'Select a card type'
     , options = card_types
   )
@@ -91,10 +91,10 @@ def streamlit_app() :
   grouped_filtered_payments_df = filtered_payments_df.groupby(["Payment Week"])["Amount Spent"].sum()
 
   ### Optional - Write table for validation
-  # streamlit.write(filtered_payments_df)
+  # st.write(filtered_payments_df)
   
   ### Draw the line chart
-  streamlit.line_chart(grouped_filtered_payments_df)
+  st.line_chart(grouped_filtered_payments_df)
 
 ## Call the function for the streamlit app
 streamlit_app()

@@ -41,7 +41,7 @@ $$
 from snowflake.snowpark import session as snowpark_session
 
 # Import required modules
-import pandas
+import pandas as pd
 
 # Define function to clone the schema
 def clone_schema(
@@ -93,7 +93,7 @@ def retrieve_schema_grants(
       SHOW GRANTS ON SCHEMA "{source_database}"."{source_schema}"
     ''')
 
-  df_schema_grants = pandas.DataFrame(data=sf_df_schema_grants.collect())
+  df_schema_grants = pd.DataFrame(data=sf_df_schema_grants.collect())
 
   schema_grants_list = df_schema_grants.to_dict('records')
   
