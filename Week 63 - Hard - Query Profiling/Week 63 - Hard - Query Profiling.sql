@@ -105,22 +105,56 @@ select $target_query_id;
 -- Write a query that leverages the
 -- get_query_operator_stats function
 -- to identify explosive joins
-with all_join_details as (
-  select
-      OPERATOR_ATTRIBUTES:"equality_join_condition" as EQUALITY_JOIN_CONDITION
-    , OPERATOR_STATISTICS:"input_rows"::int as INPUT_ROW_COUNT
-    , OPERATOR_STATISTICS:"output_rows"::int as OUTPUT_ROW_COUNT
-
-    -- Calculate ROW_MULTIPLIER with a contingency
-    -- to avoid dividing by zero
-    , case when INPUT_ROW_COUNT = 0
-        then 0
-        else OUTPUT_ROW_COUNT / INPUT_ROW_COUNT
-      end as ROW_MULTIPLIER
-      
+with all_query_operator_stats as (
+  select *
   from table(get_query_operator_stats($target_query_id))
+)
+-- Identify all join operators
+, all_joins as (
+  select
+      OPERATOR_ID
+    , OPERATOR_ATTRIBUTES:"equality_join_condition" as EQUALITY_JOIN_CONDITION
+    , OPERATOR_STATISTICS:"output_rows"::int as OUTPUT_ROW_COUNT
+  from all_query_operator_stats
   where OPERATOR_TYPE = 'Join'
 )
+-- Identify the output row count
+-- of all operators that feed a join,
+-- and determine the maximum feeding row count
+, all_join_max_feeding_row_counts as (
+  select
+      all_joins.OPERATOR_ID
+    , max(OPERATOR_STATISTICS:"output_rows"::int) as MAX_FEEDING_ROW_COUNT
+  from all_query_operator_stats
+    join all_joins
+  where
+      array_contains(
+          all_joins.OPERATOR_ID
+        , all_query_operator_stats.PARENT_OPERATORS
+      )
+  group by all
+)
+-- Combine the max feeding row count
+-- and the output row count of each join
+-- to determine the row multiplier
+, all_join_details as (
+  select
+      all_joins.OPERATOR_ID
+    , all_joins.EQUALITY_JOIN_CONDITION
+    , all_joins.OUTPUT_ROW_COUNT
+    , all_join_max_feeding_row_counts.MAX_FEEDING_ROW_COUNT
+    
+    -- Calculate ROW_MULTIPLIER with a contingency
+    -- to avoid dividing by zero
+    , case when MAX_FEEDING_ROW_COUNT = 0
+        then 0
+        else OUTPUT_ROW_COUNT / MAX_FEEDING_ROW_COUNT
+      end as ROW_MULTIPLIER
+  from all_joins
+    join all_join_max_feeding_row_counts
+      using (OPERATOR_ID)
+)
+-- Filter to explosive joins only
 select
     EQUALITY_JOIN_CONDITION as GUILTY_JOIN
   , ROW_MULTIPLIER
@@ -136,22 +170,56 @@ create or replace function IDENTIFY_EXPLOSIVE_JOINS(target_query_id string)
   )
 as
 $$
-with all_join_details as (
-  select
-      OPERATOR_ATTRIBUTES:"equality_join_condition" as EQUALITY_JOIN_CONDITION
-    , OPERATOR_STATISTICS:"input_rows"::int as INPUT_ROW_COUNT
-    , OPERATOR_STATISTICS:"output_rows"::int as OUTPUT_ROW_COUNT
-
-    -- Calculate ROW_MULTIPLIER with a contingency
-    -- to avoid dividing by zero
-    , case when INPUT_ROW_COUNT = 0
-        then 0
-        else OUTPUT_ROW_COUNT / INPUT_ROW_COUNT
-      end as ROW_MULTIPLIER
-      
+with all_query_operator_stats as (
+  select *
   from table(get_query_operator_stats(TARGET_QUERY_ID))
+)
+-- Identify all join operators
+, all_joins as (
+  select
+      OPERATOR_ID
+    , OPERATOR_ATTRIBUTES:"equality_join_condition" as EQUALITY_JOIN_CONDITION
+    , OPERATOR_STATISTICS:"output_rows"::int as OUTPUT_ROW_COUNT
+  from all_query_operator_stats
   where OPERATOR_TYPE = 'Join'
 )
+-- Identify the output row count
+-- of all operators that feed a join,
+-- and determine the maximum feeding row count
+, all_join_max_feeding_row_counts as (
+  select
+      all_joins.OPERATOR_ID
+    , max(OPERATOR_STATISTICS:"output_rows"::int) as MAX_FEEDING_ROW_COUNT
+  from all_query_operator_stats
+    join all_joins
+  where
+      array_contains(
+          all_joins.OPERATOR_ID
+        , all_query_operator_stats.PARENT_OPERATORS
+      )
+  group by all
+)
+-- Combine the max feeding row count
+-- and the output row count of each join
+-- to determine the row multiplier
+, all_join_details as (
+  select
+      all_joins.OPERATOR_ID
+    , all_joins.EQUALITY_JOIN_CONDITION
+    , all_joins.OUTPUT_ROW_COUNT
+    , all_join_max_feeding_row_counts.MAX_FEEDING_ROW_COUNT
+    
+    -- Calculate ROW_MULTIPLIER with a contingency
+    -- to avoid dividing by zero
+    , case when MAX_FEEDING_ROW_COUNT = 0
+        then 0
+        else OUTPUT_ROW_COUNT / MAX_FEEDING_ROW_COUNT
+      end as ROW_MULTIPLIER
+  from all_joins
+    join all_join_max_feeding_row_counts
+      using (OPERATOR_ID)
+)
+-- Filter to explosive joins only
 select
     EQUALITY_JOIN_CONDITION as GUILTY_JOIN
   , ROW_MULTIPLIER
