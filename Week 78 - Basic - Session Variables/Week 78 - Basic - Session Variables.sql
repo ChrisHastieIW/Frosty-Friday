@@ -1,7 +1,7 @@
 
 -- Frosty Friday Challenge
--- Week 76 - Intermediate - Tasks
--- https://frostyfriday.org/blog/2024/01/12/week-76-intermediate/
+-- Week 78 - Basic - Session Variables
+-- https://frostyfriday.org/blog/2024/01/26/week-78-basic/
 
 -------------------------------
 -- Environment Configuration
