@@ -1,7 +1,7 @@
 
 -- Frosty Friday Challenge
 -- Week 82 - Basic - Staging Files
--- https://frostyfriday.org/blog/2024/02/16/week-81-intermediate/
+-- https://frostyfriday.org/blog/2024/02/23/week-82-basic/
 
 -------------------------------
 -- Environment Configuration
