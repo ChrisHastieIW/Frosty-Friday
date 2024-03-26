@@ -1,0 +1,30 @@
+manifest_version: 1
+
+version:
+  name: V1
+  label: Version One
+  comment: The first version of the application
+
+artifacts:
+  setup_script: scripts/setup.sql
+  default_streamlit: app_schema.streamlit
+
+configuration:
+  log_level: debug
+  trace_level: off
+
+privileges:
+
+  - CREATE DATABASE:
+      description: "Permission to create databases within the account"
+
+references:
+
+- target_table:
+    label: "target table"
+    description: "Target table that the app can access"
+    privileges:
+      - SELECT
+    object_type: TABLE
+    multi_valued: false
+    register_callback: APP_SCHEMA.UPDATE_REFERENCE
