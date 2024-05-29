@@ -68,7 +68,7 @@ create or replace procedure "ADD_1" (TABLE_NAME varchar, COLUMN_NAME varchar)
   runtime_version = '3.10'
   packages = ('snowflake-snowpark-python')
   imports = ('@FF_WEEK_91/branches/main/add_1.py')
-  handler = 'add_1.add_one_to_column';
+  handler = 'add_1.add_one_to_column'
 ;
 
 -- Test the stored procedure
