@@ -38,6 +38,10 @@ from table("INFORMATION_SCHEMA"."DATA_TRANSFER_HISTORY"(
   , DATE_RANGE_END => current_timestamp()
 ))
 group by all
+order by
+    "START_TIME" desc
+  , "SOURCE_CLOUD"
+  , "TARGET_CLOUD"
 ;
 
 -- Aggregated to full total over the last 24 hours
