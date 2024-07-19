@@ -1,6 +1,8 @@
 
 # Frosty Friday
 
+[![LinkedIn Banner](<./images/LinkedIn Banner 2024 - with headshot.png>)](https://www.linkedin.com/in/chris-hastie/)
+
 This is my repository of solutions for the weekly [Frosty Friday](https://frostyfriday.org/) set of Snowflake challenges.
 
 ## Shared InterWorks Snowpark Package
